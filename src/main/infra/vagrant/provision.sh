@@ -8,6 +8,8 @@ echo "Setting environment variables for Java 8.."
 sudo apt-get install -y oracle-java8-set-default
 
 sudo apt-get install unzip
+sudo apt-get install maven
+
 
 
 rm -rf graphhopper
@@ -18,4 +20,7 @@ wget https://oss.sonatype.org/content/groups/public/com/graphhopper/graphhopper-
 sudo cp -r /vagrant/osm ./
 unzip graphhopper-web-0.8.0-bin.zip
 nohup java -jar *.jar jetty.resourcebase=webapp config=config-example.properties datareader.file=osm/buckinghamshire-latest.osm.pbf &
+
+cd /vagrant
+mvn clean install
 
