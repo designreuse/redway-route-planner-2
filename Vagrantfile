@@ -13,10 +13,14 @@ Vagrant.configure("2") do |config|
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
   config.vm.box = "ubuntu/trusty64"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/install-java.sh"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/install-maven.sh"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/setup-graphhopper.sh"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/run-app.sh"
 
-  config.vm.provision "shell", path: "src/main/infra/vagrant/provision.sh"
-
-  config.vm.network "forwarded_port", guest: 8989, host: 8989
+  config.vm.network "forwarded_port", guest: 8989, host: 8990
+  config.vm.network "forwarded_port", guest: 5005, host: 5005
+  config.vm.network "forwarded_port", guest: 8080, host: 8080
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
