@@ -1,13 +1,15 @@
 package org.mkhackathon.routing;
 
-public class RouterRequest {
+public class GeoCodedRoutingRequest {
 
     private final Point start;
     private final Point end;
+    private final RoutingRequest routingRequest;
 
-    public RouterRequest(RouterRequestBuilder builder) {
+    GeoCodedRoutingRequest(RouterRequestBuilder builder) {
         this.start = builder.start;
         this.end = builder.end;
+        this.routingRequest = builder.routingRequest;
     }
 
     public Point getStart() {
@@ -18,15 +20,17 @@ public class RouterRequest {
         return end;
     }
 
-    public static RouterRequestBuilder builder() {
-        return new RouterRequestBuilder();
+    public static RouterRequestBuilder builder(RoutingRequest routingRequest) {
+        return new RouterRequestBuilder(routingRequest);
     }
 
     public static final class RouterRequestBuilder {
         private Point start;
         private Point end;
+        private RoutingRequest routingRequest;
 
-        private RouterRequestBuilder() {
+        private RouterRequestBuilder(RoutingRequest routingRequest) {
+            this.routingRequest = routingRequest;
         }
 
         public RouterRequestBuilder withStart(Point start) {
@@ -39,8 +43,8 @@ public class RouterRequest {
             return this;
         }
 
-        public RouterRequest build() {
-            return new RouterRequest(this);
+        public GeoCodedRoutingRequest build() {
+            return new GeoCodedRoutingRequest(this);
         }
     }
 }

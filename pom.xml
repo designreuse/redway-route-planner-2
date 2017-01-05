@@ -6,6 +6,8 @@
     <properties>
         <springBootVersion>1.4.3.RELEASE</springBootVersion>
         <feignVersion>8.18.0</feignVersion>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <groupId>org.mkhackathon</groupId>
@@ -37,6 +39,29 @@
             <artifactId>directions-api-java-client</artifactId>
             <version>0.8.2.1</version>
         </dependency>
+        <dependency>
+            <groupId>fr.dudie</groupId>
+            <artifactId>nominatim-api</artifactId>
+            <version>3.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.10.19</version>
+            <scope>test</scope>
+        </dependency>
+
 
     </dependencies>
 
@@ -48,10 +73,11 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <jvmArguments>
-                        -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005
+                        -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=5005
                     </jvmArguments>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
