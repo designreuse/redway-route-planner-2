@@ -4,7 +4,6 @@ import com.graphhopper.GHRequest;
 import com.graphhopper.util.shapes.GHPoint;
 import org.mkhackathon.routing.GeoCodedRoutingRequest;
 import org.mkhackathon.routing.Point;
-import org.mkhackathon.routing.RoutingRequest;
 
 public class GraphhopperRequestFactory {
 
