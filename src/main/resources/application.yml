@@ -1,2 +1,5 @@
 geocoder:
   email: ${OSM_EMAIL:louis@test.co.uk}
+
+graphhopper:
+  routingUrl: http://localhost:8989/route
