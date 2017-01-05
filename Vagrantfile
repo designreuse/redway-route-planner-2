@@ -16,9 +16,9 @@ Vagrant.configure("2") do |config|
   config.vm.provision :shell, path: "src/main/infra/vagrant/install-java.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/install-maven.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/setup-graphhopper.sh"
-  config.vm.provision :shell, path: "src/main/infra/vagrant/run-app.sh"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/run-graphhopper.sh", run: 'always'
 
-  config.vm.network "forwarded_port", guest: 8989, host: 8990
+  config.vm.network "forwarded_port", guest: 8989, host: 8989
   config.vm.network "forwarded_port", guest: 5005, host: 5005
   config.vm.network "forwarded_port", guest: 8080, host: 8080
 
@@ -55,7 +55,7 @@ Vagrant.configure("2") do |config|
   #   vb.gui = true
   #
   #   # Customize the amount of memory on the VM:
-  #   vb.memory = "1024"
+     vb.memory = "2048"
   # end
   #
   # View the documentation for the provider you are using for more
