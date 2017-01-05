@@ -21,8 +21,6 @@ public class OsmGeoCoder implements GeoCoder {
 
     private final NominatimClient nominatimClient;
 
-    private static final Logger LOG = LoggerFactory.getLogger(OsmGeoCoder.class);
-
     @Autowired
     public OsmGeoCoder(NominatimClient nominatimClient) {
         this.nominatimClient = nominatimClient;

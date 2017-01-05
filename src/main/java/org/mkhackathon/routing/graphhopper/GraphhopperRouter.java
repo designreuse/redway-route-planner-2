@@ -28,7 +28,7 @@ public class GraphhopperRouter implements Router {
         if (!ghResponse.hasErrors()) {
             return buildResponse(ghResponse);
         }
-        throw new RuntimeException(ghResponse.getErrors().get(0));
+        throw new RoutingException(ghResponse.getErrors().get(0));
     }
 
     private RoutingResponse buildResponse(GHResponse ghResponse) {

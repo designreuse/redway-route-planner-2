@@ -18,6 +18,7 @@ import java.util.Collections;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.assertThat;
+import static org.junit.Assert.fail;
 import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)
@@ -44,7 +45,9 @@ public class OsmGeoCoderTest {
                     .build());
         } catch (LocationNotFoundException exception) {
             assertThat(exception.getMessage(), equalTo("Walton Park, Milton Keynes could not be found"));
+            return;
         }
+        fail("Exception not thrown");
     }
 
     @Test
