@@ -15,6 +15,7 @@ Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu/trusty64"
   config.vm.provision :shell, path: "src/main/infra/vagrant/install-java.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/install-maven.sh"
+  config.vm.provision :shell, path: "src/main/infra/vagrant/install-node.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/setup-graphhopper.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/run-graphhopper.sh", run: 'always'
 
@@ -55,6 +56,7 @@ Vagrant.configure("2") do |config|
      vb.memory = "2048"
   end
   #
+  # View the documentation for the provider you are using for more
   # View the documentation for the provider you are using for more
   # information on available options.
 
