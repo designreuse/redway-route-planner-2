@@ -16,4 +16,5 @@ target
 hs_err_pid*
 
 src/main/resources/static
-src/main/resources/frontend/node_modules
+src/main/frontend/node_modules
+src/main/frontend/node

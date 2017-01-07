@@ -7,7 +7,7 @@
     "install": "rimraf dist && npm run build",
     "build": "npm run static",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "static": "copyfiles -u 1 src/**/* ../static",
+    "static": "copyfiles -u 1 src/**/* ../resources/static",
     "watch": "npm-watch"
   },
   "watch": {
