@@ -6,12 +6,14 @@
   "scripts": {
     "install": "rimraf dist && npm run build",
     "build": "npm run static",
+    "build-dev": "npm run build && npm run copy-to-target",
+    "copy-to-target": "copyfiles -u 2 ../resources/static/**/* ../../../target/classes",
     "test": "echo \"Error: no test specified\" && exit 1",
     "static": "copyfiles -u 1 src/**/* src/* ../resources/static",
     "watch": "npm-watch"
   },
   "watch": {
-    "build": "src/**/*"
+    "build-dev": "src/*"
   },
   "author": "",
   "license": "ISC",
