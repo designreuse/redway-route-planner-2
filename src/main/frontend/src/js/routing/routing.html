@@ -1,6 +1,14 @@
-<div class="map-bg">
-
-    <destination-picker></destination-picker>
+<div class="routing">
+    <destination-picker search="search"></destination-picker>
+    <leaflet id="map"
+             center="map.center"
+             markers="map.markers"
+             defaults="map.defaults"
+             paths="map.paths"
+             bounds="map.bounds"
+             width="100%"
+             height="100%">
+    </leaflet>
 
     <!-- Steps box
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

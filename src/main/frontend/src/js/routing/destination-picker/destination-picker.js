@@ -1,15 +1,29 @@
 (function(angular) {
 
-    function ctrl() {
+    function ctrl($scope) {
 
+        let  route = {};
+
+        angular.extend($scope, {
+            findRoute,
+            route
+        });
+
+        function findRoute() {
+            $scope.search(route.start, route.end, {});
+        }
     }
+
+    ctrl.$inject = ["$scope"];
 
     function destinationPicker() {
         return {
             restrict: "E",
             templateUrl: "js/routing/destination-picker/destination-picker.html",
             replace: true,
-            scope: {},
+            scope: {
+                search: "="
+            },
             controller: ctrl
         }
     }

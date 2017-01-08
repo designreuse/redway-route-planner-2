@@ -23,6 +23,17 @@ button.button2:hover { color: white; opacity: 0.9; }
 /* Map */
 .map-bg { background-image: url('../images/map.png'); background-repeat: no-repeat; background-size: cover; }
 
+body, .app, .routing {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.leaflet-container img {
+  max-height: none;
+  max-width: none;
+}
+
 /* User input area */
 .input-box { margin-top: 20px; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; }
 .route-input { opacity: 1; }
