@@ -14,6 +14,7 @@
     }
 
     angular.module("app", [
+        "routing"
     ])
     .config(Config)
     .directive("app", app);

@@ -1,0 +1,12 @@
+<div class="container input-box">
+    <div class="row">
+        <div class="">
+            <span class="minimiser" ng-click="toggleForm()"></span>
+            <form class="route-input ng-pristine ng-invalid ng-invalid-required" name="routeOptions" ng-class="{'minimised':minimiseForm}" _lpchecked="1">
+                <input type="text" ng-model="options.startingPoint" required="" placeholder="Starting Point" class="ng-pristine ng-empty ng-invalid ng-invalid-required ng-touched">
+                <input type="text" ng-model="options.endPoint" required="" placeholder="End Point" class="ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required">
+                <button type="submit" class="btn-primary find-my-route" ng-disabled="routeOptions.$invalid" ng-click="findMyRoute()" disabled="disabled">Find my route</button>
+            </form>
+        </div>
+    </div>
+</div>
