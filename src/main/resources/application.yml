@@ -3,3 +3,12 @@ geocoder:
 
 graphhopper:
   routingUrl: http://localhost:8989/route
+
+server:
+    port: 8443
+    ssl:
+      key-store: classpath:keystore.p12
+      key-store-password: 123456
+      keyStoreType: PKCS12
+      keyAlias: tomcat
+

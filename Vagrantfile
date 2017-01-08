@@ -19,7 +19,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision :shell, path: "src/main/infra/vagrant/setup-graphhopper.sh"
   config.vm.provision :shell, path: "src/main/infra/vagrant/run-graphhopper.sh", run: 'always'
 
-  config.vm.network "forwarded_port", guest: 8989, host: 8989
+  config.vm.network "forwarded_port", guest: 8443, host: 8443
   config.vm.network "forwarded_port", guest: 5005, host: 5005
   config.vm.network "forwarded_port", guest: 8080, host: 8080
 
