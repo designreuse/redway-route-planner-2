@@ -7,9 +7,9 @@
     "install": "rimraf dist && npm run build",
     "build": "npm run static",
     "build-dev": "npm run build && npm run copy-to-target",
-    "copy-to-target": "copyfiles -u 2 ../resources/static/**/* ../../../target/classes",
+    "copy-to-target": "cpx '../resources/static/**/*' ../../../target/classes/static",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "static": "copyfiles -u 1 src/**/* src/* ../resources/static",
+    "static": "cpx 'src/**/*' ../resources/static",
     "watch": "npm-watch"
   },
   "watch": {
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "copyfiles": "^1.0.0",
+    "cpx": "^1.5.0",
     "npm-watch": "^0.1.7",
     "rimraf": "^2.5.4"
   }
