@@ -1,6 +1,6 @@
 (function(angular) {
 
-    function ctrl($scope, leafletData) {
+    function ctrl($scope, $http, leafletData) {
         let map = {
             center: {},
             defaults: {
@@ -15,20 +15,41 @@
             map,
         });
 
+        function searchSuccess(response) {
+            let route = response.data.route;
+            map.paths.path = {
+                type: "polyline",
+                latlngs: route.points,
+                color: "red",
+                weight: 3
+            };
+            map.bounds = {
+                southWest: {
+                    lat: route.boundingBox.minLat,
+                    lng: route.boundingBox.minLng
+                },
+                northEast: {
+                    lat: route.boundingBox.maxLat,
+                    lng: route.boundingBox.maxLng
+                }
+            };
+        }
 
         function search(start, end, options) {
-            console.log(start);
+            $http.post("/routing", {
+                start: start,
+                end: end
+            }).then(searchSuccess);
         }
 
         leafletData.getMap('map').then(function(map) {
             map.locate({
                 setView: true,
                 maxZoom: 16,
-                watch: true,
                 enableHighAccuracy: true
             });
             map.on('locationfound', function (e) {
-                angular.extend($scope, {
+                angular.extend($scope.map, {
                     markers: {
                         me: {
                             lat: e.latlng.lat,
@@ -36,11 +57,12 @@
                         }
                     }
                 });
+                map.stopLocate();
             });
         });
     }
 
-    ctrl.$inject = ["$scope", "leafletData"];
+    ctrl.$inject = ["$scope", "$http", "leafletData"];
 
     function routing() {
         return {

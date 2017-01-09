@@ -10,7 +10,7 @@
         });
 
         function findRoute() {
-            $scope.search(route.start, route.end, {});
+            $scope.search({text: route.start}, {text: route.end}, {});
         }
     }
 
