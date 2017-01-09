@@ -3,6 +3,7 @@ package org.mkhackathon.routing.graphhopper;
 import com.graphhopper.GHResponse;
 import com.graphhopper.PathWrapper;
 import com.graphhopper.api.GraphHopperWeb;
+import com.graphhopper.util.shapes.BBox;
 import com.graphhopper.util.shapes.GHPoint3D;
 import org.mkhackathon.routing.*;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -37,7 +38,13 @@ public class GraphhopperRouter implements Router {
                 StreamSupport.stream(pathWrapper.getPoints().spliterator(), false)
                 .map(this::convertPoint)
                 .collect(Collectors.toList());
-        return new RoutingResponse(new Route(points));
+        BoundingBox boundingBox = getBoundingBox(pathWrapper);
+        return new RoutingResponse(new Route(points, boundingBox));
+    }
+
+    private BoundingBox getBoundingBox(PathWrapper pathWrapper) {
+        BBox bBox = pathWrapper.calcRouteBBox(BBox.createInverse(false));
+        return new BoundingBox(bBox.minLat, bBox.maxLat, bBox.minLon, bBox.maxLon);
     }
 
     private Point convertPoint(GHPoint3D ghPoint3D) {

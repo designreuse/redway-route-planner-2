@@ -13,8 +13,4 @@ public class App {
         SpringApplication.run(App.class);
     }
 
-    @RequestMapping("/")
-    public String index() {
-        return "Hello!";
-    }
 }
