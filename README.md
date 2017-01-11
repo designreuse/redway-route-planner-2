@@ -8,6 +8,7 @@ To run the development environment:
 * ssh into the VM `vagrant ssh`
 * `cd /vagrant`
 * `/opt/maven/bin/mvn spring-boot:run`
+* Navigate to `https://localhost:8443`
 
 This will run the application the Spring Boot Maven Plugin which will monitor the classpath for changes and reload the app.
 
