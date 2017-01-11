@@ -3,7 +3,7 @@
 
 To run the development environment:
 
-* Install [Vagrant](https://www.vagrantup.com)
+* Install [Vagrant](https://www.vagrantup.com) and Virtual Box
 * Navigate to the root of the repo
 * Run `vagrant up`
 * ssh into the VM `vagrant ssh`
