@@ -34,12 +34,16 @@ public class GraphhopperRouter implements Router {
 
     private RoutingResponse buildResponse(GHResponse ghResponse) {
         PathWrapper pathWrapper = ghResponse.getBest();
-        List<Point> points =
-                StreamSupport.stream(pathWrapper.getPoints().spliterator(), false)
-                .map(this::convertPoint)
-                .collect(Collectors.toList());
+        List<Point> points = convertPoints(pathWrapper);
         BoundingBox boundingBox = getBoundingBox(pathWrapper);
-        return new RoutingResponse(new Route(points, boundingBox));
+        List<Step> steps = StepConverter.convert(pathWrapper.getInstructions());
+        return new RoutingResponse(new Route(points, boundingBox, steps));
+    }
+
+    private List<Point> convertPoints(PathWrapper pathWrapper) {
+        return StreamSupport.stream(pathWrapper.getPoints().spliterator(), false)
+        .map(this::convertPoint)
+        .collect(Collectors.toList());
     }
 
     private BoundingBox getBoundingBox(PathWrapper pathWrapper) {
