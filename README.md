@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/mkhackathon/redway-route-planner-2.svg?branch=master)](https://travis-ci.org/mkhackathon/redway-route-planner-2)
 # MK Hackathon Redway Route Planner
 
 To run the development environment:
