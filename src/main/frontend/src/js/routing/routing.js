@@ -9,14 +9,17 @@
             paths: {},
             bounds: {},
             markers: {}
-        };
+        },
+        route = {};
+
         angular.extend($scope, {
             search,
             map,
+            route
         });
 
         function searchSuccess(response) {
-            let route = response.data.route;
+            angular.extend(route, response.data.route);
             map.paths.path = {
                 type: "polyline",
                 latlngs: route.points,
@@ -77,6 +80,7 @@
 
     angular.module("routing", [
         "routing.destination-picker",
+        "routing.steps",
         "leaflet-directive"
     ])
     .directive("routing", routing);

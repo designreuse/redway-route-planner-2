@@ -1,0 +1,32 @@
+<div ng-show="route.steps.length" class="container steps-box-wrapper no-spacing">
+
+    <!-- Button row start -->
+    <div class="row">
+        <div class=" column steps-box-button">
+            <p>View steps</p> <img src="images/arrow.png" class="steps-box-icon" />
+        </div>
+    </div>
+    <!-- Button row end -->
+
+    <div class="row number-of-routes-row">
+        <div class="">
+            <p class="number-of-routes"><span class="route-number">Route 1</span> - <span class="eta-number">ETA 10:10am</span></p>
+            <p class="edit"><a href="#">Back to routes</a></p>
+        </div>
+    </div>
+
+    <!-- Steps section start -->
+    <div class="column no-margin steps-box route-1">
+        <div ng-repeat="step in route.steps" class="row a-step">
+            <div class="float-left">
+                <p class="step-text"><img src="images/arrow.png" class="step-icon" />{{step.instruction}}</p>
+            </div>
+            <div class="float-right">
+                <p class="step-distance">{{step.distance}} metres</p>
+                <p class="step-time">{{step.time}} minutes</p>
+            </div>
+        </div>
+    </div>
+    <!-- Steps section end -->
+
+</div>
