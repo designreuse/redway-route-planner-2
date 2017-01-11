@@ -13,7 +13,14 @@ public class Location {
     }
 
     public String get() {
+        if (isPostcode()) {
+            return text;
+        }
         return text + ", Milton Keynes";
+    }
+
+    private boolean isPostcode() {
+        return text.matches("MK.+");
     }
 
     public String toString() {
