@@ -5,10 +5,13 @@ import com.graphhopper.PathWrapper;
 import com.graphhopper.api.GraphHopperWeb;
 import com.graphhopper.util.shapes.BBox;
 import com.graphhopper.util.shapes.GHPoint3D;
+import org.apache.tomcat.jni.Local;
 import org.mkhackathon.routing.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
+import java.time.temporal.ChronoField;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
@@ -34,11 +37,21 @@ public class GraphhopperRouter implements Router {
 
     private RoutingResponse buildResponse(GHResponse ghResponse) {
         PathWrapper pathWrapper = ghResponse.getBest();
-        List<Point> points = convertPoints(pathWrapper);
-        BoundingBox boundingBox = getBoundingBox(pathWrapper);
-        List<Step> steps = StepConverter.convert(pathWrapper.getInstructions());
-        return new RoutingResponse(new Route(points, boundingBox, steps));
+
+        return new RoutingResponse(Route.builder()
+                .withEta(getEta(pathWrapper))
+                .withPoints(convertPoints(pathWrapper))
+                .withSteps(StepConverter.convert(pathWrapper.getInstructions()))
+                .withBoundingBox(getBoundingBox(pathWrapper))
+                .build());
     }
+
+    private LocalDateTime getEta(PathWrapper pathWrapper) {
+        LocalDateTime now = LocalDateTime.now();
+        return now.plus(pathWrapper.getTime(), ChronoField.MILLI_OF_DAY.getBaseUnit());
+    }
+
+
 
     private List<Point> convertPoints(PathWrapper pathWrapper) {
         return StreamSupport.stream(pathWrapper.getPoints().spliterator(), false)

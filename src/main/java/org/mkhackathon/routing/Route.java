@@ -1,17 +1,30 @@
 package org.mkhackathon.routing;
 
+import java.time.LocalDateTime;
 import java.util.List;
 
 public class Route {
 
+    private final LocalDateTime eta;
+    private final int minutes;
     private final List<Point> points;
     private final BoundingBox boundingBox;
     private final List<Step> steps;
 
-    public Route(List<Point> points, BoundingBox boundingBox, List<Step> steps) {
-        this.points = points;
-        this.boundingBox = boundingBox;
-        this.steps = steps;
+    public Route(RouteBuilder builder) {
+        this.eta = builder.eta;
+        this.minutes = builder.minutes;
+        this.points = builder.points;
+        this.boundingBox = builder.boundingBox;
+        this.steps = builder.steps;
+    }
+
+    public LocalDateTime getEta() {
+        return eta;
+    }
+
+    public int getMinutes() {
+        return minutes;
     }
 
     public List<Point> getPoints() {
@@ -24,5 +37,50 @@ public class Route {
 
     public List<Step> getSteps() {
         return steps;
+    }
+
+
+    public static RouteBuilder builder() {
+        return new RouteBuilder();
+    }
+
+    public static final class RouteBuilder {
+        private LocalDateTime eta;
+        private int minutes;
+        private List<Point> points;
+        private BoundingBox boundingBox;
+        private List<Step> steps;
+
+        private RouteBuilder() {
+        }
+
+        public RouteBuilder withEta(LocalDateTime eta) {
+            this.eta = eta;
+            return this;
+        }
+
+        public RouteBuilder withMinutes(int minutes) {
+            this.minutes = minutes;
+            return this;
+        }
+
+        public RouteBuilder withPoints(List<Point> points) {
+            this.points = points;
+            return this;
+        }
+
+        public RouteBuilder withBoundingBox(BoundingBox boundingBox) {
+            this.boundingBox = boundingBox;
+            return this;
+        }
+
+        public RouteBuilder withSteps(List<Step> steps) {
+            this.steps = steps;
+            return this;
+        }
+
+        public Route build() {
+            return new Route(this);
+        }
     }
 }
