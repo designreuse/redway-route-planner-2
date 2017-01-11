@@ -4,14 +4,14 @@ public class Step {
 
     private final String instruction;
     private final Point point;
-    private final int timeFromStart;
-    private final double distanceFromStart;
+    private final int time;
+    private final double distance;
 
     private Step(StepBuilder builder) {
         this.instruction = builder.instruction;
         this.point = builder.point;
-        this.timeFromStart = builder.timeFromStart;
-        this.distanceFromStart = builder.distanceFromStart;
+        this.time = builder.time;
+        this.distance = builder.distance;
     }
 
     public String getInstruction() {
@@ -22,12 +22,12 @@ public class Step {
         return point;
     }
 
-    public int getTimeFromStart() {
-        return timeFromStart;
+    public int getTime() {
+        return time;
     }
 
-    public double getDistanceFromStart() {
-        return distanceFromStart;
+    public double getDistance() {
+        return distance;
     }
 
 
@@ -38,8 +38,8 @@ public class Step {
     public static final class StepBuilder {
         private String instruction;
         private Point point;
-        private int timeFromStart;
-        private double distanceFromStart;
+        private int time;
+        private double distance;
 
         private StepBuilder() {
         }
@@ -54,13 +54,13 @@ public class Step {
             return this;
         }
 
-        public StepBuilder withTimeFromStart(int timeFromStart) {
-            this.timeFromStart = timeFromStart;
+        public StepBuilder withTime(int time) {
+            this.time = time;
             return this;
         }
 
-        public StepBuilder withDistanceFromStart(double distanceFromStart) {
-            this.distanceFromStart = distanceFromStart;
+        public StepBuilder withDistance(double distance) {
+            this.distance = distance;
             return this;
         }
 

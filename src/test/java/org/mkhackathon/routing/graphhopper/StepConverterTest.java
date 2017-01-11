@@ -2,7 +2,6 @@ package org.mkhackathon.routing.graphhopper;
 
 import com.graphhopper.util.Instruction;
 import com.graphhopper.util.InstructionList;
-import org.hamcrest.CoreMatchers;
 import org.junit.Before;
 import org.junit.Test;
 import org.mkhackathon.routing.Step;
@@ -31,8 +30,8 @@ public class StepConverterTest {
         assertThat(steps.size(), is(1));
         assertThat(steps.get(0).getInstruction(), equalTo("Continue"));
         assertThat(steps.get(0).getInstruction(), equalTo("Continue"));
-        assertThat(steps.get(0).getDistanceFromStart(), equalTo(0.03));
-        assertThat(steps.get(0).getTimeFromStart(), equalTo(1));
+        assertThat(steps.get(0).getDistance(), equalTo(0.03));
+        assertThat(steps.get(0).getTime(), equalTo(1));
 
 
     }

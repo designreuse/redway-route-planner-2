@@ -1,6 +1,5 @@
 package org.mkhackathon.routing.graphhopper;
 
-import com.graphhopper.PathWrapper;
 import com.graphhopper.util.Instruction;
 import com.graphhopper.util.InstructionList;
 import org.mkhackathon.routing.Step;
@@ -23,8 +22,8 @@ public class StepConverter {
     static Step convert(Instruction instruction) {
         return Step.builder()
                 .withInstruction(instruction.getName())
-                .withDistanceFromStart(convertDistanceFromMetresToMiles(instruction))
-                .withTimeFromStart(convertTimeFromMillisToMeters(instruction))
+                .withDistance(convertDistanceFromMetresToMiles(instruction))
+                .withTime(convertTimeFromMillisToMeters(instruction))
                 .build();
     }
 
