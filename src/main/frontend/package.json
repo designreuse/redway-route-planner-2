@@ -13,7 +13,11 @@
     "watch": "npm-watch"
   },
   "watch": {
-    "build-dev": "src/*"
+    "build-dev": {
+      "patterns": ["src"],
+      "extensions": "js,html, css",
+      "quiet": true
+    }
   },
   "author": "",
   "license": "ISC",
