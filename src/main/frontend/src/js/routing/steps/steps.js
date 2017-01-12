@@ -1,12 +1,20 @@
-(function(angular) {
+(function(angular, $) {
 
     function ctrl($scope) {
         angular.extend($scope, {
-            showSteps
+            showSteps,
+            viewSteps
         });
 
         function showSteps() {
             return $scope.route.steps && $scope.route.steps.length;
+        }
+
+        function viewSteps() {
+            $( ".steps-box" ).slideToggle( "slow", function() {
+                // Animation complete.
+            });
+            $( ".steps-box-icon" ).toggleClass( "rotated", 3000, "easeOutSine" );
         }
     }
 
@@ -29,4 +37,4 @@
     ])
     .directive("steps", steps);
 
-})(window.angular);
+})(window.angular, window.$);
