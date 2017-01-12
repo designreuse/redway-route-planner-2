@@ -7,12 +7,12 @@ graphhopper:
   routingUrl: http://localhost:8989/route
 
 server:
-  port: 8443
+  port: ${SERVER_PORT:8443}
   ssl:
-    key-store: classpath:keystore.p12
-    key-store-password: 123456
-    keyStoreType: PKCS12
-    keyAlias: tomcat
+    key-store: ${SSL_CERT_LOCATION:classpath:keystore.p12}
+    key-store-password: ${SSL_KEYSTORE_PASSWORD:123456}
+    keyStoreType: ${SSL_KEYSTORE_TYPE:PKCS12}
+    keyAlias: ${SSL_KEY_ALIAS:tomcat}
 
 spring:
   jackson:
