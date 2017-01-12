@@ -16,7 +16,6 @@ import org.springframework.stereotype.Service;
 import java.io.IOException;
 import java.util.List;
 
-@Service
 public class OsmGeoCoder implements GeoCoder {
 
     private final NominatimClient nominatimClient;
@@ -45,7 +44,7 @@ public class OsmGeoCoder implements GeoCoder {
         if (!addresses.isEmpty()) {
             return addresses.get(0);
         }
-        throw new LocationNotFoundException(location + " could not be found");
+        throw new LocationNotFoundException(location);
     }
 
     private List<Address> getAddresses(Location location) {

@@ -20,3 +20,9 @@ To make changes to the front end code and see them reflected in the running app 
 
 This will watch all files in the `src/main/frontend/src` directory and copy them to the `src/main/resources/static` directory when changed where they will be served up by the web server (actually it'll copy them into `target` as well so you don't have to rebuild that folder if you're running in IntellJ).
 
+### Geocoding
+
+There are two implementations of the geocoding API to turn text into coordinates. One provided for OSM and one for Google.
+To use the Google implementation you'll need an API key. Once you have it set it as the environment variable `GOOGLE_API_KEY`.
+
+
