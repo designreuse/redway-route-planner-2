@@ -1,5 +1,17 @@
 (function(angular) {
 
+    function ctrl($scope) {
+        angular.extend($scope, {
+            showSteps
+        });
+
+        function showSteps() {
+            return $scope.route.steps && $scope.route.steps.length;
+        }
+    }
+
+    ctrl.$inject = ["$scope"];
+
     function steps() {
         return {
             restrict: "E",
@@ -7,7 +19,8 @@
             replace: true,
             scope: {
                 route: "="
-            }
+            },
+            controller: ctrl
         }
     }
 

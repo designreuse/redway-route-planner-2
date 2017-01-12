@@ -34,8 +34,10 @@ body, .app, .routing {
   max-width: none;
 }
 
+
+
 /* User input area */
-.input-box { margin-top: 20px; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; }
+.input-box { margin-top: 20px; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; position: absolute; z-index: 1000}
 .route-input { opacity: 1; }
 form.route-input { margin-bottom: 0px; margin-left: 10px; }
 .minimiser { position: absolute; top: 20px; right: 20px; height: 10px; width: 15px; background-image: url('../images/minus.png'); background-size: contain; background-position: 50% 50%; background-repeat: no-repeat; cursor: pointer; }
@@ -44,7 +46,7 @@ form.route-input { margin-bottom: 0px; margin-left: 10px; }
 .minimiser.minimised-icon { position: absolute; top: 15px; right: 15px; height: 20px; width: 20px; background-image: url('../images/map-icon.png'); background-size: contain; background-position: 50% 50%; background-repeat: no-repeat; cursor: pointer; }
 
 /* Steps */
-.steps-box-wrapper { position: absolute; bottom: 0px; width: 100%; min-width: 100%; }
+.steps-box-wrapper { position: absolute; bottom: 0px; width: 100%; min-width: 100%; z-index: 1000}
 .steps-box-button { text-align: center; background-color: white; width: 130px; position: relative; left: calc(50% - 50px); padding: 0px 5px; cursor: pointer; }
 .steps-box-button p { margin-bottom: 0px; float: left; padding: 5px; }
 .steps-box-icon { width: 15px; height: 15px; float: right; padding: 6px; padding-top: 10px; }
