@@ -39,7 +39,7 @@
         }
 
         function search(start, end, options) {
-            $http.post("/routing", {
+            return $http.post("/routing", {
                 start: start,
                 end: end
             }).then(searchSuccess);

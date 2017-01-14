@@ -1,4 +1,4 @@
-(function(angular) {
+(function(angular, $) {
 
     function ctrl($scope) {
 
@@ -6,11 +6,20 @@
 
         angular.extend($scope, {
             findRoute,
+            toggleForm,
             route
         });
 
         function findRoute() {
-            $scope.search({text: route.start}, {text: route.end}, {});
+
+            $scope.search({text: route.start}, {text: route.end}, {})
+                .then(toggleForm);
+        }
+
+        function toggleForm() {
+            $( ".input-box" ).toggleClass( "minimised", 1000, "easeOutSine" );
+            $( ".minimiser" ).toggleClass( "minimised-icon", 1000, "easeOutSine" );
+            $( ".route-input" ).toggleClass( "hide", 500, "easeOutSine" );
         }
     }
 
@@ -33,4 +42,4 @@
     ])
     .directive("destinationPicker", destinationPicker);
 
-})(window.angular);
+})(window.angular, window.$);
