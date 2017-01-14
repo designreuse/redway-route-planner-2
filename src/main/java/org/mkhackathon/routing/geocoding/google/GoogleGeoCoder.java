@@ -10,10 +10,14 @@ import org.mkhackathon.routing.Point;
 import org.mkhackathon.routing.RoutingRequest;
 import org.mkhackathon.routing.geocoding.GeoCoder;
 import org.mkhackathon.routing.geocoding.LocationNotFoundException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class GoogleGeoCoder implements GeoCoder {
 
     private final GeoApiContext geoApiContext;
+
+    private static final Logger LOG = LoggerFactory.getLogger(GoogleGeoCoder.class);
 
     public GoogleGeoCoder(GeoApiContext geoApiContext) {
         this.geoApiContext = geoApiContext;
@@ -31,7 +35,8 @@ public class GoogleGeoCoder implements GeoCoder {
         try {
             return getPoint(location);
         } catch (Exception e) {
-            throw new RuntimeException(e);
+            LOG.error("Error from Google for " + location, e);
+            throw new LocationNotFoundException(location);
         }
     }
 

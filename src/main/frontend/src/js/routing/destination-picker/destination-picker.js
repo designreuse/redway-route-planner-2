@@ -11,9 +11,18 @@
         });
 
         function findRoute() {
-
+            route.error = "";
             $scope.search({text: route.start}, {text: route.end}, {})
-                .then(toggleForm);
+                .then(toggleForm)
+                .catch(handleError);
+        }
+
+        function handleError(response) {
+            if (response.status === 404) {
+                route.error = response.data.message;
+            } else {
+                route.error = "Sorry, an error occurred. Please find again."
+            }
         }
 
         function toggleForm() {

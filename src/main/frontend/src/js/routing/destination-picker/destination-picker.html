@@ -7,6 +7,7 @@
                 <input type="text" ng-model="route.end" required placeholder="End Point">
                 <button type="submit" class="btn-primary find-my-route" ng-disabled="routeOptions.$invalid" ng-click="findRoute()">Find my route</button>
             </form>
+            <p class="error-message" ng-if="route.error">{{route.error}}</p>
         </div>
     </div>
 </div>
