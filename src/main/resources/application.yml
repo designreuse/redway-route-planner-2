@@ -1,7 +1,7 @@
 geocoder:
   email: ${OSM_EMAIL:louis@test.co.uk}
   google:
-    apiKey: ${GOOGLE_API_KEY}
+    apiKey: ${GOOGLE_API_KEY:}
 
 graphhopper:
   routingUrl: http://localhost:8989/route
