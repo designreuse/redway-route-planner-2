@@ -11,7 +11,9 @@ To run the development environment:
 * `/opt/maven/bin/mvn spring-boot:run`
 * Navigate to `https://localhost:8443`
 
-This will run the application the Spring Boot Maven Plugin which will monitor the classpath for changes and reload the app.
+The routing is done using Graphhopper. The Graphhopper server is started automatically when the VM starts.
+
+Starting the app with Maven will run the application using the Spring Boot Maven Plugin which will monitor the classpath for changes and reload the app.
 
 To make changes to the front end code and see them reflected in the running app you'll need to run `npm watch`. This can be done from the host machine if you have Node.js installed. If not, you can ssh into the running Vagrant VM and run the following commands in there as Node.js is installed. Just first cd into `/vagrant`. 
 
