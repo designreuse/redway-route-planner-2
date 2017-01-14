@@ -34,6 +34,11 @@ body, .app, .routing {
   max-width: none;
 }
 
+.locator {
+  z-index: 1000;
+  position: absolute;
+  bottom: 20%;
+}
 
 
 /* User input area */

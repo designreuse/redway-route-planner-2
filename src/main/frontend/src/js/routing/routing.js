@@ -10,10 +10,12 @@
             bounds: {},
             markers: {}
         },
-        route = {};
+        route = {},
+        leafletMap;
 
         angular.extend($scope, {
             search,
+            locate,
             map,
             route
         });
@@ -45,13 +47,23 @@
             }).then(searchSuccess);
         }
 
-        leafletData.getMap('map').then(function(map) {
-            map.locate({
+        function assignMap(map) {
+            leafletMap = map;
+            return map;
+        }
+
+        function locate() {
+            leafletMap.stopLocate();
+            leafletMap.locate({
                 setView: true,
                 maxZoom: 16,
-                enableHighAccuracy: true
+                enableHighAccuracy: true,
+                watch: true
             });
-            map.on('locationfound', function (e) {
+        }
+
+        function setupLocationFoundEvent() {
+            leafletMap.on('locationfound', function (e) {
                 angular.extend($scope.map, {
                     markers: {
                         me: {
@@ -60,9 +72,26 @@
                         }
                     }
                 });
-                map.stopLocate();
             });
-        });
+        }
+
+        function setupMapDragEvent() {
+            leafletMap.on("drag", function(e) {
+                leafletMap.stopLocate();
+                leafletMap.locate({
+                    setView: false,
+                    maxZoom: 16,
+                    enableHighAccuracy: true,
+                    watch: false
+                });
+            });
+        }
+
+        leafletData.getMap('map')
+            .then(assignMap)
+            .then(locate)
+            .then(setupLocationFoundEvent)
+            .then(setupMapDragEvent);
     }
 
     ctrl.$inject = ["$scope", "$http", "leafletData"];
