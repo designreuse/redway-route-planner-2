@@ -1,0 +1,17 @@
+version: '2'
+services:
+  redways:
+    image: "redways"
+    hostname: redways
+    links:
+        - graphhopper:graphhopper
+    environment:
+      GRAPHHOPPER_URL: "http://graphhopper:8989/route"
+    ports:
+     - 8443:8443
+
+  graphhopper:
+    image: "graphhopper"
+    hostname: graphhopper
+    ports:
+      - 8989:8989
