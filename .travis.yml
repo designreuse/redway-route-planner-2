@@ -4,3 +4,5 @@ jdk:
 
 services:
   - docker
+
+after_success: mvn deploy
