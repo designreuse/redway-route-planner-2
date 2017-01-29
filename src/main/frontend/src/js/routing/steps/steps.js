@@ -13,6 +13,7 @@
 
         function toggleSteps() {
             $scope.stepsHidden = !$scope.stepsHidden;
+            $scope.imgFlip = !$scope.imgFlip;
         }
     }
 
