@@ -7,7 +7,8 @@
         angular.extend($scope, {
             findRoute,
             toggleForm,
-            route
+            route,
+            minimised: false
         });
 
         function findRoute() {
@@ -26,9 +27,7 @@
         }
 
         function toggleForm() {
-            $( ".input-box" ).toggleClass( "minimised", 1000, "easeOutSine" );
-            $( ".minimiser" ).toggleClass( "minimised-icon", 1000, "easeOutSine" );
-            $( ".route-input" ).toggleClass( "hide", 500, "easeOutSine" );
+            $scope.minimised = !$scope.minimised;
         }
     }
 

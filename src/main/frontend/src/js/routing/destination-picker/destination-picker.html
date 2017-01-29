@@ -1,13 +1,11 @@
-<div class="container input-box">
+<div ng-class="{minimised:minimised}" class="container input-box">
     <div class="row">
-        <div class="">
-            <span class="minimiser" ng-click="toggleForm()"></span>
-            <form class="route-input" name="routeOptions" ng-class="{'minimised':minimiseForm}">
-                <input type="text" ng-model="route.start" required placeholder="Starting Point">
-                <input type="text" ng-model="route.end" required placeholder="End Point">
-                <button type="submit" class="btn-primary find-my-route" ng-disabled="routeOptions.$invalid" ng-click="findRoute()">Find my route</button>
-            </form>
-            <p class="error-message" ng-if="route.error">{{route.error}}</p>
-        </div>
+        <span class="minimiser" ng-click="toggleForm()"></span>
+        <form class="route-input" name="routeOptions">
+            <input type="text" ng-model="route.start" required placeholder="Starting Point">
+            <input type="text" ng-model="route.end" required placeholder="End Point">
+            <button type="submit" class="btn-primary find-my-route" ng-disabled="routeOptions.$invalid" ng-click="findRoute()">Find my route</button>
+        </form>
+        <p class="error-message" ng-if="route.error">{{route.error}}</p>
     </div>
 </div>
