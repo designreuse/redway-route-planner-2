@@ -1,6 +1,6 @@
 (function(angular) {
 
-    function ctrl($scope, $http, leafletData) {
+    function ctrl($scope, routingBackend, leafletData) {
         let map = {
             center: {},
             defaults: {
@@ -40,11 +40,8 @@
             };
         }
 
-        function search(start, end, options) {
-            return $http.post("/routing", {
-                start: start,
-                end: end
-            }).then(searchSuccess);
+        function search(start, end) {
+            return routingBackend.search(start, end).then(searchSuccess);
         }
 
         function assignMap(map) {
@@ -94,7 +91,7 @@
             .then(setupMapDragEvent);
     }
 
-    ctrl.$inject = ["$scope", "$http", "leafletData"];
+    ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
 
     function routing() {
         return {
@@ -108,6 +105,7 @@
 
 
     angular.module("routing", [
+        "routing-backend",
         "routing.destination-picker",
         "routing.steps",
         "leaflet-directive"
