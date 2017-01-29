@@ -37,7 +37,7 @@ body, .app, .routing {
 .locator {
   z-index: 1000;
   position: absolute;
-  bottom: 5%;
+  bottom: 18%;
   left: 1%;
   width: 20px;
   height: 20px;
