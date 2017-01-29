@@ -2,7 +2,7 @@
 
     <!-- Button row start -->
     <div class="row">
-        <div class=" column steps-box-button" ng-click="viewSteps()">
+        <div class=" column steps-box-button" ng-click="toggleSteps()">
             <p>View steps</p> <img src="images/arrow.png" class="steps-box-icon" />
         </div>
     </div>
@@ -15,7 +15,7 @@
     </div>
 
     <!-- Steps section start -->
-    <div class="column no-margin steps-box route-1">
+    <div ng-class="{stepsHidden:stepsHidden}" class="column no-margin steps-box route-1">
         <div ng-repeat="step in route.steps" class="row a-step">
             <div class="float-left">
                 <p class="step-text"><img src="images/arrow.png" class="step-icon" />{{step.instruction}}</p>

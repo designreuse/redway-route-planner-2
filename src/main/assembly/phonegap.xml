@@ -12,5 +12,9 @@
             <directory>src/main/resources/static</directory>
             <outputDirectory>phonegap</outputDirectory>
         </fileSet>
+        <fileSet>
+            <directory>src/main/phonegap</directory>
+            <outputDirectory>phonegap</outputDirectory>
+        </fileSet>
     </fileSets>
 </assembly>

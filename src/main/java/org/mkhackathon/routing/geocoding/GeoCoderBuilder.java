@@ -22,7 +22,7 @@ public class GeoCoderBuilder {
 
     @Bean
     public GeoCoder getGeoCoder() {
-        if (googleApiKey != null) {
+        if (!"x".equals(googleApiKey)) {
             return buildGoogleGeoCoder();
         }
         return buildOsmGeoCoder();

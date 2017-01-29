@@ -78,6 +78,7 @@
 
     <!-- Package as an executable jar -->
     <build>
+        <finalName>${project.artifactId}</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -113,6 +114,7 @@
                     <workingDirectory>src/main/frontend</workingDirectory>
                 </configuration>
             </plugin>
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
@@ -131,5 +133,59 @@
             </plugin>
         </plugins>
     </build>
-
+    <profiles>
+        <profile>
+            <id>docker</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>com.spotify</groupId>
+                        <artifactId>docker-maven-plugin</artifactId>
+                        <version>0.4.13</version>
+                        <executions>
+                            <execution>
+                                <phase>package</phase>
+                                <id>redways</id>
+                                <goals>
+                                    <goal>build</goal>
+                                </goals>
+                                <configuration>
+                                    <imageName>redways</imageName>
+                                    <dockerDirectory>src/main/docker/app</dockerDirectory>
+                                    <resources>
+                                        <resource>
+                                            <targetPath>/target</targetPath>
+                                            <directory>${project.build.directory}</directory>
+                                            <include>*.jar</include>
+                                        </resource>
+                                    </resources>
+                                </configuration>
+                            </execution>
+                            <execution>
+                                <phase>package</phase>
+                                <id>graphhopper</id>
+                                <goals>
+                                    <goal>build</goal>
+                                </goals>
+                                <configuration>
+                                    <imageName>graphhopper</imageName>
+                                    <dockerDirectory>src/main/docker/graphhopper</dockerDirectory>
+                                    <resources>
+                                        <resource>
+                                            <targetPath>/osm</targetPath>
+                                            <directory>${pom.basedir}/osm</directory>
+                                            <include>*</include>
+                                        </resource>
+                                    </resources>
+                                </configuration>
+                            </execution>
+                        </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
 </project>

@@ -1,10 +1,10 @@
 geocoder:
   email: ${OSM_EMAIL:louis@test.co.uk}
   google:
-    apiKey: ${GOOGLE_API_KEY:}
+    apiKey: ${GOOGLE_API_KEY:x}
 
 graphhopper:
-  routingUrl: http://localhost:8989/route
+  routingUrl: ${GRAPHHOPPER_URL:http://localhost:8989/route}
 
 server:
   port: ${SERVER_PORT:8443}
