@@ -48,7 +48,7 @@ body, .app, .routing {
 
 
 /* User input area */
-.input-box { margin-top: 20px; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; position: absolute; z-index: 1000}
+.input-box { margin: 20px 5%; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; position: absolute; z-index: 1000; }
 .route-input { opacity: 1; }
 form.route-input { margin-bottom: 0px; margin-left: 10px; }
 .minimiser { position: absolute; top: 20px; right: 20px; height: 10px; width: 15px; background-image: url('../images/minus.png'); background-size: contain; background-position: 50% 50%; background-repeat: no-repeat; cursor: pointer; }
@@ -62,20 +62,24 @@ form.route-input { margin-bottom: 0px; margin-left: 10px; }
 .steps-box-button p { margin-bottom: 0px; float: left; padding: 5px; }
 .steps-box-icon { width: 15px; height: 15px; float: right; padding: 6px; padding-top: 10px; }
 .rotated { transform: rotate(180deg) scale(1) skew(1deg) translate(0px); -webkit-transform: rotate(180deg) scale(1) skew(1deg) translate(0px); -moz-transform: rotate(180deg) scale(1) skew(1deg) translate(0px); -o-transform: rotate(180deg) scale(1) skew(1deg) translate(0px); -ms-transform: rotate(180deg) scale(1) skew(1deg) translate(0px); }
-.steps-box { background-color: white; display: none; }
+.steps-box { background-color: white; max-height: 350px; overflow: scroll; -webkit-transition: max-height 0.8s; -moz-transition: max-height 0.8s; transition: max-height 0.8s; }
+.stepsHidden { max-height: 0; overflow: hidden; -webkit-transition: max-height 0.8s; -moz-transition: max-height 0.8s; transition: max-height 0.8s; }
+.stepsHidden.route-1, .stepsHidden.route-2, .stepsHidden.route-3 { padding: 0px; }
+.steps-box-icon.imgFlip { -ms-transform: rotate(-180deg); -webkit-transform: rotate(-180deg); transform: rotate(-180deg); -webkit-transition: -webkit-transform 1s ease-in; }
+.steps-box-icon { -ms-transform: rotate(0deg); -webkit-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: -webkit-transform 1s ease-in; }
 
 .number-of-routes-row { background-color: white; padding: 20px 20px 0px 20px; }
-.number-of-routes { font-family: Roboto-Regular; font-size: 20px; color: #333333; letter-spacing: 0; float: left; }
+.number-of-routes { font-family: Raleway; font-size: 20px; color: #333333; letter-spacing: 0; float: left; }
 .edit { float: right; }
 
 .route-1, .route-2, .route-3 { padding: 20px; border-top: 1px solid #979797; }
 .route-1 p, .route-2 p, .route-3 p { margin: 10px; }
 
-.number-of-route { font-family: Roboto-Regular; font-size: 18px; color: #333333; letter-spacing: 0; margin-bottom: 10px;}
-.eta { font-family: Roboto-Regular; font-size: 16px; color: #333333; letter-spacing: 0; text-align: right; }
+.number-of-route { font-family: Raleway; font-size: 18px; color: #333333; letter-spacing: 0; margin-bottom: 10px;}
+.eta { font-family: Raleway; font-size: 16px; color: #333333; letter-spacing: 0; text-align: right; }
 
 .time-icon, .elevation-icon, .fastest-icon, .distance-icon { width: 20px; margin-right: 5px; margin-bottom: -4px; }
-.time, .elevation, .fastest, .distance { font-family: Roboto-Light; font-size: 16px; color: #333333; letter-spacing: 0; }
+.time, .elevation, .fastest, .distance { font-family: Raleway; font-size: 16px; color: #333333; letter-spacing: 0; }
 
 .view-steps { text-align: right; float: right; display: block; }
 .start { text-align: right; float: right; display: block; }
@@ -86,7 +90,7 @@ form.route-input { margin-bottom: 0px; margin-left: 10px; }
 
 /* Responsive */
 @media (max-width: 600px) {
-  .input-box { margin: 10px; max-width: 100%; }
+  .input-box { margin: 20px 10%; min-width: 80%; max-width: 80%; }
   button, .button { margin-top: 10px; }
   .view-steps-link, .start-link { display: block; height: 70px; }
 }
