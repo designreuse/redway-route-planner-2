@@ -3,18 +3,16 @@
     function ctrl($scope) {
         angular.extend($scope, {
             showSteps,
-            viewSteps
+            toggleSteps,
+            stepsHidden: true
         });
 
         function showSteps() {
             return $scope.route.steps && $scope.route.steps.length;
         }
 
-        function viewSteps() {
-            $( ".steps-box" ).slideToggle( "slow", function() {
-                // Animation complete.
-            });
-            $( ".steps-box-icon" ).toggleClass( "rotated", 3000, "easeOutSine" );
+        function toggleSteps() {
+            $scope.stepsHidden = !$scope.stepsHidden;
         }
     }
 
