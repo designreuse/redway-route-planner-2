@@ -8,8 +8,9 @@ services:
 before_script:
   - (cd src/main/docker && exec docker-compose up -d)
   - docker ps
+  - sleep 30
 
-install: mvn install -P docker
+install: mvn install -P docker,integration-test
 
 after_script:
   - (cd src/main/docker && exec docker-compose down)
