@@ -6,7 +6,8 @@ services:
     links:
         - graphhopper:graphhopper
     environment:
-      GRAPHHOPPER_URL: "http://graphhopper:8989/route"
+      GRAPHHOPPER_URL: "http://graphhopper:8989/route",
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
     ports:
      - 8443:8443
 

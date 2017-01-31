@@ -5,4 +5,8 @@ jdk:
 services:
   - docker
 
+after_install:
+  - cd src/main/docker
+  - docker-compose up -e GOOGLE_API_KEY=${GOOGLE_API_KEY}
+
 install: mvn install -P docker
