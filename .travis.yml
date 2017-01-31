@@ -5,12 +5,14 @@ jdk:
 services:
   - docker
 
+install: mvn install -P docker
+
 before_script:
   - (cd src/main/docker && exec docker-compose up -d)
   - docker ps
   - sleep 30
 
-install: mvn install -P docker,integration-test
+script: mvn test -Pintegration-test
 
 after_script:
   - (cd src/main/docker && exec docker-compose down)
