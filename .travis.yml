@@ -6,8 +6,8 @@ services:
   - docker
 
 before_script:
-  - docker-compose up -e GOOGLE_API_KEY=${GOOGLE_API_KEY} -f src/main/docker/docker-compose.yml
-  - docker -ps
+  - (cd src/main/docker && exec docker-compose up -d)
+  - docker ps
 
 install: mvn install -P docker
 
