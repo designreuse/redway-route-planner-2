@@ -208,7 +208,7 @@
                                     <goal>test</goal>
                                 </goals>
                                 <id>integration-tests</id>
-                                <phase>integration-test</phase>
+                                <phase>test</phase>
                                 <configuration>
                                     <includes>
                                         <include>**/*IT.java</include>
