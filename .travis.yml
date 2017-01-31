@@ -12,4 +12,4 @@ before_script:
 install: mvn install -P docker
 
 after_script:
-  - docker-compose down
+  - (cd src/main/docker && exec docker-compose down)
