@@ -1,12 +1,19 @@
 package org.mkhackathon.routing;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class BoundingBox {
     private final double minLat;
     private final double maxLat;
     private final double minLng;
     private final double maxLng;
 
-    public BoundingBox(double minLat, double maxLat, double minLng, double maxLng) {
+    @JsonCreator
+    public BoundingBox(@JsonProperty("minLat") double minLat,
+                       @JsonProperty("maxLat") double maxLat,
+                       @JsonProperty("minLng") double minLng,
+                       @JsonProperty("maxLng") double maxLng) {
         this.minLat = minLat;
         this.maxLat = maxLat;
         this.minLng = minLng;
