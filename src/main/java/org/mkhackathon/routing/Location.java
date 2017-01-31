@@ -12,7 +12,7 @@ public class Location {
         this.text = text;
     }
 
-    public String get() {
+    public String getText() {
         if (isPostcode()) {
             return text;
         }
@@ -24,6 +24,6 @@ public class Location {
     }
 
     public String toString() {
-        return get();
+        return getText();
     }
 }

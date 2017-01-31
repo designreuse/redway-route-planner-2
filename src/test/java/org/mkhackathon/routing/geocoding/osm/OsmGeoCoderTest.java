@@ -54,8 +54,8 @@ public class OsmGeoCoderTest {
     public void should_create_start_point_from_first_address() throws Exception {
         Location start = new Location("Walton Park");
         Location end = new Location("Wolverton");
-        setupLocationSearch(0.3334, 0.65656, start.get());
-        setupLocationSearch(0.1111, 0.87776, end.get());
+        setupLocationSearch(0.3334, 0.65656, start.getText());
+        setupLocationSearch(0.1111, 0.87776, end.getText());
 
         GeoCodedRoutingRequest geoCodedRoutingRequest = geoCoder.geoCode(RoutingRequest.builder()
                 .withStart(start)

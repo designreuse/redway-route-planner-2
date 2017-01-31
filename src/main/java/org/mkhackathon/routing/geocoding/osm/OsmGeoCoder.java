@@ -8,10 +8,7 @@ import org.mkhackathon.routing.Point;
 import org.mkhackathon.routing.RoutingRequest;
 import org.mkhackathon.routing.geocoding.GeoCoder;
 import org.mkhackathon.routing.geocoding.LocationNotFoundException;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.util.List;
@@ -49,7 +46,7 @@ public class OsmGeoCoder implements GeoCoder {
 
     private List<Address> getAddresses(Location location) {
         try {
-            return nominatimClient.search(location.get());
+            return nominatimClient.search(location.getText());
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
