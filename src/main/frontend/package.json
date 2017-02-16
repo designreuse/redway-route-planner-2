@@ -4,17 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install": "rimraf dist && npm run build",
+    "install": "rimraf dist && npm run test && npm run build",
     "build": "npm run static",
     "build-dev": "npm run build && npm run copy-to-target",
     "copy-to-target": "cpx '../resources/static/**/*' ../../../target/classes/static",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm run lint",
+    "lint": "eslint src/**/*.js",
     "static": "cpx 'src/**/*' ../resources/static",
     "watch": "npm-watch"
   },
   "watch": {
     "build-dev": {
-      "patterns": ["src"],
+      "patterns": [
+        "src"
+      ],
       "extensions": "js,html, css",
       "quiet": true
     }
@@ -22,8 +25,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cpx": "^1.5.0",
-    "npm-watch": "^0.1.7",
-    "rimraf": "^2.5.4"
+    "cpx": "1.5.0",
+    "eslint": "3.14.1",
+    "npm-watch": "0.1.7",
+    "rimraf": "2.5.4"
   }
 }

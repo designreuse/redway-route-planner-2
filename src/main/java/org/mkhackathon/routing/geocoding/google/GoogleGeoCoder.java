@@ -41,7 +41,7 @@ public class GoogleGeoCoder implements GeoCoder {
     }
 
     private Point getPoint(Location location) throws Exception {
-        GeocodingResult[] results = GeocodingApi.geocode(geoApiContext, location.get()).await();
+        GeocodingResult[] results = GeocodingApi.geocode(geoApiContext, location.getText()).await();
         if (results.length > 0) {
             return convertPoint(results[0].geometry.location);
         }

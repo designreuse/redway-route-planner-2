@@ -10,7 +10,7 @@
             templateUrl: "js/app.html",
             replace: true,
             scope: {}
-        }
+        };
     }
 
     angular.module("app", [

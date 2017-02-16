@@ -6,3 +6,13 @@ services:
   - docker
 
 install: mvn install -P docker
+
+before_script:
+  - (cd src/main/docker && exec docker-compose up -d)
+  - docker ps
+  - sleep 30
+
+script: mvn test -Pintegration-test
+
+after_script:
+  - (cd src/main/docker && exec docker-compose down)

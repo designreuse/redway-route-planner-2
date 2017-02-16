@@ -8,6 +8,7 @@
         <feignVersion>8.18.0</feignVersion>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
     </properties>
 
     <groupId>org.mkhackathon</groupId>
@@ -41,6 +42,11 @@
 
         <!-- Extra application dependencies -->
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>21.0</version>
+        </dependency>
+        <dependency>
             <groupId>com.graphhopper</groupId>
             <artifactId>directions-api-java-client</artifactId>
             <version>0.8.2.1</version>
@@ -72,8 +78,6 @@
             <version>1.10.19</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
 
     <!-- Package as an executable jar -->
@@ -183,6 +187,49 @@
                                 </configuration>
                             </execution>
                         </executions>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+        <profile>
+            <id>integration-test</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-surefire-plugin</artifactId>
+                        <version>${maven-surefire-plugin.version}</version>
+                        <executions>
+                            <execution>
+                                <goals>
+                                    <goal>test</goal>
+                                </goals>
+                                <id>integration-tests</id>
+                                <phase>test</phase>
+                                <configuration>
+                                    <includes>
+                                        <include>**/*IT.java</include>
+                                    </includes>
+                                </configuration>
+                            </execution>
+                            <execution>
+                                <goals>
+                                    <goal>test</goal>
+                                </goals>
+                                <id>tests</id>
+                                <phase>test</phase>
+                            </execution>
+                        </executions>
+                        <dependencies>
+                            <dependency>
+                                <groupId>org.apache.maven.surefire</groupId>
+                                <artifactId>surefire-junit47</artifactId>
+                                <version>${maven-surefire-plugin.version}</version>
+                            </dependency>
+                        </dependencies>
                     </plugin>
                 </plugins>
             </build>

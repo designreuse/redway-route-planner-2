@@ -1,5 +1,9 @@
 package org.mkhackathon.routing;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
+@JsonDeserialize(builder = Step.StepBuilder.class)
 public class Step {
 
     private final String instruction;
@@ -30,7 +34,7 @@ public class Step {
         return distance;
     }
 
-
+    @JsonCreator
     public static StepBuilder builder() {
         return new StepBuilder();
     }

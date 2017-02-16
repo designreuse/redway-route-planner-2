@@ -1,8 +1,12 @@
 package org.mkhackathon.routing;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
 import java.time.LocalDateTime;
 import java.util.List;
 
+@JsonDeserialize(builder = Route.RouteBuilder.class)
 public class Route {
 
     private final LocalDateTime eta;
@@ -11,7 +15,7 @@ public class Route {
     private final BoundingBox boundingBox;
     private final List<Step> steps;
 
-    public Route(RouteBuilder builder) {
+    private Route(RouteBuilder builder) {
         this.eta = builder.eta;
         this.minutes = builder.minutes;
         this.points = builder.points;
@@ -39,7 +43,7 @@ public class Route {
         return steps;
     }
 
-
+    @JsonCreator
     public static RouteBuilder builder() {
         return new RouteBuilder();
     }
