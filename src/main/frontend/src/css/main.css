@@ -38,17 +38,33 @@ body, .app, .routing {
   z-index: 1000;
   position: absolute;
   bottom: 18%;
-  left: 1%;
+  left: 10px;
+  width: 17px;
+  height: 17px;
+  background-color: white;
+  padding: 8px 8px 6px 6px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid rgba(0,0,0,0.3);
+}
+
+.icons {
+  z-index: 1000;
+  position: absolute;
+  bottom: 18%;
+  right: 1%;
   width: 20px;
   height: 20px;
   background-color: white;
   padding: 10px 10px 8px 8px;
   cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid rgba(0,0,0,0.3);
 }
 
 
 /* User input area */
-.input-box { margin: 20px 5%; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; position: absolute; z-index: 1000; }
+.input-box { margin: 10px 5%; padding: 20px; background-color: white; min-width: 90%; max-width: 90%; position: absolute; z-index: 1000; border-radius: 5px; border: 2px solid rgba(0,0,0,0.3); }
 .route-input { opacity: 1; }
 form.route-input { margin-bottom: 0px; margin-left: 10px; }
 .minimiser { position: absolute; top: 20px; right: 20px; height: 10px; width: 15px; background-image: url('../images/minus.png'); background-size: contain; background-position: 50% 50%; background-repeat: no-repeat; cursor: pointer; }
