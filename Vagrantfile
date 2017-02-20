@@ -21,7 +21,7 @@ Vagrant.configure("2") do |config|
 
   config.vm.network "forwarded_port", guest: 8443, host: 8443
   config.vm.network "forwarded_port", guest: 5005, host: 5005
-  config.vm.network "forwarded_port", guest: 8080, host: 8080
+  config.vm.network "forwarded_port", guest: 8080, host: 8081
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs

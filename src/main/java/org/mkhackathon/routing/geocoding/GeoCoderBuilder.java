@@ -6,7 +6,6 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.mkhackathon.routing.geocoding.google.GoogleGeoCoder;
 import org.mkhackathon.routing.geocoding.osm.OsmGeoCoder;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
