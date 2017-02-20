@@ -27,8 +27,8 @@ public final class FileReader {
     }
 
     private String readFile() throws IOException {
-        ClassPathResource cpr = new ClassPathResource(fileName);
-        byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
+        final ClassPathResource cpr = new ClassPathResource(fileName);
+        final byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
         return new String(bdata, StandardCharsets.UTF_8);
     }
 
