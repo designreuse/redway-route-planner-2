@@ -19,9 +19,6 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
 import static org.mkhackathon.routing.SslUtil.turnOffSslChecking;
 
-/**
- * Created by louis on 20/02/2017.
- */
 public class PlacesIT {
 
     private RestTemplate restTemplate = new RestTemplate();
