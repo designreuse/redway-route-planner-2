@@ -12,6 +12,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * Factory class for building the ArtTrailProvider.
+ * As we require loading the art trail KML file
+ * it makes sense to do the logic here rather than
+ * in a big constructor.
+ */
 @Configuration
 class ArtTrailProviderFactory {
 
