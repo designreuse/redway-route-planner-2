@@ -1,9 +1,13 @@
 package org.mkhackathon.places.kml;
 
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.util.FileCopyUtils;
+
 import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -22,12 +26,16 @@ public final class FileReader {
 
     public String get() {
         try {
-            Path path =
-                    Paths.get(ClassLoader.getSystemResource(fileName).toURI());
-            return new String(Files.readAllBytes(path));
-        } catch (IOException | URISyntaxException e) {
+            return readFile();
+        } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    private String readFile() throws IOException {
+        ClassPathResource cpr = new ClassPathResource(fileName);
+        byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
+        return new String(bdata, StandardCharsets.UTF_8);
     }
 
 }
