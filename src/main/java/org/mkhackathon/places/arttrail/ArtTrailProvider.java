@@ -2,7 +2,6 @@ package org.mkhackathon.places.arttrail;
 
 import org.mkhackathon.places.PlaceOfInterest;
 import org.mkhackathon.places.PlaceOfInterestProvider;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 

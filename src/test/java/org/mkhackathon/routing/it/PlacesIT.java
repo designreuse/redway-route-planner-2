@@ -3,20 +3,13 @@ package org.mkhackathon.routing.it;
 import org.junit.Before;
 import org.junit.Test;
 import org.mkhackathon.places.PlaceOfInterest;
-import org.mkhackathon.routing.Location;
-import org.mkhackathon.routing.Route;
-import org.mkhackathon.routing.RoutingRequest;
-import org.mkhackathon.routing.RoutingResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
-import java.time.LocalDateTime;
-import java.util.List;
-
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import static org.mkhackathon.routing.SslUtil.turnOffSslChecking;
 
 public class PlacesIT {

@@ -2,7 +2,6 @@ package org.mkhackathon.routing.graphhopper;
 
 import com.graphhopper.GHResponse;
 import com.graphhopper.api.GHMRequest;
-import com.graphhopper.api.GHMResponse;
 import com.graphhopper.api.GraphHopperWeb;
 import org.junit.Before;
 import org.junit.Test;
@@ -15,7 +14,8 @@ import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
 import static org.hamcrest.CoreMatchers.equalTo;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
+import static org.junit.Assert.fail;
 import static org.mockito.Mockito.when;
 
 @RunWith(MockitoJUnitRunner.class)

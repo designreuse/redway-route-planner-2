@@ -7,7 +7,6 @@ import org.mkhackathon.places.PlaceOfInterest;
 import java.util.List;
 
 import static org.hamcrest.CoreMatchers.equalTo;
-import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertThat;
 
 public class ArtTrailProviderFactoryTest {

@@ -2,8 +2,6 @@ package org.mkhackathon.places.kml;
 
 import de.micromata.opengis.kml.v_2_2_0.Kml;
 
-import java.io.File;
-
 /**
  * KML is an XML based format for mapping data. It is used
  * heavily by Google. This class takes a String loaded (possibly
