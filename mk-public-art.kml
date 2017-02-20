@@ -1,0 +1,2114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Public Art in Milton Keynes</name>
+		<description><![CDATA[Showing the location of Public Art in Milton Keynes created by Milton Keynes Council Arts Team<br>email us if you've noticed any are missing: arts (@) milton-keynes.gov.uk<br><br>]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Peace Pagoda: Professor Minoru Ohka &amp; Tom Hancock, 1980</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/psPnsZT7CWcZx6pT9f__8tToo3sL63p9mnzkZ13wsSblxMdxZ0c9qR5PCnYlYy6xd4S12Xf3vAOrp-jrrbDHFH85Fughum7jAdj1Cf-ylDm63eSay3iv4zbxT2AiVgN3DxaN6mw" height="200" width="auto" /><br><br>Concrete<br>Willen Peace Park<br>Built and owned by Nipponzan Myohoji.<br>The first of its kind in the West, the Milton Keynes Peace Pagoda was built by the monks and nuns of the Nipponzan Myohoji, a spiritual non-violent movement, and enshrines sacred relics of Lord Buddha presented from Nepal, Sri Lanka and Berlin. The Pagoda frieze, of traditional design, tells the story of Buddha, from his birth 2,500 years ago at the foot of the Himalayas, to his death at Kusinagara after 50 years of teaching. The Peace Pagoda is a working Buddhist temple with regular services]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/psPnsZT7CWcZx6pT9f__8tToo3sL63p9mnzkZ13wsSblxMdxZ0c9qR5PCnYlYy6xd4S12Xf3vAOrp-jrrbDHFH85Fughum7jAdj1Cf-ylDm63eSay3iv4zbxT2AiVgN3DxaN6mw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7253120000000001,52.057755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tree Cathedral: Neil Higson, 1988</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/vrza0fvgUw7FY_baxa0wIbJMGjvNipdviRE8cXQX2fr22cLQXdXTPtWQGXDIRZjLN5zda3gG-m1Cn4e78TmovzNIoOf2eypg6kqrQ_cygjcGN49t" height="200" width="auto" /><br><br>The tree cathedral’s outline is based on Norwich Cathedral and was designed in 1986 by landscape architect Neil Higson. He chose different species of trees to represent the character of the Cathedral's sections: hornbeam and tall-growing lime for the Nave, evergreens to represent the central tower and spires, flowering cherry and apple as a focus in the chapels.<br><br>In springtime colourful bulbs represent the sun shining through stained glass windows onto the ground.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/vrza0fvgUw7FY_baxa0wIbJMGjvNipdviRE8cXQX2fr22cLQXdXTPtWQGXDIRZjLN5zda3gG-m1Cn4e78TmovzNIoOf2eypg6kqrQ_cygjcGN49t</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.730033,52.053361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Concrete Cows: Liz Leyh &amp; Bill Billings, 1978</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Lieu-4STrS19MeOIa0YGKXEGPp2u71g435lrT6k7noOURqxSfbbVvOfHaA04tCo9iOhUpkLZ6_XthJIPdXKSBwFFOoMwa81D5AcZe3MbpRFIsnHGo7Mrbnnwy29j-joLacfWnSCXQzUcQWAdsi3SsZmrNuwy5VO_9jth_07otlYYS9BLwp8UgUkYcDg4294eYFdVxzE" height="200" width="auto" /><br><br>Replicas of the original which are now in Midsummer Place Shopping Centre]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Lieu-4STrS19MeOIa0YGKXEGPp2u71g435lrT6k7noOURqxSfbbVvOfHaA04tCo9iOhUpkLZ6_XthJIPdXKSBwFFOoMwa81D5AcZe3MbpRFIsnHGo7Mrbnnwy29j-joLacfWnSCXQzUcQWAdsi3SsZmrNuwy5VO_9jth_07otlYYS9BLwp8UgUkYcDg4294eYFdVxzE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.795211,52.051112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lightflow: Peter Freeman, 2007</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/f1gdbSONuzAc0tcJN3qmPoxy0FpRzPW9Lghc2r455yZlzarwRZQlttj9mX2kZZR8VJdU-nprM25rlxbFGPAOSLApIpwtp9CL" height="200" width="auto" /><br><br>Digital LEDs and mirror stainless steel<br><br>The two 4m vertical towers, located at opposite corners of the Hub's square, use colour and movement inspired by the reflections of light on water. The towers are interactive, allowing anybody to choose a different light effects using one of six text commands:-Sparkle, Rainbow, Splash, Blue, Flow, Ripple.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/f1gdbSONuzAc0tcJN3qmPoxy0FpRzPW9Lghc2r455yZlzarwRZQlttj9mX2kZZR8VJdU-nprM25rlxbFGPAOSLApIpwtp9CL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.76319,52.037967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Electric Sheep: Bruce Williams, 2003</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/25CeiKJ8KLtm86Fc5wgfQObHQJSxWcocIhce0C_fOD5jV4fwHEFxXBQfXarLBsGYK_-lCxA5T-0d7DE-wUt6LWDW-DvMBRYabtzLfT5mAaVNB6OzWCocTMv1eh6jLnuk" height="200" width="auto" /><br><br>Laser cut images into Steel and Glass Lightbox<br><br>The artist was influenced by Margaret Powell's life as a sheep farmer. The Margaret Powell fund contributed to the cost of building the Theatre and Gallery in 1999. The square outside the Theatre is called Margaret Powell Square, and the changing lights and colour of the artwork can be seen from this space.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/25CeiKJ8KLtm86Fc5wgfQObHQJSxWcocIhce0C_fOD5jV4fwHEFxXBQfXarLBsGYK_-lCxA5T-0d7DE-wUt6LWDW-DvMBRYabtzLfT5mAaVNB6OzWCocTMv1eh6jLnuk</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.749044,52.044272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dangerous Liaisons: Philip Jackson, 1995</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/tCRGydizIkGxk5lsFk_o2ui-H0a5v6nb5U7ndn9v0vT9e3U1TE0-OXQhqLwxM0frTx-BRtmA21ZQL0isI_xJoYB84HDlbe9u2VavpOlQixI" height="200" width="auto" /><br><br>Bronze<br>Dangerous Liaisons is based on the mask andinspired by the Maschera Nobile of 17th and 18th century Venice. This costume hides the identity and gender of its wearer, allowing him or her to go about the city unrecognized. This would allow for intrigues, vendettas and love affairs to take place without fear of discovery.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/tCRGydizIkGxk5lsFk_o2ui-H0a5v6nb5U7ndn9v0vT9e3U1TE0-OXQhqLwxM0frTx-BRtmA21ZQL0isI_xJoYB84HDlbe9u2VavpOlQixI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.750104,52.044149,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paparazzi: Steven Gregory, 1996 </name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/bCaSPXkJVeV0-1cXVz3vymy3kR8ceHkfkmG5sS5AZSmxTYcJoMx5bcAR9Xjyf0FuehuZs2v3OEe_w8HZz8H82KwarSgW1RoWqD1F-wySt9cp-ls9bXxkjnRPhpZGe2epI_c" height="200" width="auto" /><br><br>Bronze<br>Gregory’s anthropomorphic cameras stalk the Theatre district like vultures or crows. Gregory describes them as ‘hunting in a pack, but always looking after number one first. Ready to snap at just the right moment to immortalise their chosen victim’.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/bCaSPXkJVeV0-1cXVz3vymy3kR8ceHkfkmG5sS5AZSmxTYcJoMx5bcAR9Xjyf0FuehuZs2v3OEe_w8HZz8H82KwarSgW1RoWqD1F-wySt9cp-ls9bXxkjnRPhpZGe2epI_c</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.749643,52.044457,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Circle of Light: Liliane Lijn, 1980</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/szHawLhE0cB37yMJWXnkxue3pSnivCHydQSibBMQ_pt3vbUMf3qyd872VWgA0xnPFTWrgyYMwuwAqCWnc9O4P1JnxRSY3_4" height="200" width="auto" /><br><br>Aluminium and copper wire (Currently being restored – to be re-installed during 2009)<br><br>Circle of Light consists of 23 tubes creating<br>a curved, circular plane that relate to the<br>shape of the sun, moon and human eye. The<br>cylindrical tubes relate to the shapes behind<br>the retina of the eye that convert light into<br>electrical pulses.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/szHawLhE0cB37yMJWXnkxue3pSnivCHydQSibBMQ_pt3vbUMf3qyd872VWgA0xnPFTWrgyYMwuwAqCWnc9O4P1JnxRSY3_4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.755283,52.043289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Black Horse: Elisabeth Frink, 1978</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/igqGRYdmulkHimnrI6teIqh1DSaVcLr9-YZUaF-5mTLKRhWfCInst_ROfo8PZznNnMKBZySHmk48wZ9gnV9TjU4cZRCkOnBewwpO3Ygd0XE" height="200" width="auto" /><br><br>Bronze<br>Black Horse is sited outside Lloyds Bank, echoing its iconic logo. Elisabeth Frink gained recognition in the early 1950s. She used animal and human forms to express the anguish of the post-war period]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/igqGRYdmulkHimnrI6teIqh1DSaVcLr9-YZUaF-5mTLKRhWfCInst_ROfo8PZznNnMKBZySHmk48wZ9gnV9TjU4cZRCkOnBewwpO3Ygd0XE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7567850000000002,52.044672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Whisper: Andre Wallace, 1984</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ypQkc2p_pEHQBCTkoaZk-nEGAucin1giNMa9HXTonUJ5HDAHK1Ikq2ZYikLMXAtc2VI4XvnrI7_iMxpTlrKt2SmVSaQf_WA_-XcWWV02SqXvyaqVbv39gNpahj8d8OGYHEJqDHIBkzF7wS83-5sAVoM" height="200" width="auto" /><br><br>Bronze<br>The Whisper is ideally suited to be outside the public library, a space where people meet and socialise. Wallace’s distinctive heavy figures, larger than life-size, sit relaxed and at ease, watching the world go by.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/ypQkc2p_pEHQBCTkoaZk-nEGAucin1giNMa9HXTonUJ5HDAHK1Ikq2ZYikLMXAtc2VI4XvnrI7_iMxpTlrKt2SmVSaQf_WA_-XcWWV02SqXvyaqVbv39gNpahj8d8OGYHEJqDHIBkzF7wS83-5sAVoM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.75954,52.043486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fiction, Non-Fiction &amp; Reference: Boyd &amp; Evans, 1984</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/feRno0OirPA-L_gwl4_5Y1tAaXedqQp71P-LHd33svLLz7IQTiEGBRwILQ_rhTsWYNaKNSYhJ25XK-hm0U1eoDrhPSkmdeaFWNzMO9GDe3VSLCFJqq2QJGwVMC4OGSMsAkz0fgcAjoW10f12yb9ADuaFAw" height="200" width="auto" /><br><br>Acrylic on canvas<br>This large-scale painting hung across<br>from the staircase in the Library, draws its reference from hundreds of documentary photographs of Milton Keynes and shows local estates and local people. Its title refers both to the book sections of a public library, and to the content of the work, which mixes<br>fictional and real events.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/feRno0OirPA-L_gwl4_5Y1tAaXedqQp71P-LHd33svLLz7IQTiEGBRwILQ_rhTsWYNaKNSYhJ25XK-hm0U1eoDrhPSkmdeaFWNzMO9GDe3VSLCFJqq2QJGwVMC4OGSMsAkz0fgcAjoW10f12yb9ADuaFAw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.759638,52.04357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Catwalk City Centre 1: Stephen Gregory, 1977</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/qyKjKaLf-NPpayWPR4V7K_Xg5wBB6ZqHNgVhrZN4OdZMj4RLg0Nyh2P43-osJ9C2II15tTnlyCiTdTfHt6xy8Ajwm6fLUQFAXOCEURL7r0loOxsDN0G_oBZNpA" height="200" width="auto" /><br><br>Acrylic on canvas<br>Stephen Gregory was artist in residence<br>in Milton Keynes between 1977-79. These paintings hang in the public stairwell of the Council’s Civic offices, they examine the building of the new town and celebrate its contemporary architecture.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/qyKjKaLf-NPpayWPR4V7K_Xg5wBB6ZqHNgVhrZN4OdZMj4RLg0Nyh2P43-osJ9C2II15tTnlyCiTdTfHt6xy8Ajwm6fLUQFAXOCEURL7r0loOxsDN0G_oBZNpA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.760554,52.043222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Conversation: Nicolas Moreton, 1995</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/s50JHV3Upaq7XU6eyRL8g3o1szs9F0lpT88N8BNgNBUblRY3hJF_rRPcSyIXwxy6rZWTmFua8F8Hxwdf9peIPiAWm1BGaHtKJ-93NEZd64jXfXE6ifKa64sjgZbQcEcDFNlAIy4" height="200" width="auto" /><br><br>Kilkenny black fossil limestone and bronze<br>The Conversation consists of two figures in conversation, raised from the ground on a plinth, away from the bustle of the people below. The plinth is their table, an intimate and private space elevated above the rest of the world.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/s50JHV3Upaq7XU6eyRL8g3o1szs9F0lpT88N8BNgNBUblRY3hJF_rRPcSyIXwxy6rZWTmFua8F8Hxwdf9peIPiAWm1BGaHtKJ-93NEZd64jXfXE6ifKa64sjgZbQcEcDFNlAIy4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.759982,52.042348,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Meeting: Nicolas Moreton, 1995</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Et0Sqk-VOOe-65-fRA4qrK_Sf8RE2zWWtyJJzvwDJpQR8e_wn-GQkgzkuo0IQ-moBg8Z2Gf8z6rYDaOwejkBwQbcxd1m53DHi7uvr7VqFQ0" height="200" width="auto" /><br><br>Birds eye Derbyshire fossil limestone and bronze<br><br>The outer panels Dawn and Reflection shows a man and woman separately contemplating the day’s events. The Cup (middle panel) is described by the artist as showing ‘a man and woman sharing thoughts and wishes, symbolised by the sharing of a drink from the same cup.’]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/Et0Sqk-VOOe-65-fRA4qrK_Sf8RE2zWWtyJJzvwDJpQR8e_wn-GQkgzkuo0IQ-moBg8Z2Gf8z6rYDaOwejkBwQbcxd1m53DHi7uvr7VqFQ0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.760019,52.042168,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Octo: Wendy Taylor, 1980</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/IZVc4y6zqf-bB64ZQJCEFzimjdwjwNMgYsnoZ98EigGfxm3ADU9uYANaXrGLISc4RPUt5VRUjuYpWn8ol94Jr6HbllmQzVDqyEhZjweegfqY_xH15Q" height="200" width="auto" /><br><br>Stainless steel, water<br><br>Octo’s twisting ribbon of stainless steel makes a figure of eight. The sculpture is based on a Möbius strip, a mathematical term describing a continuous surface created by twisting a long rectangular strip through 180º and joining the ends. The form does not have an inside or an outside.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/IZVc4y6zqf-bB64ZQJCEFzimjdwjwNMgYsnoZ98EigGfxm3ADU9uYANaXrGLISc4RPUt5VRUjuYpWn8ol94Jr6HbllmQzVDqyEhZjweegfqY_xH15Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.762579,52.042478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>City Church Cross: Alan Evans, 1991</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/QybpvYBVhAK5A1jf513cRpMUwRge9DjTlcQY8kuXfIP8lWJfyHiLAJTDvCknnF98ARKobz_V2bn0FbccAQCuEqymMC22_zg6ctMrTybVu-TzaOgRyZ3dfavgyavnCFM" height="200" width="auto" /><br><br>Steel<br><br>This simple cross can be viewed from 360º and consists of 8 blades wrapped together with steel. The artist reflects the ecumenical nature of the church – ‘the coming together of different denominations, the binding together of the elements whilst still retaining their individual identity.’]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/QybpvYBVhAK5A1jf513cRpMUwRge9DjTlcQY8kuXfIP8lWJfyHiLAJTDvCknnF98ARKobz_V2bn0FbccAQCuEqymMC22_zg6ctMrTybVu-TzaOgRyZ3dfavgyavnCFM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.761452,52.040986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3B Series No 5, 1966-68 2M series No 4, 1960s 3B series No 2, 1968-69 Bernard Schottlander</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/bgmjNiJGKWORfZo19M4ahWBXdO5hiwAkZtHG6ly2dO_QPrIXba5FVeCPOdHI_1tS_RxSXqGQmxD_FfpjRr6C07JX29IAo2bqbgO4r0cjg38ST6ZIADKCGvDazseXrGvL" height="200" width="auto" /><br><br>Painted steel<br><br>These large brightly coloured abstract<br>sculptures are based on simple geometric forms. The titles relate to the artist’s initials (BMS) and he enjoyed the fact that MS could also be seen as an abbreviation of mild steel.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/bgmjNiJGKWORfZo19M4ahWBXdO5hiwAkZtHG6ly2dO_QPrIXba5FVeCPOdHI_1tS_RxSXqGQmxD_FfpjRr6C07JX29IAo2bqbgO4r0cjg38ST6ZIADKCGvDazseXrGvL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.763351,52.04027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Winter Garden Panels: Jeremy Turner, Mark Adams and Christine Tacq, 1988</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/Y9vq80EcUGCsF2-hsgFgMQNsm9Yd45jpaaqiCrdDWU2zEvO5KMcWQaEIVlaaTkCrtjMSESAjcM-soGyT_bMXjwWW1cf6fOXny-KLgHwBNZP-3HfYvBGuy1cqUfbMtM8" height="200" width="auto" /><br><br>Sycamore and watercolour<br><br>This carved wooden artwork clads a 8 x 4 ft column within the Winter Gardens. Each of the four faces of the column is based on a theme relating to places within the Winter Garden – the garden, the health club, the restaurant and a milk bar, which was never built.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/Y9vq80EcUGCsF2-hsgFgMQNsm9Yd45jpaaqiCrdDWU2zEvO5KMcWQaEIVlaaTkCrtjMSESAjcM-soGyT_bMXjwWW1cf6fOXny-KLgHwBNZP-3HfYvBGuy1cqUfbMtM8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7605400000000001,52.038887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Space Between: Eilis O’Connell, 1992</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/b8hDYZ9R9KuvsAMw4Hf7lOCwm0LXuMs8T_jZ2tdcSvSnR1OU-y7JRlhV8CJJpm-2v_IanMlwsWXMoJFosHwK2UdbLzXvz_WAges5aoKChzp0dTqiJA" height="200" width="auto" /><br><br>Patinated bronze with fibre optic elements<br><br>Based on ancient Celtic boundary markers and the Ogham stones of pre Christian Ireland. The artist describes the relationship between the space and her sculpture: ‘Exchange Square is a perfectly proportioned square composed of right angles and straight lines. To contrast with this rectilinearity, the sculpture is made up of curved forms' .]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/b8hDYZ9R9KuvsAMw4Hf7lOCwm0LXuMs8T_jZ2tdcSvSnR1OU-y7JRlhV8CJJpm-2v_IanMlwsWXMoJFosHwK2UdbLzXvz_WAges5aoKChzp0dTqiJA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7597730000000001,52.039778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Essence: Wendy Taylor, 1982</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/8iR2NejLUJ6a7MToHlVP-De_iN_0PWvV7tzIcIlw0DHNv6QFAhNw8i1VdU4EK-1IXtifAIk5om39FQPQdcRus5MWeEz5r0EnUbgNOxVwyKo" height="200" width="auto" /><br><br>Bronze<br><br>The artist describes her work as being<br>‘surrounded by a wide selection of shrubs which give a secret air to the area, providing a complete contrast to the bold outlines of Milton Keynes’ avenues. The soft enfolding lines of the sculpture are a response to the intimacy of the enclosed environment.’]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/8iR2NejLUJ6a7MToHlVP-De_iN_0PWvV7tzIcIlw0DHNv6QFAhNw8i1VdU4EK-1IXtifAIk5om39FQPQdcRus5MWeEz5r0EnUbgNOxVwyKo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.756887,52.038914,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Acorns and Leaves: Tim Ward, 2000</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/klFN8zZ0l3cQ0UWY2PrvMZbqvS4hcBEbmufkESTXdgcU3latD3EfASXtGgWOcw57EbiF88ySnhUdpsmiS6lSpk2M39meD4wZydVePdFttHGFWt4EOSh2QAR2-Ot-9rg" height="200" width="auto" /><br><br>Stainless steel<br><br>Currently in storage]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/klFN8zZ0l3cQ0UWY2PrvMZbqvS4hcBEbmufkESTXdgcU3latD3EfASXtGgWOcw57EbiF88ySnhUdpsmiS6lSpk2M39meD4wZydVePdFttHGFWt4EOSh2QAR2-Ot-9rg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.757547,52.04092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sitting on History: Bill Woodrow, 1996</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/c10GCsJ4SEvS9mhQqVC2XC3TaFhm_umtHk-GY2VOyAw0kAfRvOh-BmRL98BYemvKnghnffUvvb9HvTRLJK9rf90BweTmHYuHJ13ZXdrXnGOXn-DUJQ" height="200" width="auto" /><br><br>Bronze<br><br>The ball and chain refers to the book as<br>‘captor of information’ from which we cannot escape. Woodrow proposes that although we absorb knowledge from history, it doesn’t necessarily change our behaviour.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/c10GCsJ4SEvS9mhQqVC2XC3TaFhm_umtHk-GY2VOyAw0kAfRvOh-BmRL98BYemvKnghnffUvvb9HvTRLJK9rf90BweTmHYuHJ13ZXdrXnGOXn-DUJQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.756437,52.041234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vox Pop (The Family): John Clinch, 1988</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/mjp1loNZ8GW_I59K2jpCZvNZk--sEksjtwrfUrg3WhT7hmTIttjo9KR0aS2-h9N4eIuhsScmKWb_yxEGwnNlwryi9BJov9yzVDK_Ee8HsdUL2wadRe6dNGf80DzDQW2W6g" height="200" width="auto" /><br><br>Bronze (in storage for 2009 – to be relocated back in Queens Court upon completion of development)<br><br>A shortened form of ‘vox populi’ a Latin<br>phrase meaning the voice of the people.<br>Clinch’s work celebrates ordinary members of the public rather than the rich and famous. The sculpture was originally intended to show the diversity of people needed to make Milton Keynes a great city.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/mjp1loNZ8GW_I59K2jpCZvNZk--sEksjtwrfUrg3WhT7hmTIttjo9KR0aS2-h9N4eIuhsScmKWb_yxEGwnNlwryi9BJov9yzVDK_Ee8HsdUL2wadRe6dNGf80DzDQW2W6g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.757306,52.04289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A Mighty Blow for Freedom: **** the Media: Michael Sandle, 1988</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/s9wYdZOdhrSrcIeehVs-Yk7sPSgT74PeiPSq4cnh2Pb8-1xP6rPCTZys33AwaY8Op24qVRMv9egbqQnbyMOHLqPOGw123zyaovU9FnZu2Fc" height="200" width="auto" /><br><br>Bronze <br><br>Michael Sandle’s work is a critique of the media, taking the logo of a well-known film company as its starting point. The strongarmed man hitting a gong in the logo is replaced by a helmeted androgynous figure swinging an axe to smash a television.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/s9wYdZOdhrSrcIeehVs-Yk7sPSgT74PeiPSq4cnh2Pb8-1xP6rPCTZys33AwaY8Op24qVRMv9egbqQnbyMOHLqPOGw123zyaovU9FnZu2Fc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7549180000000001,52.04287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Xscape: Diane Maclean, 2000</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/WW2lEE7yG3p-Bsfp2zpG7Os48hcuyXXUwU0ydFbqivAr8qd-fIODUyzp4jSehXbQYVCje33GoqY6Y4hG1ISBXmw12h4Ygw4jNL4H5LeiHJMhVngRcpVMkEZcRngl_6r4" height="200" width="auto" /><br><br>Polished stainless steel<br><br>Maclean says: ‘The sculpture is a meeting place, a resting place, an amusement – people see their distorted reflections in it (fat or thin) – and the surroundings are reflected like abstract paintings, always changing according to where the viewer is’.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/WW2lEE7yG3p-Bsfp2zpG7Os48hcuyXXUwU0ydFbqivAr8qd-fIODUyzp4jSehXbQYVCje33GoqY6Y4hG1ISBXmw12h4Ygw4jNL4H5LeiHJMhVngRcpVMkEZcRngl_6r4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.749753,52.040907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Object: Dhruva Mistry, 2000</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/nY-3Rp4cUeAKPY6YtuvL6G1l0L3bZyA3nx7Hstv-loGvOyy4O-uG2ihQzwPgsy5hvutWd4Nz_EEPonxIukGDeOnv8vPwqKQTGayd-Vk20j0" height="200" width="auto" /><br><br>Stainless steel <br><br>Dhruva Mistry has created a curious <br>architectural structure. Although there seems to be an entrance, physical entry is impossible, and as you move around the sculpture, perspectives seem to distort]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/nY-3Rp4cUeAKPY6YtuvL6G1l0L3bZyA3nx7Hstv-loGvOyy4O-uG2ihQzwPgsy5hvutWd4Nz_EEPonxIukGDeOnv8vPwqKQTGayd-Vk20j0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.748723,52.044955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Armillary Sphere: Justin Tunley, 1995</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/k1x_Hn2MIhfvqbNGEcHBoTOiNd0UOwgZ20Hvh1vEaNibHb9CJE-3Xls_vicZ9xgppkieV8-D5wo5sMMb1XZy0TqGhrWWnixk9yIox3iADLPIC3cd32HdrKc39ux5s5fi" height="200" width="auto" /><br><br>Mild steel, laser cut and painted.<br>The Labyrinth, near Silbury Boulevard. Commissioned by Midsummer Housing Association and donated to Milton Keynes Parks Trust. An armillary sphere is a model of the ancient celestial sphere used to fix the positions of heavenly bodies. A central 'gnomon' or shadow caster, runs through the centre of the sphere, parallel to the earth's axis. The gnomon casts a vertical shadow over the inside face of the planetary ring running around it. As the earth rotates, the relative positions of the sun, gnomon and planetary ring change, moving the shadow in a clockwise direction. The distinctive series of vertical and angled cuts around the planetary ring represent Roman numerals; those on the lower face representing Greenwich mean time, and those on the upper face, British summertime. The large holes running along the band's centre mark the hours, the smaller holes represent 10 minute intervals]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/k1x_Hn2MIhfvqbNGEcHBoTOiNd0UOwgZ20Hvh1vEaNibHb9CJE-3Xls_vicZ9xgppkieV8-D5wo5sMMb1XZy0TqGhrWWnixk9yIox3iADLPIC3cd32HdrKc39ux5s5fi</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.747459,52.047394000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chain Reaction: Ray Smith, 1992</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Y_YMdeIH2AcbFAgek5DkOhs9E02PGKr9_dt_0V5nShzEAIkNDIfA2Z2m09yxY8b4uxScW_4Ws6OSEcZkZ2BjwDHtH8b1u3x_EapGxxK4ttrZjLmlNA" height="200" width="auto" /><br><br>Mild steel, laser cut and painted. Skeldon Gate, off Silbury Boulevard.<br><br>Commissioned by Milton Keynes Development Corporation and donated to Milton Keynes Parks Trust.<br><br>Ray Smith is well known for his imaginative commissions for public places and for his sensitive responses to the often complex functional and aesthetic requirements of a particular site. His work ranges from individual sculptural and painted works to entire urban design projects incorporating street furniture and metalwork. Chain Reaction was commissioned for its site in Campbell Park and sponsored by a large number of local developers. It has been designed to be viewed from every angle. Ray Smith describes the work: 'The basic idea for the sculpture is the simple notion of slotting one flat cut-out figure into another to create ...a three-dimensional model of figures balanced like acrobats. The forms are simple and universal.....The figures that make up the column are links in an endless chain. The structure is large in scale but also refers to tiny self-replicating molecular structures. Chain Reaction pays homage to the Endless Column of Brancusi. It refers to our aspirations but has its feet firmly planted on the ground']]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Y_YMdeIH2AcbFAgek5DkOhs9E02PGKr9_dt_0V5nShzEAIkNDIfA2Z2m09yxY8b4uxScW_4Ws6OSEcZkZ2BjwDHtH8b1u3x_EapGxxK4ttrZjLmlNA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.74353,52.049007,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Circle Dance: Clare Wilks, 1997</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/euDDgO51KENXQjhw5YNh3fB0TkAN08arq6E8ByNdhGc6dpaAR-8bXWSWoZN4bT91n95s6MnjGAU3tF9fCtjA9h2r9ugJBLg9eXZOg9_4caEI8Q-c9sQTTW-QeXfaMxLi" height="200" width="auto" /><br><br>Steel frame and willow<br>near the Grand Union Canal<br>Commissioned by Milton Keynes Craft Guild and the Commission for the New Towns and donated to Milton Keynes Parks Trust<br>Circle Dance is a living sculpture, created from fresh willow wands planted and threaded through a structure of steel rods. The sculpture resembles a group of figures holding hands in dance, moving so fast that they seem almost to merge into one another. The sculpture was created by willow artist Clare Wilks and the steel frame welded by local blacksmith, Tim Ward. Circle Dance was initially commissioned for the annual Midsummer Art Show in Milton Keynes and sited on the roof of an entrance to the Central Business Exchange. It was re-sited in Campbell Park in 1998. Clare Wilks has undertaken a range of private and public commissions, working in gardens, parks, on riverbanks, in buildings and in galleries, creating large-scale permanent and temporary structures. Much of her work can be viewed from inside as well as out to engage the viewer and explore the links between organic sculpture and architecture. She often works with willow, but has also used poplar, bamboo, rattan, rope and feathers in her work]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/euDDgO51KENXQjhw5YNh3fB0TkAN08arq6E8ByNdhGc6dpaAR-8bXWSWoZN4bT91n95s6MnjGAU3tF9fCtjA9h2r9ugJBLg9eXZOg9_4caEI8Q-c9sQTTW-QeXfaMxLi</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.734712,52.050771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GnomonGnomon (Shadow Caster): Peter Bowke, 1994</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ciaarKHBA-MkdKLCQH8l6786ZT7u8h75Qe44nN6j4K1rVdBe252b6lsbnLL9bgMcdOxbKprmfCQVX9QO86jCTyimet-OSqX2F2AV0C6AmArTef2xqg" height="200" width="auto" /><br><br>Ffestinog blue grey slate and bronze.<br><br>Situated near the Pavilion.<br><br>Commissioned by Milton Keynes Parks Trust.<br><br>A gnomon is the stationary arm that projects the shadow on a sundial, and this sculpture has been designed to act as a shadow caster. A ley-line is thought to run through the centre of Milton Keynes and the sculpture takes its reference from this prehistoric track, its form relating to such ancient structures as Stonehenge. The work was made as a site specific piece and has been constructed of untreated slate, celebrating the beauty of the material in its natural state. The work has also been nick-named the cricket piece due to its resemblance to cricket stumps and proximity to the cricket pitch.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/ciaarKHBA-MkdKLCQH8l6786ZT7u8h75Qe44nN6j4K1rVdBe252b6lsbnLL9bgMcdOxbKprmfCQVX9QO86jCTyimet-OSqX2F2AV0C6AmArTef2xqg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.736285,52.049444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Head: Allen Jones, 1990</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/JzWaI6MPnv2hv5gEWA_rPfKFtZPkjhF66IPYgtb8QVMlfiUvZgTGdwpd0Um718s0xdcZWLeffiWQ9xdNxI9ObtmlbrOVD4RWaw7QZILYNxIEHHbVUQ" height="200" width="auto" /><br><br>Corten steel<br><br>Situated between Overgate and the Grand Union Canal.<br><br>Purchased by Milton Keynes Development Corporation and donated to Milton Keynes Parks Trust.<br><br>Allen Jones was a major protagonist of British Pop Art, an artistic movement of the 1960s and 70s that looked to popular culture for its inspiration, and paralleled similar developments in the USA by artists such as Andy Warhol and Roy Lichtenstein. Jones has worked in a range of media, creating murals, stage sets and costumes - as well as sculpture, paintings and prints. Head is a simply constructed yet powerful sculpture in which the artist has used two dimensional silhouettes to create a three dimensional form. The sculpture suggests a tent structure and initially seems to be an entirely abstract piece. However, as the viewer walks round the work, it gradually reveals itself and a human profile becomes apparent. The artist has deliberately constructed the piece to encourage visitors to spend time with it and explore it. The work has been created from corten steel, which weathers over time to create a textured surface http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/JzWaI6MPnv2hv5gEWA_rPfKFtZPkjhF66IPYgtb8QVMlfiUvZgTGdwpd0Um718s0xdcZWLeffiWQ9xdNxI9ObtmlbrOVD4RWaw7QZILYNxIEHHbVUQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.737181,52.050219,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Artwork in Willen Park and Newlands Park </name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/wmbPhUYNIc_x0UpezF4xTcZSVeLRQfTXNP6DyE1XU5wB7TFVX_nA5R85L9Fm9NcIWhfae0oYyhU-OPuxMZfIVj_ZUeqDxcaM2--UQM7fgE6QRjP2Iw605HJuJECJ3xyu" height="200" width="auto" /><br><br>Artwork in Willen Park and Newlands Park Willen Maze: Neil Higson and Tim Minett, 1985<br><br>Turf and bronze @ Willen Peace Park<br><br>Commissioned by Milton Keynes Development Corporation and donated to Milton Keynes Parks Trust<br><br>Willen Maze is a turf maze based on an enlarged version of the Saffron Walden Rosicrucian Maze and designed by landscape architect Neil Higson. At its centre is an oak tree and in each of the four lobes - at the cardinal points of the compass - is a bronze face designed by the sculptor Tim Minett. The four bronze faces represent the four main races of mankind and are inspired by the faces on teh artist's bollards in the Shopping Centre. The maze unifies them in peace and places them in the context of dominant nature, symbolised by the oak tree.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/wmbPhUYNIc_x0UpezF4xTcZSVeLRQfTXNP6DyE1XU5wB7TFVX_nA5R85L9Fm9NcIWhfae0oYyhU-OPuxMZfIVj_ZUeqDxcaM2--UQM7fgE6QRjP2Iw605HJuJECJ3xyu</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.747676,52.0474,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Circle of Hearts Medicine Wheel: Roy Littlesun (2000)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/YsJuYLVVorPevfuv4wcAQnJO8JvfiLzBQDUmMJxTkziNP1DI-PleHDmRwN4Owa1gvZjmQn40qsrAFSYQGR3_0e_mShod1o4Vkpu4ZkOBG1bIilicR9Xc4eXew_GYaX5a" height="200" width="auto" /><br><br>Willen Lakeside North<br><br>The Circle of Hearts Medicine Wheel takes the form of a North American 'medicine wheel', a universal symbol of peace. It has been created by local volunteers in conjunction with Landscape Town and Country as a meeting place for Milton Keynes residents to celebrate the New Millennium with wishes for global peace in the 21st century.<br><br>The medicine wheel consists of two concentric circles of stones, with longer stones at the north, south, east and west points. The grass space between the circles is divided into four sectors and a depression for occasional fires is located in a smaller circle covered in gravel and planted with wild flowers.<br><br>The design was inspired by the legends of the Hopi Nation in North America whose prophesies foretell an age of peace when all nations from the four corners of the earth join a common effort to live in peace and harmony. The Hopi are now a small tribe based in the 'four corners' region of the USA where Utah, Colorado, Arizona and New Mexico. They believe we are living in the fifth world of man when the human race assembled at ' four corners' and were instructed to spread out in the four directions - north, south, east and west. Four also represents the elements - fire, water, air, earth.<br><br>The wheel's design also pays homage to British traditions of building circles alongside meeting places and important sites. Two extra pairs of stones situated in the NE and SW of the circle, align with the needle stone alongside the Lake. These join the 'line' of the Midsummer sunrise that runs through the tree cathedral to Midsummer Boulevard in the centre of Milton Keynes.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/YsJuYLVVorPevfuv4wcAQnJO8JvfiLzBQDUmMJxTkziNP1DI-PleHDmRwN4Owa1gvZjmQn40qsrAFSYQGR3_0e_mShod1o4Vkpu4ZkOBG1bIilicR9Xc4eXew_GYaX5a</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.724003,52.055858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wolverton Mosaics: Emma Biggs, 2000</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/_xnp0r-CLVFdrDPiP3gEgbhcFeFJM1ISMDCcENijUBlLyJpM6e0lQdeul0__KLGswBGWCNazmfH_673bC-W3NdBGuurk-M6iVElQVYk3qG4XdTOaZnQf42s8b7ZTovtGWICnVY0sDiZmNDN1leuzVl7-gPDN_iea" height="200" width="auto" /><br><br>Julia worked with Hyder (urban designers) contributing her ideas to the design of Wolverton Town Square. As part of this work she developed a framework for a series of mosaics to be inset into the paving. She recommended that the mosaics be an integral part of the redesign of the square, suggesting that their shapes should cut across the rigid patterning of the square. <br><br>Artist Emma Biggs was appointed to develop designs for the mosaics. She worked 'in residence' with four local schools (Greenleys Middle, Bushfield, Slated Row, and Radcliffe Schools) and collaborated with pupils on the development of her designs. Her mosaics incorporate the children's drawings of Wolverton's buildings and local maps, reflecting the history and identity of Wolverton.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/_xnp0r-CLVFdrDPiP3gEgbhcFeFJM1ISMDCcENijUBlLyJpM6e0lQdeul0__KLGswBGWCNazmfH_673bC-W3NdBGuurk-M6iVElQVYk3qG4XdTOaZnQf42s8b7ZTovtGWICnVY0sDiZmNDN1leuzVl7-gPDN_iea</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8100645,52.06112600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wolverton Walk and Markers: Julia Manheim, 2000 </name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/RH_P9uBd2thkTqGIs8T0auLo7KQpPOHsScQnqs1lotGwHA3w2L2awb45JnTW6tJ1kmAGlPUEAWWWjDcsM1lccyz3fgsKUZK3G9Z1c7ifSQ" height="200" width="auto" /><br><br>http://www.wolvertonandgreenleystowncouncil.gov.uk/Cosella_Web.ashx?cmd=default_GetDocument&id=60 Julia Manheim's proposal for a Wolverton 'town trail' centred on a series of terrazzo markers inset into paved areas around the town. The local community were enthusiastic about this idea and raised funding to commission this series of artworks which were installed in 2002.<br><br>The markers form a trail leading pedestrians on a guided 1-hour (2.5 km) tour of the town and highlight local historical and architectural landmarks. The route and locations of markers were selected in consultation with the local community, including a workshop with elderly people, a public talk, questionnaires and a library exhibition. <br><br>Each marker contains inset objects collected by residents, many of which reflect the history of Wolverton. Larger markers, designating areas of particular interest, contain related texts and objects. For example, horseshoes are embedded into the marker at the old Co-op Stables.<br><br>The Wolverton Walk is the basis of an evolving project, which will carry on growing as other artists add site-specific works to the walk. The mosaics and markers are just the beginning.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/RH_P9uBd2thkTqGIs8T0auLo7KQpPOHsScQnqs1lotGwHA3w2L2awb45JnTW6tJ1kmAGlPUEAWWWjDcsM1lccyz3fgsKUZK3G9Z1c7ifSQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.810016,52.06101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alphabet Artworks: Pete Codling 2001-03</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/DlIKxQIdDD6I79mYQwW9uEaarfJoaxpY7YigqVTFrQi_z1Qj7s3hOg--Dv81FkFdqNB31hHQnBM0yX4hhwBPbbQMQowlcBZuZYvHZ-YPd2MgwDzOaiYfRaevwwvVAP7MZA" height="200" width="auto" /><br><br>Designs for the artworks were created by Pete through creative workshops with residents and developed in response to the community's request for seating, a landmark and educational and play facilities.<br><br>Some artworks are completely sculptural while others are incorporated into built structures or integrated into the landscape.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/DlIKxQIdDD6I79mYQwW9uEaarfJoaxpY7YigqVTFrQi_z1Qj7s3hOg--Dv81FkFdqNB31hHQnBM0yX4hhwBPbbQMQowlcBZuZYvHZ-YPd2MgwDzOaiYfRaevwwvVAP7MZA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.734625,52.021286,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Equatorial Sundial: Wendy Taylor, 1982</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/HClVvn_7Z3Fp3Gh26HWo5LPhLdckHB5SSqR4PRo5Db7kG6VWfd9v5DFs9c8ajk6kk1HdzNZEQo2-lLlHmCynLglMZ3UGOtMJplw8-E4Cg5GLz74CPgxxVw22vyLQneo" height="200" width="auto" /><br><br>The owners have removed this artwork and therefore it is not presently available however MK Council and MK Public Art Trust are working to have it returned]]></description>
+				<styleUrl>#icon-1199</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/HClVvn_7Z3Fp3Gh26HWo5LPhLdckHB5SSqR4PRo5Db7kG6VWfd9v5DFs9c8ajk6kk1HdzNZEQo2-lLlHmCynLglMZ3UGOtMJplw8-E4Cg5GLz74CPgxxVw22vyLQneo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.740483,51.992359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moon Drawing: Alison Turnbull, 1999</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/_G8GylIZeQlY90Ob56XJ19sTj8255vatnzXs4RRE-rCCaodRhp_AEtJeCD7cmQHPHDJQIGuV7b0MKncyGLqo4t4Xq64MWhHOYhJf5x-y3yBelgYpnslVTnCpXzviA9s" height="200" width="auto" /><br><br>Graphite and ink on concrete <br><br>Turnbull’s wall drawing – seen from the <br>Milton Keynes Theatre Foyer – is taken from a topographical map of the moon’s surface made in Leipzig in 1894. From outside the building the drawing is almost invisible during daylight, but, like the moon itself, becomes visible when lit at night. Limited Edition prints of Moon are available for purchase from MK Gallery.Turnbull’s wall drawing – seen from the Milton Keynes Theatre Foyer – is taken from a topographical map of the moon’s surface made in Leipzig in 1894. From outside the <br>building the drawing is almost invisible <br>during daylight, but, like the moon itself,<br>becomes visible when lit at night. Limited Edition prints of Moon are available for purchase from MK Gallery.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/_G8GylIZeQlY90Ob56XJ19sTj8255vatnzXs4RRE-rCCaodRhp_AEtJeCD7cmQHPHDJQIGuV7b0MKncyGLqo4t4Xq64MWhHOYhJf5x-y3yBelgYpnslVTnCpXzviA9s</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.74883,52.044434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wallwork: Michael Craig-Martin, 1999</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/QyJn1v4TlAtdSOU1JRX-VIMldVChoCKSf0PoxBFRG9JLOV2dqJOp-_yqsZDqPbYCGOPwutbkTBSZ3h9dCrEolM9-YwfDH9GGzLQ4sSWTNqvEED9RD7aceHKCfqOxxuA" height="200" width="auto" /><br><br>Michael Craig-Martin’s work – also in the Milton Keynes Theatre Foyer – is a visual clue to the function of the building. His ‘drawing’ in mild steel shows three objects – a grand piano, a book and a tin of paint brushes. Together they represent processes underlying the creative activities here: music, the written word, and the visual image]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/QyJn1v4TlAtdSOU1JRX-VIMldVChoCKSf0PoxBFRG9JLOV2dqJOp-_yqsZDqPbYCGOPwutbkTBSZ3h9dCrEolM9-YwfDH9GGzLQ4sSWTNqvEED9RD7aceHKCfqOxxuA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7490333,52.044573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Some Day: Boyd and Evans, 1984</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/CwL0PlGpSkBGoCmlWt_mmNAHEDgjNp8joBX9t8tZ733OZbEyfnzuXjfA7zGbTAHR99POViTHwwbmyrEvgi0Z9JZaiss0Hef1mXorDFrquKWO7bKkhb0ww1lVvIujUaY" height="200" width="auto" /><br><br>Acrylic on canvas<br><br>In 1982 Fionnuala Boyd and Les Evans<br>were invited to Milton Keynes as artists in residence; they have lived and worked in the city ever since. Some Day, which hangs in the third floor foyer of the Council Civic offices, shows scenes from life in the ‘new-town’ of Milton Keynes.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/CwL0PlGpSkBGoCmlWt_mmNAHEDgjNp8joBX9t8tZ733OZbEyfnzuXjfA7zGbTAHR99POViTHwwbmyrEvgi0Z9JZaiss0Hef1mXorDFrquKWO7bKkhb0ww1lVvIujUaY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.759344,52.043702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Concrete Cows: Liz Leyh, 1978</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/OxLhTkbPOyy7nVwRH-b08msJWGADlGKYU8aFMTnjwe-t88VDBHPOdGzu9fvRcs7k9jAKQBqu2XEppPDo1Bmp3n8oiPKkVeuG8X16ZCKRVC_7CMNMcnRroS0-77hl_9D_" height="200" width="auto" /><br><br>Concrete and paint<br><br>The original concrete cows made in 1978 by US artist Liz Leyh with the help of local schoolchildren. The cows have been relocated around the city including the Hockey Stadium and INTU Shopping Centre ]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/OxLhTkbPOyy7nVwRH-b08msJWGADlGKYU8aFMTnjwe-t88VDBHPOdGzu9fvRcs7k9jAKQBqu2XEppPDo1Bmp3n8oiPKkVeuG8X16ZCKRVC_7CMNMcnRroS0-77hl_9D_</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8044263,52.05538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Midsummer Place Glass: Anne Smyth, 2000</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/BJL6avGcn8H2a9WBqhCIwquE5QSQLlgzq4eRxuUmaBsMP6rYttAjtCCwoRlrXvXk39zS82KKT1azryV5zG-1vFT-tGlbPl8LdCdkw0tz1ahg5FtI1DIIIOR0H42yoX8" height="200" width="auto" /><br><br>Coloured, carved and etched glass<br><br>Designed around Milton Keynes’ geometric grid system, using the architect’s original road models for reference. Woven into the grid are images of historical and current<br>activity such as the geometric patterns from the Roman Mosaic found at Bancroft. Enigma from Bletchley Park, train wheels from Wolverton and the Grand Union Canal.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/BJL6avGcn8H2a9WBqhCIwquE5QSQLlgzq4eRxuUmaBsMP6rYttAjtCCwoRlrXvXk39zS82KKT1azryV5zG-1vFT-tGlbPl8LdCdkw0tz1ahg5FtI1DIIIOR0H42yoX8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7559320000000002,52.040818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Time Machine (Frog Clock): Kit Williams, 2000</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/8DxIc3JpMtuaJ5k7bFnIS-exqHMLehZ5D2npE0iqYzR2ZKTWca3vvXZ7FH-tUjpljrb_mzotWhHgOBrdHNTuxaQYBE9vrQ0xYmchK-VYZJquUpKLY6dqTtrzu4KTJs4Tkw" height="200" width="auto" /><br><br>Mixed materials, mechanical<br><br>The clock is opposite the Midsummer Place Glass by Anne Smyth. It performs on the hour, and is very popular with families, as the performance includes music and culminates in the frog blowing bubbles onto the crowd below. The clock weighs 4 tonnes, and is believed to<br>be one of Britain’s biggest animated feature clocks.]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/8DxIc3JpMtuaJ5k7bFnIS-exqHMLehZ5D2npE0iqYzR2ZKTWca3vvXZ7FH-tUjpljrb_mzotWhHgOBrdHNTuxaQYBE9vrQ0xYmchK-VYZJquUpKLY6dqTtrzu4KTJs4Tkw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.756243,52.040791,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flying Carpet, Dream Flight, High Flyer: Philomena Davis, 1989</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/ChlcZrNzV3Dzos4NhgZUFZpYmN3t0mimzXCxLaqMiss2N6mawDHbn1ll8z5N41ipUGWigDi7oH4fJz7AZIKnGieDUEab3dQF_87-9KSBIsPySJRRPEji05qh4vFTAyUR" height="200" width="auto" /><br><br>Bronze <br><br>This series of sculptures focus on the theme<br>of flight. The artists describes: ‘they depict<br>man’s fantasy with flight and escapism, in<br>particular, the sorts of escapist dreams that<br>come to us in childhood and adolescence.’]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/ChlcZrNzV3Dzos4NhgZUFZpYmN3t0mimzXCxLaqMiss2N6mawDHbn1ll8z5N41ipUGWigDi7oH4fJz7AZIKnGieDUEab3dQF_87-9KSBIsPySJRRPEji05qh4vFTAyUR</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.757831,52.043022,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bernard Schottlander Collection </name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/eTZfRDGNDbK0s87DsM1l-hWqBMb1OrFSQNseN-k-IUb-V0vQ0o4sL8cnucOU3aLsQvEvCIFqB0Iz7dnlKj2oRzPHqlsSrY5UEVuZUwV2XszjzLM00cZFcuJOiFW-Bg0Mag" height="200" width="auto" /><br><br>A temporary exhibition of Schottlander works distributed across the site at City Discovery Centre]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/eTZfRDGNDbK0s87DsM1l-hWqBMb1OrFSQNseN-k-IUb-V0vQ0o4sL8cnucOU3aLsQvEvCIFqB0Iz7dnlKj2oRzPHqlsSrY5UEVuZUwV2XszjzLM00cZFcuJOiFW-Bg0Mag</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.795641,52.047602,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Church Glass: Alexander Beleschenko, 1992</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/9zFgHgTRMXXrSRL32-xn3DkaFyN09Kr0udrhcVfoLzsDkatZnvq7zsCla6TnsBpRR2mx8WYy5JqsccNtvyPlx6tDXEnXc9xZuOqhCQYMpDXgxg26C_09On54EzTMs7zu" height="200" width="auto" /><br><br>Painted Glass @ Church of Christ the Cornerstone]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/9zFgHgTRMXXrSRL32-xn3DkaFyN09Kr0udrhcVfoLzsDkatZnvq7zsCla6TnsBpRR2mx8WYy5JqsccNtvyPlx6tDXEnXc9xZuOqhCQYMpDXgxg26C_09On54EzTMs7zu</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7613740000000001,52.040886,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Altar Feature: Radford and Ball, 1992</name>
+				<description><![CDATA[Diane Radford and Lindsey Ball<br>Frosted + Acid Etched glass panels with gold leaf <br>Church of Christ the Cornerstone]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<Point>
+					<coordinates>-0.761073,52.041084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bicycle Wall; John Watson, 1978</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/tjfzmMs1VgQL2ugwJUL-FGW-SOEyUIo6y9LT6_uMxvktsp_jBJJhPGtp3LbY4z3lUUMrap5-8Lqjivlou4R0pQULR15keKJBw4isu0gHXA8gmjuXMNzWV5YC50QQtzwS" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/tjfzmMs1VgQL2ugwJUL-FGW-SOEyUIo6y9LT6_uMxvktsp_jBJJhPGtp3LbY4z3lUUMrap5-8Lqjivlou4R0pQULR15keKJBw4isu0gHXA8gmjuXMNzWV5YC50QQtzwS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.773198,52.061894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mosaics; Jill Kitchen &amp; Cathy Ebbels, 2006</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/Vk0F-BMk-AbKU8b-opicJjfxGt6hTDLoQADFz-pA8hja-6oau2_r-JVPZJXPwZEP2Zb9J3cFvy8om7B6l8Dv7xycC7fjwobe3qNpuRvJ8zvWvaVPKxEW7BVb9hk4EqM" height="200" width="auto" /><br><br>Embedded into the paving of the Square in the centre of Wolverton]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/Vk0F-BMk-AbKU8b-opicJjfxGt6hTDLoQADFz-pA8hja-6oau2_r-JVPZJXPwZEP2Zb9J3cFvy8om7B6l8Dv7xycC7fjwobe3qNpuRvJ8zvWvaVPKxEW7BVb9hk4EqM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.804676,52.064178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Ancestors; Bill Billings, 2007</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/TIvJm65FEqR8_If2FN4f5DcCxiQHygyoDHJssZ9kuPu-hq_kWtInCa5-9snGnb6iyOLgSXBH3yuUhka1mqtvJrOoYmkusrXil9n-GITjbdwOEGgcEGCTSNzqKgKC1ZqVpw" height="200" width="auto" /><br><br>Commissioned within the Wolverton Secret Garden with local students. ]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/TIvJm65FEqR8_If2FN4f5DcCxiQHygyoDHJssZ9kuPu-hq_kWtInCa5-9snGnb6iyOLgSXBH3yuUhka1mqtvJrOoYmkusrXil9n-GITjbdwOEGgcEGCTSNzqKgKC1ZqVpw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8044640000000001,52.063812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Round House: Simon Watkinson, 2009</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/UQY8eXPEQJU4SW5W2CWa75vrh_5_OzJ3xEbvR4uFNNKbFUvchuQ3uSCE2XJFnnHCmsT6RLaYz0-KUtVxhcT2FOFbwr8feMBRptrVtBg8UDqHhlmEJ-RUiNm5JjDyse-p" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/UQY8eXPEQJU4SW5W2CWa75vrh_5_OzJ3xEbvR4uFNNKbFUvchuQ3uSCE2XJFnnHCmsT6RLaYz0-KUtVxhcT2FOFbwr8feMBRptrVtBg8UDqHhlmEJ-RUiNm5JjDyse-p</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.799255,51.992809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Foundry of Ideas: Stephen Skrynka, 2009-11</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/7CNcCHSUJxITtdb1XFffXNsiAb102qmIqeRD73HAJsGCNPlAFSFTUmFyp2y5QOTFiRnm0Ig21WG_voUa-vhDws0hnetnE6TK9Vk_RBEC-hfFRnAWMqzTU983iDlQrZY" height="200" width="auto" /><br><br>Collection of artwork at Milton Keynes Academy. Lead Artist Stephen Skrynka.  Works include window art, poems across the building, graffiti mural in the dining hall<br><br>Other Artists: Alec Finlay, David Harding, Peter McCaughley, Felix Braun]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/7CNcCHSUJxITtdb1XFffXNsiAb102qmIqeRD73HAJsGCNPlAFSFTUmFyp2y5QOTFiRnm0Ig21WG_voUa-vhDws0hnetnE6TK9Vk_RBEC-hfFRnAWMqzTU983iDlQrZY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.745697,52.028733,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ring of Steel: Gordon Young 2009</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/iE2_YJGHzJ1FX_TeXBuyIMmqGi_uGM-Gz7sVTsarw_Q5o_HwgXqesKgEfi_OLA7Ll4NTOgaZYn0Ly3yPyoRHhEUdQVbt1Gv03eLMkWNN8KomwIPjV9CZdZ8NHJJctRBV" height="200" width="auto" /><br><br>This piece is within the MK Dons stadium and permission for access may be required http://www.mkdonsset.com/about/news/ring-of-steel/ Spanning the circumference of stadiummk's brilliant open concourse, the Ring of Steel will include over 40,000 faces that will retain a place in Milton Keynes' history. Many people have already had their photos taken along with 26,000 schoolchildren]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/iE2_YJGHzJ1FX_TeXBuyIMmqGi_uGM-Gz7sVTsarw_Q5o_HwgXqesKgEfi_OLA7Ll4NTOgaZYn0Ly3yPyoRHhEUdQVbt1Gv03eLMkWNN8KomwIPjV9CZdZ8NHJJctRBV</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7337670000000001,52.008978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>River of Light: Vaness Dell 2010</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/_1NmO-yKmen3UfFmnBqRRunSk3N0JnOmDZFUuS5AX5Tbve9uLOpMCOhFFhDjivnoX-wnlTCKUS2dty-tUXY0TE9xwbD1Lg6kcHx59_G-4T6uOlr-xdZhLl7WKtu4GfOV6Q" height="200" width="auto" /><br><br>Collection of artworks as part of leisure centre by Vanessa Dell]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/_1NmO-yKmen3UfFmnBqRRunSk3N0JnOmDZFUuS5AX5Tbve9uLOpMCOhFFhDjivnoX-wnlTCKUS2dty-tUXY0TE9xwbD1Lg6kcHx59_G-4T6uOlr-xdZhLl7WKtu4GfOV6Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.726632,51.996653,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moving figures: Wendy Briggs, 2008 </name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/XPZ4AphXKLpm_7n8F2rHnuyMyy1de-XKLbhHN88PUSTgx9P735BP7qyaDKCG3t-uvxpEF1PM0xXjggU6hvScZwzPCtPJ7jHv6_AX1a3iIJXaEgcm-D5HuTGbaAvCbXo" height="200" width="auto" /><br><br>Drayton Park School]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/XPZ4AphXKLpm_7n8F2rHnuyMyy1de-XKLbhHN88PUSTgx9P735BP7qyaDKCG3t-uvxpEF1PM0xXjggU6hvScZwzPCtPJ7jHv6_AX1a3iIJXaEgcm-D5HuTGbaAvCbXo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7269,51.982885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>School Routes: Wendy Briggs, 2008</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/Iw2Gs0cgfzLX_mr6S8mr0hBg6-6twvA9HOlqGnM6AJ7KblEZXNrQca9o4lt5njx9hQPOZIsj81cnCJFEkpJoXaqslboFvEiJ7dVnY4lozERNUco7dOSnCBjlMOmfYIW3yg" height="200" width="auto" /><br><br>Leon School]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/Iw2Gs0cgfzLX_mr6S8mr0hBg6-6twvA9HOlqGnM6AJ7KblEZXNrQca9o4lt5njx9hQPOZIsj81cnCJFEkpJoXaqslboFvEiJ7dVnY4lozERNUco7dOSnCBjlMOmfYIW3yg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.726986,51.979092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Many Hands &amp; Light Travels: Wendy Briggs, 2008</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/qZgauoVDcZNfQsEuzSJRQuwGdltRkrSBLku3_Oq77-DRDco0_MqSieg82D1x2vIM7F1gCy6Ah9ymC2NxDvsxEsqcOsnKbD6geaT-TIa86FE-zOlNCf5HEBa9GTgdtJSF" height="200" width="auto" /><br><br>Water Hall School]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/qZgauoVDcZNfQsEuzSJRQuwGdltRkrSBLku3_Oq77-DRDco0_MqSieg82D1x2vIM7F1gCy6Ah9ymC2NxDvsxEsqcOsnKbD6geaT-TIa86FE-zOlNCf5HEBa9GTgdtJSF</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.724733,51.977995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Light Painting: Ulf Pedersen 2007</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/42V14zNM_75quX9r_L8YLMthqSnM_cCjxtb-G02ExGtswGhawQD99QKRgYBfFwhLtkBDj4pwWB4PRgqWDiMAkqwoBvJU6YYEyKozWQfl6aRo3g81X-jM62D11MzVzQ6R" height="200" width="auto" /><br><br>Walnuts School]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/42V14zNM_75quX9r_L8YLMthqSnM_cCjxtb-G02ExGtswGhawQD99QKRgYBfFwhLtkBDj4pwWB4PRgqWDiMAkqwoBvJU6YYEyKozWQfl6aRo3g81X-jM62D11MzVzQ6R</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.813589,52.018592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Twins: Taslim Martin, 2003</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/pjDuFsMH_a0t1eFJP9kUBFnCT8F-CHuRV370fM7pxxvAtegThtL8-L0L2Gp7pQ4tNLL9NAWk7muEeSx2_qyTmQqXjxXb5docUCAek7JsDvZuvr7NnW9cen4HPAR_t4Ws" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/pjDuFsMH_a0t1eFJP9kUBFnCT8F-CHuRV370fM7pxxvAtegThtL8-L0L2Gp7pQ4tNLL9NAWk7muEeSx2_qyTmQqXjxXb5docUCAek7JsDvZuvr7NnW9cen4HPAR_t4Ws</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8050380000000001,51.99804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Situation Comedy: Boyd and Evans, 1981</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/-Ipqi-UG7bqkKGANshIIy3D2g0a2hDjdEhD8DKVE5-kHQyYy2Gvg17EPPwxw4GbNeMzPGpW_RDwCyv5YmGq0hpUya7NjXknOAMBRpoHgADDLJoUsipX8drPrGM7N3ao" height="200" width="auto" /><br><br>https://www.milton-keynes.gov.uk/libraries/library-news-and-events/art-trail]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/-Ipqi-UG7bqkKGANshIIy3D2g0a2hDjdEhD8DKVE5-kHQyYy2Gvg17EPPwxw4GbNeMzPGpW_RDwCyv5YmGq0hpUya7NjXknOAMBRpoHgADDLJoUsipX8drPrGM7N3ao</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7599445,52.043714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kaleidoscope: Simon Watkinson, 2010</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/HrROg7-HLTKTU8xK5IMQScHLOE66zFD8t-9FlJFZJ36T0JYqBZb24kC2LCvmeBxumKdUHUfrQpwbCu1LUs5fRKjf164QTrQEBnlQ6Q2eMOHOSq2DvOvuSVUIm17DSWA" height="200" width="auto" /><br><br>Ginat kaleidoscope at Priory Rise school in the library by Simon Watkinson]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/HrROg7-HLTKTU8xK5IMQScHLOE66zFD8t-9FlJFZJ36T0JYqBZb24kC2LCvmeBxumKdUHUfrQpwbCu1LUs5fRKjf164QTrQEBnlQ6Q2eMOHOSq2DvOvuSVUIm17DSWA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.799513,51.992809,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Reaching Forward: Martin Heron 2012</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/Y2LVkXZTdUT9WCOdLklf4fcidIJrDiMpk-WK4MZRIvK1lVKgzYXBbjZyHLWV9fHcmu_4bL6eZ9cUnUhe-TYM-Ewy3Pid2tfjg55u15eamd0z5SaRgMsHDPmUGCVdkyul" height="200" width="auto" /><br><br>As part of Wolverton Park development; two figures reaching across the canal, linking the old and the new]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/Y2LVkXZTdUT9WCOdLklf4fcidIJrDiMpk-WK4MZRIvK1lVKgzYXBbjZyHLWV9fHcmu_4bL6eZ9cUnUhe-TYM-Ewy3Pid2tfjg55u15eamd0z5SaRgMsHDPmUGCVdkyul</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.805113,52.065011,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stepping Stones: Ailsa Magnus 2012</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/dpS_bQmYyZx1a6SFTr4SHpzqdRCa1QlAQOrUK2O5SsaKLkrESUGws5Mw3AUm1KOtEMkrJmxuaXN8xt1AHaiU0H3kROkNx7JeQZ73lbuQl_Ykgd83GkoieRHsUOfxQ7OmDg" height="200" width="auto" /><br><br>As part of the housing development in Wolverton Mill]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/dpS_bQmYyZx1a6SFTr4SHpzqdRCa1QlAQOrUK2O5SsaKLkrESUGws5Mw3AUm1KOtEMkrJmxuaXN8xt1AHaiU0H3kROkNx7JeQZ73lbuQl_Ykgd83GkoieRHsUOfxQ7OmDg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.831013,52.061132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MK Hospital Collection</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/5tY4TT6sh8heO1CpgUMDp7aFsIWNNTW3Mi8xlHwoRFIQyuC4lQj8bFdW4Fju9AhPt1dVsiBVnEzT0vT3uNCTTZfFHFYorwxEHz7Lfg1XFb_2q4SlfiJ-xNhxg_vy_Go" height="200" width="auto" /><br><br>Range of artwork in and around the hospital including works by Peter Randall-Page]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/5tY4TT6sh8heO1CpgUMDp7aFsIWNNTW3Mi8xlHwoRFIQyuC4lQj8bFdW4Fju9AhPt1dVsiBVnEzT0vT3uNCTTZfFHFYorwxEHz7Lfg1XFb_2q4SlfiJ-xNhxg_vy_Go</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.738487,52.028627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Cave: Heather &amp; Ivan Morison 2011</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/rm8oURZPZnAGsqdoRnhqbo20A2AmM5ucYyHwYKAWwS7u_J4OTXt9dMxK4y8KgWMNuw1J_nb33gz2KFITNgldB9UoEEfErGFAY1v6k8AaHzbkZ4b9NmWI8NOS77DS63wc" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/rm8oURZPZnAGsqdoRnhqbo20A2AmM5ucYyHwYKAWwS7u_J4OTXt9dMxK4y8KgWMNuw1J_nb33gz2KFITNgldB9UoEEfErGFAY1v6k8AaHzbkZ4b9NmWI8NOS77DS63wc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.746942,52.04681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>A Space - Colour, Light &amp; Texture: Carol Waller &amp; Studio KAH 2011</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/2PjGg3F0CcUM1gxxVV_cYJHRYymgVUKMGBbE65IwZQb3iz6wUvYKFdGZBQfYibdyPODjfiUBDRlfiQACtXRzUASIrZma8hecsS2lgnBsF7em9ZbslKtfABMpScDE558K" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/2PjGg3F0CcUM1gxxVV_cYJHRYymgVUKMGBbE65IwZQb3iz6wUvYKFdGZBQfYibdyPODjfiUBDRlfiQACtXRzUASIrZma8hecsS2lgnBsF7em9ZbslKtfABMpScDE558K</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.811744,52.019253,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>You Are Here: Susan Bradley, 2012</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/ckEA4wiQxpB_RW_UVSmg7-ectXRAm4RW6QuD9KshdZHa0BiMHquI8yW4t54SYOOwJ_lyXqaiVk9cFUAy0a46D7aQmO46_Yg8bWn4EjA5CAExcZIaFWvG-J-0UJbCg67kTw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-959-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/ckEA4wiQxpB_RW_UVSmg7-ectXRAm4RW6QuD9KshdZHa0BiMHquI8yW4t54SYOOwJ_lyXqaiVk9cFUAy0a46D7aQmO46_Yg8bWn4EjA5CAExcZIaFWvG-J-0UJbCg67kTw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.709047,52.038924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lightworks: Rob Olins, 2011</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/pTIDW3qJ_SaVN_MRHkkr2qDp1DLplZo9agMLeEAYeaTDljrm3r3QZvF0gIRjrPgDWXcvFRp8rLTlKFf5fWf3ZJR127svUPSHwDkpGIhaRR0khwTBmKmJ3ltd6WTswlRa" height="200" width="auto" /><br><br><br><br><img src="https://lh6.googleusercontent.com/j_pLlKWFvYH18tdq8Qw84-aYfBBHPqstKq39zAZFuRjGoehqPLV7BNmoGW3booANSWX5lfXEFMMagsI909QJ4ADoHo7LUc7d4GEJCLg_ACsyhZPrZJ4CgYvsG7N4oqOG" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/pTIDW3qJ_SaVN_MRHkkr2qDp1DLplZo9agMLeEAYeaTDljrm3r3QZvF0gIRjrPgDWXcvFRp8rLTlKFf5fWf3ZJR127svUPSHwDkpGIhaRR0khwTBmKmJ3ltd6WTswlRa https://lh6.googleusercontent.com/j_pLlKWFvYH18tdq8Qw84-aYfBBHPqstKq39zAZFuRjGoehqPLV7BNmoGW3booANSWX5lfXEFMMagsI909QJ4ADoHo7LUc7d4GEJCLg_ACsyhZPrZJ4CgYvsG7N4oqOG</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.689478,52.020124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Welcome: Ulf Pederson, 2012</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/6MrZxHUkv6kzp-64CCy9LgGFxfCyKwBpJrZi6SlV9FT-AqY0YEnZOaQpF-S0fkrvFjoGT1pxqw8uMXMxM_j9ex-G6PCfJ4ZqBpEfAKm3rpK8MmsSkl_LgXQNveyGImI" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-959-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/6MrZxHUkv6kzp-64CCy9LgGFxfCyKwBpJrZi6SlV9FT-AqY0YEnZOaQpF-S0fkrvFjoGT1pxqw8uMXMxM_j9ex-G6PCfJ4ZqBpEfAKm3rpK8MmsSkl_LgXQNveyGImI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.75089,51.998331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rising Sun: Thrussell &amp; Thrussell, 2012</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/FTswLH9fY2ezdEN0FB0qtCYD7UsfnIywV7030su98SQn8A9PdVQSFVr5ZgSuI31B8SE4PoMMx739LG9eBCjJYDbYXPCirpkBgCcezM8VHFv4avwS7_CDvBhx8YZPbEzq" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/FTswLH9fY2ezdEN0FB0qtCYD7UsfnIywV7030su98SQn8A9PdVQSFVr5ZgSuI31B8SE4PoMMx739LG9eBCjJYDbYXPCirpkBgCcezM8VHFv4avwS7_CDvBhx8YZPbEzq</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.751705,51.997644,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>O Wert Thou in the Cauld Blast: Ronald Rae, 1984</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/yABu4HPrvuHelLVlktfwtgUJpwD4Ue0R3aMw5ZOMrLy7zEimkxN0fpGuj32uELuyv8iy1peyHxJujx_gCqkGZXLtoAkWz4hiPD6V82RU2AaPpOJIcctu3VvdpHEZ5S3N" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/yABu4HPrvuHelLVlktfwtgUJpwD4Ue0R3aMw5ZOMrLy7zEimkxN0fpGuj32uELuyv8iy1peyHxJujx_gCqkGZXLtoAkWz4hiPD6V82RU2AaPpOJIcctu3VvdpHEZ5S3N</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7727770000000002,52.034964,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Presentation: Allan Sly, 2001 </name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/oYbd5zAHju9SnzuZRfhc7Y4cEroCyq6OM2KvYhjKUg_AWQw-tREfSqyg86YdTtmSJ0AseUx2FCMDTkmt8QN9FbOAuIkcsxsMtWFioWA-bfpTXmRc3BAY9HsVv-vgyaQ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/oYbd5zAHju9SnzuZRfhc7Y4cEroCyq6OM2KvYhjKUg_AWQw-tREfSqyg86YdTtmSJ0AseUx2FCMDTkmt8QN9FbOAuIkcsxsMtWFioWA-bfpTXmRc3BAY9HsVv-vgyaQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.751547,52.04697,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Onwards &amp; Upwards: Robert Koenig, 2011</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/1cL5xLq0zcr1hB7vKRzzdinY9NI1K9rXyZTWwD7q_Nn-bnEBjGEOIi4iMjzYzwJE9ugl88_T-60chK4qW6Sg_gxNIh1TjIc1ymGr5S6b_HRxWRZpSnmWeOHJXiFZi9od" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/1cL5xLq0zcr1hB7vKRzzdinY9NI1K9rXyZTWwD7q_Nn-bnEBjGEOIi4iMjzYzwJE9ugl88_T-60chK4qW6Sg_gxNIh1TjIc1ymGr5S6b_HRxWRZpSnmWeOHJXiFZi9od</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.738857,52.048076,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Design Your MK: MK Gallery, 2012</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/Rr_IvavTJYr4kH4X67XI58OL8mHI0Mm4xvDVC_rjeRyEwtMbE9eEEIVLPuujY61BKKWpYHz4qyks1E2Icjli1pKT1QWdZNZ406uADXdsLKBv9xUVGTjcCMRfFws_hnHuSg" height="200" width="auto" /><br><br>Painted Porte Cocheres as part of a schools design competition]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/Rr_IvavTJYr4kH4X67XI58OL8mHI0Mm4xvDVC_rjeRyEwtMbE9eEEIVLPuujY61BKKWpYHz4qyks1E2Icjli1pKT1QWdZNZ406uADXdsLKBv9xUVGTjcCMRfFws_hnHuSg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.751705,52.043834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Embrace: John Wragg, 1966 </name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/LToN4VOHMY-3llSTnoYjynRBRSnCzxt-GPn_ScanL-ulClh4POZWd7GNkFpcmgFs5xD5qbKkjEVHmywpAnk3XN_3jNHFRq85dQN57zEMkFJ4_BPmysw1MUS5r790GTnQ" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/LToN4VOHMY-3llSTnoYjynRBRSnCzxt-GPn_ScanL-ulClh4POZWd7GNkFpcmgFs5xD5qbKkjEVHmywpAnk3XN_3jNHFRq85dQN57zEMkFJ4_BPmysw1MUS5r790GTnQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.766119,52.036391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Art glass facade at Sainsbury’s Central Milton Keynes: Mel Howse, 2008</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/h6-1JjWrT6wB1TCUibMbQu9bdcH7WGIC7qBRHsFw5Ox4tKn1JX1jyGqdFNLAWHT6jGgWzW55omsP7z03zgGOlR-lPqEj-rjym136ZjZKGibupronbdRC4HmEUgE0TLUz" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/h6-1JjWrT6wB1TCUibMbQu9bdcH7WGIC7qBRHsFw5Ox4tKn1JX1jyGqdFNLAWHT6jGgWzW55omsP7z03zgGOlR-lPqEj-rjym136ZjZKGibupronbdRC4HmEUgE0TLUz</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.762831,52.036403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Triple Starhead: Paul Neagu, 1987-93</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/60FcdUHpZNoqYv8KZMeEkEGvLUFXDNI4XlKXImVOTyL_4QUrszhLZsoatQQ52swiCZq9HPR3_Iip0jbiVMV1cs050A-cgjrUooqeQz0CKrsERlHvE3faf2r8VG_sU4aNPA" height="200" width="auto" /><br><br>This is a piece on loan from Paul Neagu http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/60FcdUHpZNoqYv8KZMeEkEGvLUFXDNI4XlKXImVOTyL_4QUrszhLZsoatQQ52swiCZq9HPR3_Iip0jbiVMV1cs050A-cgjrUooqeQz0CKrsERlHvE3faf2r8VG_sU4aNPA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.761651,52.014882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OU Public Art Collection </name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/uUFNW5gjfnuUUVcvZCqunqvC1GkhYKtKIuk0JzuXE_Fwi0KXX27XZ5D3zOOt5HRlyG2Rj8uPhJO4VWrJM65G_SD0RECBG3yJnlFO9YoPyY6wE7u9xG1pDQn8Bt0BNnYw" height="200" width="auto" /><br><br>A broad public art collection across the site at Walton Hall http://www.milton-keynes.gov.uk/assets/attach/40118/OU-artwalk-collection-leaflet-2013.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/uUFNW5gjfnuUUVcvZCqunqvC1GkhYKtKIuk0JzuXE_Fwi0KXX27XZ5D3zOOt5HRlyG2Rj8uPhJO4VWrJM65G_SD0RECBG3yJnlFO9YoPyY6wE7u9xG1pDQn8Bt0BNnYw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.718575,52.024719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aqua: Julian Stocks, 2011</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/Y_xtnDP-j9g2aCNWJNTAZgQlb3Hi44uiHaPTHUla6gDGPXm0OTfniOcHM_gYSeM6rNu2j29h2F9HwQ7zGIPGIdH1D1mSRDy3UNmx3GvvJe8OnjzA3qFdJIGTOEwWL54" height="200" width="auto" /><br><br>The Stained Glass Windows for the New Crematorium are inspired by cycloid geometry. This can be seen within the architecture and also found in the surrounding landscape.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/Y_xtnDP-j9g2aCNWJNTAZgQlb3Hi44uiHaPTHUla6gDGPXm0OTfniOcHM_gYSeM6rNu2j29h2F9HwQ7zGIPGIdH1D1mSRDy3UNmx3GvvJe8OnjzA3qFdJIGTOEwWL54</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.803719,52.031901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pass the Parcel by Walter Jack</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/dVMKk0mmEfqmGTH2rvEWUzbBdyrDq-quwiKcZ59XSDKapdVaxIBcUqs6D7tBC2KxI1Gwnfo36MXMCon8zbBqxxfK1M3ijOPUUgzbY-PhzKAXGeBJrHHi188S1tBkSw" height="200" width="auto" /><br><br>http://passtheparcel-mk.tumblr.com/               <br>The Pass the Parcel 'gift' left at Brooklands Farm School]]></description>
+				<styleUrl>#icon-503-D698AD</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/dVMKk0mmEfqmGTH2rvEWUzbBdyrDq-quwiKcZ59XSDKapdVaxIBcUqs6D7tBC2KxI1Gwnfo36MXMCon8zbBqxxfK1M3ijOPUUgzbY-PhzKAXGeBJrHHi188S1tBkSw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6877609,52.0498513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vinyl Glass (Kingston Library): Claudia Phipps (2014)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/3af_EYs6bbSIytnjFmSzhQLCSeejZ82LtQtiV9YhJ87IM3Lh635R4lpOwuxJ2MNQ4BGQlgRWTggAF2DpdHRWTfDjk-lgKtSqjVfCie38R7DHvNKhJZRGtaSRz90TgUqS" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/3af_EYs6bbSIytnjFmSzhQLCSeejZ82LtQtiV9YhJ87IM3Lh635R4lpOwuxJ2MNQ4BGQlgRWTggAF2DpdHRWTfDjk-lgKtSqjVfCie38R7DHvNKhJZRGtaSRz90TgUqS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6902289,52.034515,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sir John Dankworth Sculpture: David Annand (2014)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/OTqDu8wZ-zitYZZdsCwt1vyKty24uIBS_T_NvY00wruC1ENlj3xFUbKwRbcDA4knKx_SAmJrKOOz_L1GVBCoi4NCINlB1PhOku3V5nNJzrTfm_gSw6gNsXn23IBD7jT12A" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/OTqDu8wZ-zitYZZdsCwt1vyKty24uIBS_T_NvY00wruC1ENlj3xFUbKwRbcDA4knKx_SAmJrKOOz_L1GVBCoi4NCINlB1PhOku3V5nNJzrTfm_gSw6gNsXn23IBD7jT12A</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6763887,52.0267393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Serpent: Chris Drury (2014)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/Xp9owco1Nl2wx7F6M8Hg8wkaVeThFH36rH7GnCFzS1jOpkwgzOZd-uD1Iy4c8ClCZ4ncK4jtt_HxiPulnsWZRUUk1YxWc5exg4cTFPvHr2Ml_RPz-4Qfgzy4hTz8qWE" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/Xp9owco1Nl2wx7F6M8Hg8wkaVeThFH36rH7GnCFzS1jOpkwgzOZd-uD1Iy4c8ClCZ4ncK4jtt_HxiPulnsWZRUUk1YxWc5exg4cTFPvHr2Ml_RPz-4Qfgzy4hTz8qWE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7265353,52.0144986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MK Rose: Gordon Young (2013)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/loYqlpr1zo9g-zIC-jd0JHU4EQeAWspgB2DeiEAOeKx9QGFfRoQm6EukUEdXyc49or83dtgKaniuNeMOfqil-6Ecs2hYiRHjoWtk7oBUSVlXCu2VnUF6VwED8Q-XYs4Y" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/loYqlpr1zo9g-zIC-jd0JHU4EQeAWspgB2DeiEAOeKx9QGFfRoQm6EukUEdXyc49or83dtgKaniuNeMOfqil-6Ecs2hYiRHjoWtk7oBUSVlXCu2VnUF6VwED8Q-XYs4Y</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7467377,52.0461036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Light Pyramid: Liliane Lijn (2012)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/0hXu43oeiIow1gP6PGKKBJdsSUAI4fidjADEOIF58P5YDTQYo2mPnycjutr4u99qaihPjC5IjYO31IoQhUzYp_djTKb9cntU6rx8Q0pnlehPRiaS3nwUvuvByVqOE5xR" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/40172/walk-10--woolstone-campbell-park-art-trail.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/0hXu43oeiIow1gP6PGKKBJdsSUAI4fidjADEOIF58P5YDTQYo2mPnycjutr4u99qaihPjC5IjYO31IoQhUzYp_djTKb9cntU6rx8Q0pnlehPRiaS3nwUvuvByVqOE5xR</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.743798,52.04737050000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leda &amp; The Swan: Michael Morse McDonald (1992)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/JUo29RMOtrKt7OHGUsh50_f0NUlrtFr8tSfLnyZviiAcrNvDeL2Zskq5bFuekhU3fF5H_zGIA7uKrG0NpmYj9uhzq0oFX5TRcp4TiSJ-f2zcRTZfjikz0Hvc8yNP2axC" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/JUo29RMOtrKt7OHGUsh50_f0NUlrtFr8tSfLnyZviiAcrNvDeL2Zskq5bFuekhU3fF5H_zGIA7uKrG0NpmYj9uhzq0oFX5TRcp4TiSJ-f2zcRTZfjikz0Hvc8yNP2axC</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7229894000000001,52.0500724,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Four Faces: Tim Minett &amp; Neil Higson (1985)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/eGRQbiB-zmZ8E_neaunlGaE7Mj-caNo6hlVp5JxqBV6qdGbQY8793y6JqxJcub1D-wLunR_bj9JaE5wEsOthuRDYLgMaBFoPLlqPpCLdgMnfv-lhQQcRXkFrhRZ-Xatm" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/eGRQbiB-zmZ8E_neaunlGaE7Mj-caNo6hlVp5JxqBV6qdGbQY8793y6JqxJcub1D-wLunR_bj9JaE5wEsOthuRDYLgMaBFoPLlqPpCLdgMnfv-lhQQcRXkFrhRZ-Xatm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7244754,52.0595757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hiroshima Departed: Ronald Rae (1985)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/n84TBLsFIHddN6LNyIkK5TbE6T4ZuQI5eWKngx2OEo8MWsBolqgbkATbdjuWQpTUeySXb0FMErEtkI14mWJpJEecDHvBTumluRs3qncpdC-n-fszAQFDoHs-TkjxawQdtw" height="200" width="auto" /><br><br>Gift by Edna Read]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/n84TBLsFIHddN6LNyIkK5TbE6T4ZuQI5eWKngx2OEo8MWsBolqgbkATbdjuWQpTUeySXb0FMErEtkI14mWJpJEecDHvBTumluRs3qncpdC-n-fszAQFDoHs-TkjxawQdtw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7257628000000002,52.0554857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willen Labryinth: Neil Higson (1988)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/TLhl9fUNVDRbRRldXGlp9sQJM_eE4IgbaS13-3DreF91En_1bqruVckcl-2-1WUPtbWkya5oneecMt5ODoivlgK2R7yD7lfZq2Zj6nxmZR4lcjOv5qZhPBiuBsDtaSORWw" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/TLhl9fUNVDRbRRldXGlp9sQJM_eE4IgbaS13-3DreF91En_1bqruVckcl-2-1WUPtbWkya5oneecMt5ODoivlgK2R7yD7lfZq2Zj6nxmZR4lcjOv5qZhPBiuBsDtaSORWw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.72469,52.0595493,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Portals: Susan Hitching (1985)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/KY4oDnD25O5k-ctO3s6Gl9OmRdAT1J2cHajo2auRpChabOYM3-cRdUc7xqu6wJqqZksI8AnG8sjoLWyiS36FdHcTioDzmiFb82u6lUbg8u0FP_YhIYsZEOJULMNKTJ11" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/KY4oDnD25O5k-ctO3s6Gl9OmRdAT1J2cHajo2auRpChabOYM3-cRdUc7xqu6wJqqZksI8AnG8sjoLWyiS36FdHcTioDzmiFb82u6lUbg8u0FP_YhIYsZEOJULMNKTJ11</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7667577000000001,52.0146109,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Various: Jack Stephenson (1987-Present)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/G48ShqwEh9IvIV_yeYDUWUBLwD_WspjFeuciu3JjdifzQ7SOEmsvgp6r2uYah4JlPCRGOjnzUZsqc42Lxlch5A7y0djfNZwM9vGf3TFBvwA6icF5g6AKXRLI6BMsm5E" height="200" width="auto" /><br><br>Carved wooden figures in a variety of forms; mainly woodland animals and plants.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/G48ShqwEh9IvIV_yeYDUWUBLwD_WspjFeuciu3JjdifzQ7SOEmsvgp6r2uYah4JlPCRGOjnzUZsqc42Lxlch5A7y0djfNZwM9vGf3TFBvwA6icF5g6AKXRLI6BMsm5E</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7650518,52.0551822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Souls in Love: Frederic Chevarin (2012)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/Vh3WXKy46fjDGgoC6_Ajl5xzvFBJEQJlvuYSAXVrE9eCSHOiBq4VC_0j0N77LjOLP9jqheF4VXr3gMc01iQ2t0628xrKBXQGN5aWv-qOj3EwGQaead-d03bzNLjnDVE" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/Vh3WXKy46fjDGgoC6_Ajl5xzvFBJEQJlvuYSAXVrE9eCSHOiBq4VC_0j0N77LjOLP9jqheF4VXr3gMc01iQ2t0628xrKBXQGN5aWv-qOj3EwGQaead-d03bzNLjnDVE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7240891,52.058738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Animals at War: Ronald Rae </name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/t373gJrX-N6Og_JT3fMiiQyRctEzvEZTI22VYkwJjDIjdvg7Pn6tmYspfnsOlHmc9qzSZC_-xS82A7YJRvPwQffwNeidfPr0SRE287vJH42H1zBShLnbofWDsJazmok" height="200" width="auto" /><br><br>Installed in memory of public art pioneer Edna Read who died in 2012]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/t373gJrX-N6Og_JT3fMiiQyRctEzvEZTI22VYkwJjDIjdvg7Pn6tmYspfnsOlHmc9qzSZC_-xS82A7YJRvPwQffwNeidfPr0SRE287vJH42H1zBShLnbofWDsJazmok</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7409066,52.0492575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chromocochere: David Batchelor (2014)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/AJBF3GVK6xfT-qhra2-kgieXmeO6RBKNgjQ9Bqzx8yZSzzkGotDLXJNSA8aVJF0jICfrhGMq_qYKhCuwl2FthMY1hVoX9DBLr8fSZrEAgVE1J2kcMVfRALiREIsX8boTCA" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/33938/Transform_08.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/AJBF3GVK6xfT-qhra2-kgieXmeO6RBKNgjQ9Bqzx8yZSzzkGotDLXJNSA8aVJF0jICfrhGMq_qYKhCuwl2FthMY1hVoX9DBLr8fSZrEAgVE1J2kcMVfRALiREIsX8boTCA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7492161000000002,52.0448366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MKportal: Will Nash (2014)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/Oq4UIWnwhTy31vJ9Ve3Jw0GyAPJy-RIx5Vf9_dVgpjIyLM9HKs5Lvwact6L5WI1hBcDuZHUPsyduVFavvg8xBkrh7k0Z1JXu2nY59L76AOx97GBu4qOmC6_LN8MShAU0" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/33938/Transform_08.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/Oq4UIWnwhTy31vJ9Ve3Jw0GyAPJy-RIx5Vf9_dVgpjIyLM9HKs5Lvwact6L5WI1hBcDuZHUPsyduVFavvg8xBkrh7k0Z1JXu2nY59L76AOx97GBu4qOmC6_LN8MShAU0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7596123,52.040963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MK Menhir: Sam Jacob (2014)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/dgAbUKXc1oIiEBDdQZGwaUUNzcXiNMh0MQ4QMy0RSitBI6APaD_gUxkdFLAZ7gv4iCGSz56aGXIMMtJx2PJN0Nw4bDhhkP36oSu1GYN0W6diURg54vxkZ0lQaflvBlsf7g" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/33938/Transform_08.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/dgAbUKXc1oIiEBDdQZGwaUUNzcXiNMh0MQ4QMy0RSitBI6APaD_gUxkdFLAZ7gv4iCGSz56aGXIMMtJx2PJN0Nw4bDhhkP36oSu1GYN0W6diURg54vxkZ0lQaflvBlsf7g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.760181,52.0404153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tortoise: Michel de Broin (2014)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/RY3ycoYwtn_SN9MYL0dUYeKYHjm-RVSfGGzd1uilQMuVlllpTHrlKjHSSggLTnl7Y-bPO7Xa0iAWbJZ_iwliVG0GkX1n6Zamr5xlbvgohGcaCo1neGV3Rqdpd1A5vr5B" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/33938/Transform_08.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/RY3ycoYwtn_SN9MYL0dUYeKYHjm-RVSfGGzd1uilQMuVlllpTHrlKjHSSggLTnl7Y-bPO7Xa0iAWbJZ_iwliVG0GkX1n6Zamr5xlbvgohGcaCo1neGV3Rqdpd1A5vr5B</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7597733,52.0436224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hayes Mews Artwork, Chris Johns (2013)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/BIaisNCNBvi7Q_31eXSm8Cs-fky44F0guPWsinVb6WLXivxqH23XrrtC0oZaUyNpba4ZMcPQWT1bsLFEzVvwPrUcVnDVoR3gD_BRjb37b5h5thDtg71vBcJKsdAbBcXr" height="200" width="auto" /><br><br>Collection of Artwork in the new housing development]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/BIaisNCNBvi7Q_31eXSm8Cs-fky44F0guPWsinVb6WLXivxqH23XrrtC0oZaUyNpba4ZMcPQWT1bsLFEzVvwPrUcVnDVoR3gD_BRjb37b5h5thDtg71vBcJKsdAbBcXr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8475351,52.0541993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MS Series 1: Bernard Schottlander (1970)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/tvECINghssJq52ZWzGnmTQ3lko0ZyD3kkQJ8YBR-nQQHFdQANkyBnKMv1WPQyB2y7Vymk9t2IjlVLjw0-_VFQsYoRaSedOd7kRhPMzELR2q2rwEu-B_gmwGRBO6tj03x" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/tvECINghssJq52ZWzGnmTQ3lko0ZyD3kkQJ8YBR-nQQHFdQANkyBnKMv1WPQyB2y7Vymk9t2IjlVLjw0-_VFQsYoRaSedOd7kRhPMzELR2q2rwEu-B_gmwGRBO6tj03x</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7403111,52.0023339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alan Turing Mosaic: Al Butt &amp; Rita Gav (2014)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/VJZJ0YtvZ-Dn9de42E5pEriPM973nK4hZ6bxRBGMWIYR4O2FDh7apLUjAvzBHXxWsMZTVov-btfXhum69n3693cft4hKnuoVEaCK7ssc_dca2AXKjFD13O5Bi_86WzeA" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/VJZJ0YtvZ-Dn9de42E5pEriPM973nK4hZ6bxRBGMWIYR4O2FDh7apLUjAvzBHXxWsMZTVov-btfXhum69n3693cft4hKnuoVEaCK7ssc_dca2AXKjFD13O5Bi_86WzeA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7121801,51.9973006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alan Turing: Stephen Kettle (2007)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/ETWxd26VI_vflcJ-6gg85ZSOmQ1Ia7eCNZgBBUHR_VGjq5Ex0wA5YuzIWy_tXSxqcOrU7DD7oHym5QH4ZbO1Pnd80HNCShE42x9UvYdoxcHKllbRrdeMWr4FFD4W-m0" height="200" width="auto" /><br><br>Slate sculpture of Alan Turing within the grounds of Bletchley Park.  Ticket access required or free access during annual Heritage Open Days for MK residents]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/ETWxd26VI_vflcJ-6gg85ZSOmQ1Ia7eCNZgBBUHR_VGjq5Ex0wA5YuzIWy_tXSxqcOrU7DD7oHym5QH4ZbO1Pnd80HNCShE42x9UvYdoxcHKllbRrdeMWr4FFD4W-m0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7397103,51.9963692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Commemorative Monument: Charles Gurrey (2011)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/jLb1x5Df1rd29HkZDXHSdfuQX6h_124KzKvPlJY6EJFGZpUNm5aNvgGphPILnKjBjGip5q39REoCeoEsPLQZTL0MhGEYMhbasSWiM9DrRfxt-wAG_-CEujvclA6KFGud" height="200" width="auto" /><br><br>Opened by HM Queen in 2012. Ticket access required or free access during annual Heritage Open Days for MK residents]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/jLb1x5Df1rd29HkZDXHSdfuQX6h_124KzKvPlJY6EJFGZpUNm5aNvgGphPILnKjBjGip5q39REoCeoEsPLQZTL0MhGEYMhbasSWiM9DrRfxt-wAG_-CEujvclA6KFGud</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7395709,51.9971487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poetry Posts: Brook &amp; Black (2014)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/-wvvVUwcBy93UCBsRLm02GtPgbIb8OBXXOAoxldqYAoKTBP0kfOXAIaf87YD3Z9-vybt-rVhEa0VrrOIpH93LB5fEfh50QGscrLi3xOsh1S9SuOWPJwMRR3yFByHXkRS" height="200" width="auto" /><br><br>Sign posts with poetry within the new housing development]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/-wvvVUwcBy93UCBsRLm02GtPgbIb8OBXXOAoxldqYAoKTBP0kfOXAIaf87YD3Z9-vybt-rVhEa0VrrOIpH93LB5fEfh50QGscrLi3xOsh1S9SuOWPJwMRR3yFByHXkRS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8233309,52.0649846,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leaping Man: Clare Bigger (2014)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/PyiYI6dUVLniOxz-5CBHQxsSQsymgti2_php-RqaPsXmoVzvyDWQTvKU4u4FAD1H4_w3J68J2bbjkVznx7mf7t9x-wnyk8W5VXxJJ21ETczmJnBhnwMS6BJul9SsXt3r" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/PyiYI6dUVLniOxz-5CBHQxsSQsymgti2_php-RqaPsXmoVzvyDWQTvKU4u4FAD1H4_w3J68J2bbjkVznx7mf7t9x-wnyk8W5VXxJJ21ETczmJnBhnwMS6BJul9SsXt3r</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6639862,52.0351487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wings of Enterprise: Walter Richie (1991)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/yimjWb9ciKjyZYf-RwtiG9OJ7f-HR7UHQzFyNSOaYsXr-1kgkrOaM4zkR9GUms4oCoVt-Z5ZEbBZQOvofXC8Iv9yScyWB-P2XvZmeK53EXipTqeJbnsjlahIlEpqL9xG" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/yimjWb9ciKjyZYf-RwtiG9OJ7f-HR7UHQzFyNSOaYsXr-1kgkrOaM4zkR9GUms4oCoVt-Z5ZEbBZQOvofXC8Iv9yScyWB-P2XvZmeK53EXipTqeJbnsjlahIlEpqL9xG</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6958294,52.0054382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sheep: Judith Bluck (1980)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/ZU1DLI2si50rsrzZwBQiCZo9_BIX2dj3G__h1IkmCueae4AdPi6YdrQQ1L2fgoaVKj-Hj7hn9rA_dAaSqV3qp47RUfDqcceEzzJPDlHKFRgrdHzEsBGLwCWyS-_tq8D80g" height="200" width="auto" /><br><br>in Durrans Court]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/ZU1DLI2si50rsrzZwBQiCZo9_BIX2dj3G__h1IkmCueae4AdPi6YdrQQ1L2fgoaVKj-Hj7hn9rA_dAaSqV3qp47RUfDqcceEzzJPDlHKFRgrdHzEsBGLwCWyS-_tq8D80g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7168257,51.9983741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>War Veteran: Ronald Rae</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/H0HLfAz-bVBKbiVvCXVcECwQrd4X3Hkzh-4StPBJvVa80n5dbMHnqkShqVq3APdWonxXxSye4a0RBHvd_tn3bzu6IWs2fpKHgI5P-C4n5WDvJSZlzPp8L2S-t_OysLo" height="200" width="auto" /><br><br>Life-size sculpture of a land mine victim]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/H0HLfAz-bVBKbiVvCXVcECwQrd4X3Hkzh-4StPBJvVa80n5dbMHnqkShqVq3APdWonxXxSye4a0RBHvd_tn3bzu6IWs2fpKHgI5P-C4n5WDvJSZlzPp8L2S-t_OysLo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7481539,52.046671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stony Stratford Markers: Alec Peever (2001)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/FV6trvb2HQsDeWw43RQ7r33EkXFrWmhqbIsaveM8TxUOprmdPERb_9Hr0vx6-Kkd1QHyuS7N8kkDHLH-q6iRqK_fAy36Rx8C32RugPShdVxNcVOORnQlYq23gQ3Otkkm" height="200" width="auto" /><br><br>Five stone markers that greet visitors to Stony Stratford.  Each marker is made of different stone with carving on each side]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/FV6trvb2HQsDeWw43RQ7r33EkXFrWmhqbIsaveM8TxUOprmdPERb_9Hr0vx6-Kkd1QHyuS7N8kkDHLH-q6iRqK_fAy36Rx8C32RugPShdVxNcVOORnQlYq23gQ3Otkkm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.842675,52.0586654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NURP 40 TW 194: David Appleyard (2014)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/D8m5xImz2LXWuEwdTDCr6LYcNyC0jK5s1Xr9l6pjusM92_02PHRH4mpVrbkGBqmDTcfPbn3r0Tjy6f_Rua_7pQNyRSU5iGdYhWs65N6SEk52jgdTxgYTeptMJBTx3Cuw" height="200" width="auto" /><br><br>permanent installation outside Bletchley Station. The hut has no obvious entrance but it does have a small brass letterbox capable of receiving messages. The work references various aspects of Bletchley's rich history but draws particular attention on the history of Bletchey Park and the code breakers who worked there during WW2.<br><br>The gable ends of the hut are cast in a fine glass reinforced concrete and detail a 1938 OS Map of Bletchley.<br><br>NURP 40 TW 194 is named after a military pigeon]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/D8m5xImz2LXWuEwdTDCr6LYcNyC0jK5s1Xr9l6pjusM92_02PHRH4mpVrbkGBqmDTcfPbn3r0Tjy6f_Rua_7pQNyRSU5iGdYhWs65N6SEk52jgdTxgYTeptMJBTx3Cuw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7376182,51.9954345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stained Glass Windows: Annette Reed (2015)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/3sUedoZ_uLNineL1touS8-TblmD3yQq9WFDfXMtTfXHks9Ysl3ikIQ2dEFskWlCfbvGmtdWXq49hASzzO2SqfA9bBzIRzmn1sZU_PQhCRlTgFOS5ZjtZu36lewN_4l4" height="200" width="auto" /><br><br>windows as a feature within the Howe Park Visitor Centre]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/3sUedoZ_uLNineL1touS8-TblmD3yQq9WFDfXMtTfXHks9Ysl3ikIQ2dEFskWlCfbvGmtdWXq49hASzzO2SqfA9bBzIRzmn1sZU_PQhCRlTgFOS5ZjtZu36lewN_4l4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.79211,52.0025915,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Frog Band: Unattributed (installed 2015)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/iyERempvN9Mt-G-7QiuLeHvbV_jIg0gFWm9V8lnxWBKmPrfWGPlYBTnb95orkQqFMDFFYU0ye-6ZUIXjYCg6lXf289Vde7X5Lc-RmoOUhaAf5ZlJxkIXxRt-yyiwc4g" height="200" width="auto" /><br><br>rehomed from the former home of Inter-Action MK (Old Rectory, Peartree Bridge)]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/iyERempvN9Mt-G-7QiuLeHvbV_jIg0gFWm9V8lnxWBKmPrfWGPlYBTnb95orkQqFMDFFYU0ye-6ZUIXjYCg6lXf289Vde7X5Lc-RmoOUhaAf5ZlJxkIXxRt-yyiwc4g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7913589,52.0028359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Toadstools: Lesley Bonner (1979)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/3z0zuxIhPwQ_d6AB98r8bk7b8ycO5fiv0wRRZR1Vhlj5r8xpJHevvL_fAJEMhBFMHsLByJXipq_cTVlWw1IJYXY9dr4t9EVasOuFkG-T0S74HAlSJbYcrOpA-apPMBXB" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/3z0zuxIhPwQ_d6AB98r8bk7b8ycO5fiv0wRRZR1Vhlj5r8xpJHevvL_fAJEMhBFMHsLByJXipq_cTVlWw1IJYXY9dr4t9EVasOuFkG-T0S74HAlSJbYcrOpA-apPMBXB</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7383907,52.020692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Griffin: Lesley Bonner (1979)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/cXwwZa0idV7x_JroAp2Fz81ZKbIV3W-GSfo7IfsrdRUL1TV4h_y729lDGH79RnX0ZNJsywAOi4-ipX4CQUVMqQ23uOzehGdHMOb6pIlNd4HOCBZcumhHZSrWYi3HH3o" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/cXwwZa0idV7x_JroAp2Fz81ZKbIV3W-GSfo7IfsrdRUL1TV4h_y729lDGH79RnX0ZNJsywAOi4-ipX4CQUVMqQ23uOzehGdHMOb6pIlNd4HOCBZcumhHZSrWYi3HH3o</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7407296,52.0302544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dragon: Lesley Bonner (1980)</name>
+				<styleUrl>#icon-102-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.7562113,52.067431500000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bollards, Seats &amp; Tree Grills: Taslim Martin (2003)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/812Y256GMA_uv_0Io4_4vUtl6YXtW4RctxwbdZL2myegHB9kNGU3lSp84SPozKKoIiqQ5k4-luIP8na0nAKB8qHbXCxL0QMQBiWv8RdxmP4-utf4Az-Jkk954FwRflY" height="200" width="auto" /><br><br>Throughout the Kingsmead Estate]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/812Y256GMA_uv_0Io4_4vUtl6YXtW4RctxwbdZL2myegHB9kNGU3lSp84SPozKKoIiqQ5k4-luIP8na0nAKB8qHbXCxL0QMQBiWv8RdxmP4-utf4Az-Jkk954FwRflY</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.805006,52.0008544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tin Man: Liz Leyh (1977)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/JlX4HDcDciUZJt_uLXWn6b21uiu43-2xZyoptf58PS9jt48_zKBwqSrYDf7SQwOwspHrGqxLC98oPzca9PVCz1Rorw9LVsb9HuX56mYorYYFTYEhPNZGBO91RHSvEGWy" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/JlX4HDcDciUZJt_uLXWn6b21uiu43-2xZyoptf58PS9jt48_zKBwqSrYDf7SQwOwspHrGqxLC98oPzca9PVCz1Rorw9LVsb9HuX56mYorYYFTYEhPNZGBO91RHSvEGWy</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7403514,52.0170226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Girl &amp; Boy: Robert Keonig (1994)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/BRQpJZ27NJczqZEBq4SwL_T3V3WioYuEiC0muljS-r83EJtStod5cPbXO0Fcxai0ietQvDi_8E9OTyLDBypeaO4aywOYXLdffC5O5Zbz-WPknsV4GUTVgcsfE_AukeHa" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/BRQpJZ27NJczqZEBq4SwL_T3V3WioYuEiC0muljS-r83EJtStod5cPbXO0Fcxai0ietQvDi_8E9OTyLDBypeaO4aywOYXLdffC5O5Zbz-WPknsV4GUTVgcsfE_AukeHa</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7006252,52.0252441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Wolverton Train, Bill Billings (1986)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/dFsW7ZfLi2ElZSlbLwmfxtWNx5CJZVA-roHsk6tskGTpxOORKLADi7FSktHX4sP8O675OV0VTnS1q6dPBiQIRs_0zrFgtZ4e2PuHQvg-KSO3H82kN71hFDmkjO7338M" height="200" width="auto" /><br><br>Refurbished in 2011 by three Community Artists, David Fenton (leader), Neil Keen and Ryan Billings (son of Bill Billings who created the Mural in 1986), t with the support of the Thames Valley Probation Service, which provided Community Payback offenders, and volunteers from the local community and from Inland Waterways.]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/dFsW7ZfLi2ElZSlbLwmfxtWNx5CJZVA-roHsk6tskGTpxOORKLADi7FSktHX4sP8O675OV0VTnS1q6dPBiQIRs_0zrFgtZ4e2PuHQvg-KSO3H82kN71hFDmkjO7338M</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8039975,52.0633686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tree Carvings, Ian Freemantle (2014)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/NeAU1DMEULaIK1gudCqe9i5f67SP1h6ajioRiw5RtYly2y--ROrkyjcH8Bs8yLaASOL9P8IkK5leqrCQVrsCpbPGM-McZnPheOuFI9szc5K408MRPBKHvjlND-pIEbk" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/NeAU1DMEULaIK1gudCqe9i5f67SP1h6ajioRiw5RtYly2y--ROrkyjcH8Bs8yLaASOL9P8IkK5leqrCQVrsCpbPGM-McZnPheOuFI9szc5K408MRPBKHvjlND-pIEbk</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7199505,52.0882647,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Street Lighting &amp; Benches: Justin Neal (2001)</name>
+				<description><![CDATA[Newport Pagnell High Street improvement works was carried out between September and November 2001, and dealt with the section from Cannon Corner (junction with St John St) to Market Hill (junction with Queens Ave), including installation of the first batch of Justin Neal’s lamp-posts and benches. There were then 3 subsequent phases (Cannon Corner to North Sq, Cannon Corner to the Iron Bridge, and Market Hill to Station Rd) completed over the following several years. ]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<Point>
+					<coordinates>-0.7223457,52.0867155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Autumn Splendour: Melanie Watts (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/pl63NUeu2FVAl-MEcQDlxdZdohCB5Rxx81cGrTKMMpe9Er9EI1Y_VZJay3_qhlcGxIaTl1sDi_7d769w5_El6ryxlMznozdR65U3ShVYB4rhHEr5yLIWwgmBvvhC1ItN" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/pl63NUeu2FVAl-MEcQDlxdZdohCB5Rxx81cGrTKMMpe9Er9EI1Y_VZJay3_qhlcGxIaTl1sDi_7d769w5_El6ryxlMznozdR65U3ShVYB4rhHEr5yLIWwgmBvvhC1ItN</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7437444,52.0639688,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shire Horse: Andrew Kay (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/m8w9DViN8Gi9C5Mpbd-wqAKbAI1ZFxiWcfJuujPS0IiWEwBTONYuzerJZxDpvaQNdVIm6RjKOCp0RGHXczSZT1HSIGQYlpOvYmN-bxnnG5hS5aaAv9gkfPrzeCQc2k8t" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/m8w9DViN8Gi9C5Mpbd-wqAKbAI1ZFxiWcfJuujPS0IiWEwBTONYuzerJZxDpvaQNdVIm6RjKOCp0RGHXczSZT1HSIGQYlpOvYmN-bxnnG5hS5aaAv9gkfPrzeCQc2k8t</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7429719,52.0635335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Three Post Bench: Jeremy Turner (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/SAdoaFHCnK-AlQ0mhQ2PHcQLdpvljyvAloHSQnSjOSi5DlrTwfHpQEoWC3NpWFQX-CTcod2itvnVq9XlwuCPCQWgNROywLeP_FY9oPcZHlYPNbDnj9QS4ypDlILyKe95" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/SAdoaFHCnK-AlQ0mhQ2PHcQLdpvljyvAloHSQnSjOSi5DlrTwfHpQEoWC3NpWFQX-CTcod2itvnVq9XlwuCPCQWgNROywLeP_FY9oPcZHlYPNbDnj9QS4ypDlILyKe95</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7402682,52.0635203,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Local Birds &amp; Plants: Laura Boswell (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/sX8SvKAe95JCx74F7PdLh-j6b7JukOIhHuOuYefZHJMMv7xC00W9YS7f5aSwc3M4E-M5J4cGcHGV85b3Y7Mj4jsCYlH3kvqE2Y1qhXtsEJIzp80qUyl5F1-nIyY1GuI" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/sX8SvKAe95JCx74F7PdLh-j6b7JukOIhHuOuYefZHJMMv7xC00W9YS7f5aSwc3M4E-M5J4cGcHGV85b3Y7Mj4jsCYlH3kvqE2Y1qhXtsEJIzp80qUyl5F1-nIyY1GuI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7388949,52.0606971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dragonfly: Ptolemy Elrington (2016)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/q5RhcebtngA6AAvd1rPkxDOgOL_hPDoWelg4UDMMOH04FsPFQTs0pV6Rs7hBGcwRDpCi-v0LQq5wpDPjEFatEWNROlArZNnxoTUyOuau8Ztx2ldD7zJLHGGCMSf2Af1rSw" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/q5RhcebtngA6AAvd1rPkxDOgOL_hPDoWelg4UDMMOH04FsPFQTs0pV6Rs7hBGcwRDpCi-v0LQq5wpDPjEFatEWNROlArZNnxoTUyOuau8Ztx2ldD7zJLHGGCMSf2Af1rSw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7379937,52.0597604,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>What Lies Beneath: Rob Griffiths (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/qnm2EV8pkSahjocBKG8X0Aq8N3iXN1wGwFsfkbXl_ZhWmqrJ2OgM2F3ixpKZegSnRrQ3rI_aSp4fFA30zjWRnc2uupJMclvIhc7zWnkxcj-dy92ExqYEm3D_yHRcjm2v" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/qnm2EV8pkSahjocBKG8X0Aq8N3iXN1wGwFsfkbXl_ZhWmqrJ2OgM2F3ixpKZegSnRrQ3rI_aSp4fFA30zjWRnc2uupJMclvIhc7zWnkxcj-dy92ExqYEm3D_yHRcjm2v</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7363415,52.0587314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Insects &amp; Invertebrates: Linda Johns (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/5KpI27O1buqJkWSARumjAcU8ydwddLxgb4cyJedT5QSC2Or6g9ApBV6_ssaopN2l_3PaZSGl4sE0YQgncukOZkog9B1ERK6W89m03zde_NCnV2MXqEGCGD0f9HCNjsiS" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/5KpI27O1buqJkWSARumjAcU8ydwddLxgb4cyJedT5QSC2Or6g9ApBV6_ssaopN2l_3PaZSGl4sE0YQgncukOZkog9B1ERK6W89m03zde_NCnV2MXqEGCGD0f9HCNjsiS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7321143,52.0575307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Commemorative Plaque: Justin Tunley (2016)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/yIAE5Hip6ewO2E4LWwSc-_QPqqwv3Dgoms-6Z_1nCBGLZAyKLbE2_-AGbnol5E4tbFqp-iJQ_PUZTIWD_rrQDkgpuXGAGx1RgZI2QpJtU2wr_ZG2OpdGLsdAkJi7_Ylykg" height="200" width="auto" /><br><br>Part of the Gyosei Art Trail http://www.milton-keynes.gov.uk/assets/attach/39192/Gyosei%20Art%20Trail%20Booklet%20(7)%2032233.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/yIAE5Hip6ewO2E4LWwSc-_QPqqwv3Dgoms-6Z_1nCBGLZAyKLbE2_-AGbnol5E4tbFqp-iJQ_PUZTIWD_rrQDkgpuXGAGx1RgZI2QpJtU2wr_ZG2OpdGLsdAkJi7_Ylykg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7337022,52.0553405,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Christ the Shepherd and Flock: Martin Keeley (2014)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/smle5Uqa0-L0KcMO_8jH9XIRcHXQrogUo6qlv0AtSBTvTanCGnONqyh0ZhiOAjirEEPnfTL5eBaqmstrsTD92_Tzwva7ebj_BAlwSYXM4kZh_O5JXs0EAJBv63kZG6TJfg" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/39963/Olney%20sculpture%20and%20history%20walk.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/smle5Uqa0-L0KcMO_8jH9XIRcHXQrogUo6qlv0AtSBTvTanCGnONqyh0ZhiOAjirEEPnfTL5eBaqmstrsTD92_Tzwva7ebj_BAlwSYXM4kZh_O5JXs0EAJBv63kZG6TJfg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7007647,52.1553338,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pancake Runners: Martin Keeley (2014)</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/y33qgNuU3kQpJMmH83GhwHRIXU1ydYK9dKBq-V7FDTbuqg0yybwTCpxvWKsaYdRragTJV4kaugEG4rG7rvWamr8yNNH2WvdILadt4HzaWI06VzQueg0FehWnrqtPJ5qtuA" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/39963/Olney%20sculpture%20and%20history%20walk.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/y33qgNuU3kQpJMmH83GhwHRIXU1ydYK9dKBq-V7FDTbuqg0yybwTCpxvWKsaYdRragTJV4kaugEG4rG7rvWamr8yNNH2WvdILadt4HzaWI06VzQueg0FehWnrqtPJ5qtuA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7018188,52.1529805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cowper and his Hare: Martin Keeley (2013) </name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/nLM_8yyes9V_99u9KAgdm9zwEiLH4-KW3iP3bQS2W01hyqftP9_eO9k0oRVTEnubGy8Cr1j8QZa09ah5sO6aBxf_cokQt_Wu6SfeOjw0dxp5PyMfrMH_R-ZErnUzUaZJ" height="200" width="auto" /><br><br>http://www.milton-keynes.gov.uk/assets/attach/39963/Olney%20sculpture%20and%20history%20walk.pdf]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/nLM_8yyes9V_99u9KAgdm9zwEiLH4-KW3iP3bQS2W01hyqftP9_eO9k0oRVTEnubGy8Cr1j8QZa09ah5sO6aBxf_cokQt_Wu6SfeOjw0dxp5PyMfrMH_R-ZErnUzUaZJ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7018322,52.1528307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Triceratops: Bill Billings, 1979	</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/iRDxqNVw9I8cANKh1z_fuyS_D8IsS7VxGz_AklLXCeTs0FX3L-gMjbz2rZgd7hp2zenUUKEow_dNa4--HylDAxeAFNu46-TVAr61WG-rqkRbS1FnRGRVNqHUJVgQwAE-WA" height="200" width="auto" /><br><br>Painted concrete dinosaur with regular repainting programmes with MK Parks Trust]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/iRDxqNVw9I8cANKh1z_fuyS_D8IsS7VxGz_AklLXCeTs0FX3L-gMjbz2rZgd7hp2zenUUKEow_dNa4--HylDAxeAFNu46-TVAr61WG-rqkRbS1FnRGRVNqHUJVgQwAE-WA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.733068,52.029346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thoughts in a Banked Curve: Ekkehard Attenburger (2015)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/FtzMAkv8KOZxaAemHqb8lh5D5dv4k2_xh7lUTPZDql99s37yqo1F1Xet-gHyWtkccsrxv8VM5LMrXkJApvqkywRBJ7fyQJWtJ1G9CvH4bZE_LWIi_q9lBIMtAoQlLQ-X" height="200" width="auto" /><br><br>for Volkswagen FS in Milton Keynes and is commissiond by UK&European Investments]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/FtzMAkv8KOZxaAemHqb8lh5D5dv4k2_xh7lUTPZDql99s37yqo1F1Xet-gHyWtkccsrxv8VM5LMrXkJApvqkywRBJ7fyQJWtJ1G9CvH4bZE_LWIi_q9lBIMtAoQlLQ-X</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7270288,52.0660003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bandstand: Andrew Small (2016)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/ecbL2a4Q0jQkAU0cLypUhFzDaBr6ewB9MwO8dTX5FzdF2ZzCCgUXjbI4GoHQ3r3vWJNWD6DbKL1oh_2akI2rOGMAhDgs_adM4bpykOrlxI-_mgS_fejaIeH5cxvsWaXf" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/ecbL2a4Q0jQkAU0cLypUhFzDaBr6ewB9MwO8dTX5FzdF2ZzCCgUXjbI4GoHQ3r3vWJNWD6DbKL1oh_2akI2rOGMAhDgs_adM4bpykOrlxI-_mgS_fejaIeH5cxvsWaXf</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8203483,52.0585335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pass the Parcel: Walter Jack (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/nO2XCmRBr7voSDzAtEhWGcfvxPhLm7t0CUEmU3lA8rdsqWUkMAwoWhhYpkA6uXQeK1dcdvm6OIk1fPyNMkdl2dTvDb_osnA2EMVnd5o25RgJYc_CuKHGTJVpCrjyBmPKRw" height="200" width="auto" /><br><br>http://passtheparcel-mk.tumblr.com/ <br>The Pass the Parcel 'gift' left at Broughton Gate]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/nO2XCmRBr7voSDzAtEhWGcfvxPhLm7t0CUEmU3lA8rdsqWUkMAwoWhhYpkA6uXQeK1dcdvm6OIk1fPyNMkdl2dTvDb_osnA2EMVnd5o25RgJYc_CuKHGTJVpCrjyBmPKRw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6871819,52.0463544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wind Sculpture: Jim Bond (2016)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/x23u3oOvokbnp5UFxdmgwowCLz7W1kwayeN8VIApXlotXlI2imFkx_Hg_cA1QL4i2NGEEnlw5mFZ_Aep1qU15H8k7lCtTXmOC-Wia9E5uij1UNl4YC8v6gtvifVijD8J" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/x23u3oOvokbnp5UFxdmgwowCLz7W1kwayeN8VIApXlotXlI2imFkx_Hg_cA1QL4i2NGEEnlw5mFZ_Aep1qU15H8k7lCtTXmOC-Wia9E5uij1UNl4YC8v6gtvifVijD8J</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7511902,52.0279209,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pass the Parcel: Walter Jack (2017)</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/HqZ8PJZJ8MuZRmwYfps0NfZr57cuBihbDv1ow70ubNtnhJc1NTBDmEB_FHA9MisO8IdyddUwxhqhhOCkcPx9PjnsFNb5VU4sxRIGS-E3AEnG84XBCZ_NTEDsKFn0WxYqcw" height="200" width="auto" /><br><br>Coming Soon]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/HqZ8PJZJ8MuZRmwYfps0NfZr57cuBihbDv1ow70ubNtnhJc1NTBDmEB_FHA9MisO8IdyddUwxhqhhOCkcPx9PjnsFNb5VU4sxRIGS-E3AEnG84XBCZ_NTEDsKFn0WxYqcw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6844354,52.052728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Exbury Egg: Stephen Turner (2017)</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/WhrG29mqmJCW16DF_pDj2TVRz9TTTiFE5ClwsKwa0DNz49GExu-SM7ZLPaosLc_wN7Kf0E6eWFX6NRyTbTIIP00o7uYIVzXz8HQLjkh8au7oHpUi-BehJE_l-5hNCZO45Q" height="200" width="auto" /><br><br>Coming Soon]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/WhrG29mqmJCW16DF_pDj2TVRz9TTTiFE5ClwsKwa0DNz49GExu-SM7ZLPaosLc_wN7Kf0E6eWFX6NRyTbTIIP00o7uYIVzXz8HQLjkh8au7oHpUi-BehJE_l-5hNCZO45Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7775187,52.0740989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clare Bigger </name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/dsLt5YnrfDu_GVt6NSU6JhPvnWfdOZZsdUiOAlNmGo7Jn5v-KzTA5FAo15yvy77Sif52I4sSbRBCSkbYt7Z9BOPAZY4mgPxL0rU7QVB5pAgbh6qZRM-ezl9blZ3MEUVk" height="200" width="auto" /><br><br>Details of this piece are unknown]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/dsLt5YnrfDu_GVt6NSU6JhPvnWfdOZZsdUiOAlNmGo7Jn5v-KzTA5FAo15yvy77Sif52I4sSbRBCSkbYt7Z9BOPAZY4mgPxL0rU7QVB5pAgbh6qZRM-ezl9blZ3MEUVk</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7026368,52.0515239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>By the Steel Rails Iron Horse: Sara Myers (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/KCJbiOQXkOp-SOGsC6WkoKtqsYHaWIpnDQz51QJ4cvOZTdDU-SM1l5y7E8H8Uj4kOojj_vsFnB_4Fc_1uZsb83kaC4PP63hZG47kg9-q2J1D1fr0fC4yUUim3ztValwsww" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/KCJbiOQXkOp-SOGsC6WkoKtqsYHaWIpnDQz51QJ4cvOZTdDU-SM1l5y7E8H8Uj4kOojj_vsFnB_4Fc_1uZsb83kaC4PP63hZG47kg9-q2J1D1fr0fC4yUUim3ztValwsww</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8083749,52.0632762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wall Mural: Zoe Maslen (2016)</name>
+				<styleUrl>#icon-102-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.8507752,52.0554329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tsugumi Ota: Deucalion and Pyrrha’s Children 1 ,11, and 111’</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/haGp1z7bNRsbD-Pp05Tchr4i0Dkge1gRcUKC47B9_bEm4HN6UBCfvc7fGKK0Mt8G6-ya72HTbSbOtc3vkOuYjni_QW-YFAdbOv5BXrHg9pl3vCToAfjNgOfAJUJ7yXBF" height="200" width="auto" /><br><br>On loan to centre:mk from The Public Arts Trust, Milton Keynes http://publicartstrust.org]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/haGp1z7bNRsbD-Pp05Tchr4i0Dkge1gRcUKC47B9_bEm4HN6UBCfvc7fGKK0Mt8G6-ya72HTbSbOtc3vkOuYjni_QW-YFAdbOv5BXrHg9pl3vCToAfjNgOfAJUJ7yXBF</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7515764,52.0454569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ashbrook School Tree: Nick Packham (2016)</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/JSlSTw79UjBpCx5nFP8wNs8MpOb2ylK-XOaW2wNmbJC76f4wZfVUBTESVnFC10uAqLhfCZeS9-drYWxhpgSCwy8yqClU0tt845rdc486FmhEZ8ioMwXpVL_jbQ2J7KDH" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/JSlSTw79UjBpCx5nFP8wNs8MpOb2ylK-XOaW2wNmbJC76f4wZfVUBTESVnFC10uAqLhfCZeS9-drYWxhpgSCwy8yqClU0tt845rdc486FmhEZ8ioMwXpVL_jbQ2J7KDH</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8045212,52.0382448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Javelin Sundial</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/FXeeDDDJ3cQOlcEY8kfo7I_lNkn-lsZ0HzUdo5A7SS51VSVIeYBLKmo6Fx5RtgtAXHfrSWR289kvzSGh9abrtmY7g6mphSLU_7Y2kaXlsGLMF8KdB8GGJx-db78vMK1l" height="200" width="auto" /><br><br>]]></description>
+				<styleUrl>#icon-102</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/FXeeDDDJ3cQOlcEY8kfo7I_lNkn-lsZ0HzUdo5A7SS51VSVIeYBLKmo6Fx5RtgtAXHfrSWR289kvzSGh9abrtmY7g6mphSLU_7Y2kaXlsGLMF8KdB8GGJx-db78vMK1l</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7715213,52.0197413,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-102-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-102-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-102'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-102-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-102-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-102-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-102-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-102-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-102-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-102-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1199-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1199-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1199'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1199-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1199-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-D698AD-normal'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-D698AD-highlight'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-D698AD'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-D698AD-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-D698AD-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-EE9C96-normal'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-EE9C96-highlight'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-EE9C96'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-EE9C96-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-EE9C96-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-959-F4EB37-normal'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-959-F4EB37-highlight'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-959-F4EB37'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-959-F4EB37-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-959-F4EB37-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-959-F9F7A6-normal'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6-highlight'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-959-F9F7A6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-959-F9F7A6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-959-F9F7A6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
