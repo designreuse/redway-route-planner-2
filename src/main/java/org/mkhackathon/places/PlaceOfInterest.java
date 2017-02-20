@@ -1,5 +1,7 @@
 package org.mkhackathon.places;
 
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import org.mkhackathon.routing.Point;
 
 /**
@@ -11,7 +13,9 @@ public class PlaceOfInterest {
     private final String name;
     private final Point point;
 
-    public PlaceOfInterest(String name, Point point) {
+    @JsonCreator
+    public PlaceOfInterest(@JsonProperty("name") String name,
+                           @JsonProperty("point") Point point) {
         this.name = name;
         this.point = point;
     }
