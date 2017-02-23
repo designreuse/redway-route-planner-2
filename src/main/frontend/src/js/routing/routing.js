@@ -11,13 +11,16 @@
             markers: {}
         },
         route = {},
-        leafletMap;
+        leafletMap,
+        places = [],
+        showPlaces = true;
 
         angular.extend($scope, {
             search,
             locate,
             map,
-            route
+            route,
+            togglePlaces
         });
 
         function searchSuccess(response) {
@@ -41,7 +44,45 @@
         }
 
         function search(start, end) {
-            return routingBackend.search(start, end).then(searchSuccess);
+            return routingBackend.search(start, end)
+                .then(searchSuccess);
+        }
+
+        function togglePlaces() {
+            showPlaces = !showPlaces;
+            if (showPlaces) {
+                addPlacesOfInterest();
+            } else {
+                removePlacesOfInterest();
+            }
+        }
+
+        function getPlaces() {
+            return routingBackend.getPlaces();
+        }
+
+        function savePlaces(response) {
+            places = response.data;
+        }
+
+        function addPlacesOfInterest() {
+            places.forEach((place, i) => {
+                map.markers['place' + i] = {
+                    lat: place.point.lat,
+                    lng: place.point.lng,
+                    message: place.name,
+                    focus: true,
+                    icon: {
+                        iconUrl: "/images/arts_icon.png"
+                    }
+                }
+            });
+        }
+
+        function removePlacesOfInterest() {
+            places.forEach((place, i) => {
+                map.markers['place' + i] = {};
+            });
         }
 
         function assignMap(map) {
@@ -60,13 +101,11 @@
         }
 
         function setupLocationFoundEvent() {
-            leafletMap.on('locationfound', function (e) {
-                angular.extend($scope.map, {
-                    markers: {
-                        me: {
-                            lat: e.latlng.lat,
-                            lng: e.latlng.lng
-                        }
+            leafletMap.on('locationfound', function(e) {
+                angular.extend($scope.map.markers, {
+                    me: {
+                        lat: e.latlng.lat,
+                        lng: e.latlng.lng
                     }
                 });
             });
@@ -89,6 +128,10 @@
             .then(locate)
             .then(setupLocationFoundEvent)
             .then(setupMapDragEvent);
+
+        getPlaces()
+            .then(savePlaces)
+            .then(addPlacesOfInterest);
     }
 
     ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
