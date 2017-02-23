@@ -9,8 +9,13 @@
             });
         }
 
+        function getPlaces() {
+            return $http.get("/places");
+        }
+
         return {
-            search
+            search,
+            getPlaces
         };
     }
 
