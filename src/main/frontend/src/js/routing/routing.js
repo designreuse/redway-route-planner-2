@@ -66,8 +66,9 @@
         }
 
         function addPlacesOfInterest() {
+            const markers = map.markers;
             places.forEach((place, i) => {
-                map.markers['place' + i] = {
+                markers['place' + i] = {
                     lat: place.point.lat,
                     lng: place.point.lng,
                     message: place.name,
@@ -77,12 +78,16 @@
                     }
                 }
             });
+            angular.extend(map.markers, markers);
         }
 
         function removePlacesOfInterest() {
+            const markers = map.markers;
             places.forEach((place, i) => {
-                map.markers['place' + i] = {};
+                delete markers['place' + i];
             });
+            angular.extend(map.markers, markers);
+
         }
 
         function assignMap(map) {
