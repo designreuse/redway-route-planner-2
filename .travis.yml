@@ -16,3 +16,7 @@ script: mvn test -Pintegration-test
 
 after_script:
   - (cd src/main/docker && exec docker-compose down)
+  - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+  - mvn docker:build@graphhopper -Pdocker -DpushImageTag
+  - mvn docker:build@redways -Pdocker -DpushImageTag
+
