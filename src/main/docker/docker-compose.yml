@@ -1,7 +1,7 @@
 version: '2'
 services:
   redways:
-    image: "redways"
+    image: "mkhackathon/redways"
     hostname: redways
     links:
         - graphhopper:graphhopper
@@ -12,7 +12,7 @@ services:
      - 8443:8443
 
   graphhopper:
-    image: "graphhopper"
+    image: "mkhackathon/graphhopper"
     hostname: graphhopper
     ports:
       - 8989:8989
