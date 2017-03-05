@@ -8,7 +8,13 @@
             },
             paths: {},
             bounds: {},
-            markers: {}
+            markers: {},
+            tiles: {
+                url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                options: {
+                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }
+            }
         },
         route = {},
         leafletMap,
