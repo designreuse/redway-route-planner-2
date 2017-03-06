@@ -29,7 +29,7 @@ public class RoutingIT {
     @Test
     public void should_return_route() throws Exception {
         ResponseEntity<RoutingResponse> responseEntity =
-                restTemplate.postForEntity("http://localhost:8443/routing", RoutingRequest.builder()
+                restTemplate.postForEntity("http://localhost:8080/routing", RoutingRequest.builder()
                         .withStart(new Location("Wolverton"))
                         .withEnd(new Location("Walnut Tree"))
                         .build(), RoutingResponse.class);

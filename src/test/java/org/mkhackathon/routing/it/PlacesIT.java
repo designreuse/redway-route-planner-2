@@ -24,7 +24,7 @@ public class PlacesIT {
     @Test
     public void should_return_route() throws Exception {
         ResponseEntity<PlaceOfInterest[]> responseEntity =
-                restTemplate.getForEntity("http://localhost:8443/places", PlaceOfInterest[].class);
+                restTemplate.getForEntity("http://localhost:8080/places", PlaceOfInterest[].class);
 
         assertThat(responseEntity.getStatusCode(), equalTo(HttpStatus.OK));
 
