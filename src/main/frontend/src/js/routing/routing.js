@@ -1,8 +1,12 @@
 (function(angular) {
 
     function ctrl($scope, routingBackend, leafletData) {
-        let map = {
-            center: {},
+        let mk = {
+            lat: 52.0330629,
+            lng: -0.75908660,
+            zoom: 11
+        }, map = {
+            center: mk,
             defaults: {
                 scrollWheelZoom: false
             },
