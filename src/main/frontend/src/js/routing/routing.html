@@ -1,6 +1,6 @@
 <div class="routing">
     <destination-picker search="search"></destination-picker>
-    <leaflet id="map"
+    <leaflet ng-if="ready" id="map"
              center="map.center"
              markers="map.markers"
              defaults="map.defaults"

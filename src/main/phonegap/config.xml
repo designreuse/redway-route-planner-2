@@ -19,6 +19,10 @@
 
     <plugin name="org.apache.cordova.geolocation" />
 
+    <feature name="Geolocation">
+        <param name="ios-package" value="CDVLocation" />
+    </feature>
+
     <platform name="ios" />
     <platform name="android" />
 
