@@ -84,7 +84,7 @@
                     message: place.name,
                     focus: true,
                     icon: {
-                        iconUrl: "/images/arts_icon.png"
+                        iconUrl: "images/arts_icon.png"
                     }
                 }
             });
