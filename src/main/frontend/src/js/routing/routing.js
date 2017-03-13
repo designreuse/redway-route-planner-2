@@ -82,7 +82,7 @@
                     lat: place.point.lat,
                     lng: place.point.lng,
                     message: place.name,
-                    focus: true,
+                    focus: false,
                     icon: {
                         iconUrl: "/images/arts_icon.png"
                     }
