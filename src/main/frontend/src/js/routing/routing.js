@@ -126,31 +126,45 @@
             });
         }
 
-        function setupMapDragEvent() {
-            leafletMap.on("drag", function(e) {
-                leafletMap.stopLocate();
-                leafletMap.locate({
-                    setView: false,
-                    maxZoom: 16,
-                    enableHighAccuracy: true,
-                    watch: false
-                });
+        function stopLocate() {
+            leafletMap.stopLocate();
+            leafletMap.locate({
+                setView: false,
+                maxZoom: 16,
+                enableHighAccuracy: true,
+                watch: false
             });
         }
 
-        leafletData.getMap('map')
-            .then(assignMap)
-            .then(locate)
-            .then(setupLocationFoundEvent)
-            .then(setupMapDragEvent);
+        function setupMapDragEvent() {
+            leafletMap.on("drag", stopLocate);
+            leafletMap.on("zoomstart", stopLocate);
+        }
 
-        getPlaces()
-            .then(savePlaces)
-            .then(addPlacesOfInterest);
+        function init() {
+            $scope.ready = true;
+            leafletData.getMap('map')
+                .then(assignMap)
+                .then(locate)
+                .then(stopLocate)
+                .then(setupLocationFoundEvent)
+                .then(setupMapDragEvent);
+            getPlaces()
+                .then(savePlaces)
+                .then(addPlacesOfInterest);
+        }
+
+        // If we're running in PhoneGap/Cordova we need to wait for the
+        // native link to be ready.
+        if (window.cordova) {
+            document.addEventListener("deviceready", init, false);
+        } else {
+            init();
+        }
     }
 
-    ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
 
+    ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
     function routing() {
         return {
             restrict: "E",
