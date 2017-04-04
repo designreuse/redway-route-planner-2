@@ -22,7 +22,7 @@
             if (response.status === 404) {
                 route.error = response.data.message;
             } else {
-                route.error = "Sorry, an error occurred. Please find again."
+                route.error = "Oops, we couldn't find that place. Please try again."
             }
         }
 
