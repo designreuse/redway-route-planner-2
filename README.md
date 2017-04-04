@@ -9,7 +9,7 @@ To run the development environment:
 * ssh into the VM `vagrant ssh`
 * `cd /vagrant`
 * `/opt/maven/bin/mvn spring-boot:run`
-* Navigate to `https://localhost:8443`
+* Navigate to `https://localhost:8080`
 
 The routing is done using Graphhopper. The Graphhopper server is started automatically when the VM starts.
 

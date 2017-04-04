@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10"
+        version     = "1.0.0" >
+
+    <name>MK Redway Routing</name>
+
+    <description>
+
+    </description>
+
+    <author href="https://mkhackathon.org" email="developer@mkhackathon.org">
+        MK Hackathon
+    </author>
+
+    <access origin="*" />
+
+    <plugin name="org.apache.cordova.geolocation" />
+
+    <feature name="Geolocation">
+        <param name="ios-package" value="CDVLocation" />
+    </feature>
+
+    <platform name="ios" />
+    <platform name="android" />
+
+</widget>

@@ -14,9 +14,7 @@ import java.time.LocalDateTime;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import static org.mkhackathon.routing.SslUtil.turnOffSslChecking;
 
 public class RoutingIT {
@@ -31,7 +29,7 @@ public class RoutingIT {
     @Test
     public void should_return_route() throws Exception {
         ResponseEntity<RoutingResponse> responseEntity =
-                restTemplate.postForEntity("https://localhost:8443/routing", RoutingRequest.builder()
+                restTemplate.postForEntity("http://localhost:8080/routing", RoutingRequest.builder()
                         .withStart(new Location("Wolverton"))
                         .withEnd(new Location("Walnut Tree"))
                         .build(), RoutingResponse.class);

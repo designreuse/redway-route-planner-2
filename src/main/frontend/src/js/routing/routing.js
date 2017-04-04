@@ -1,23 +1,36 @@
 (function(angular) {
 
     function ctrl($scope, routingBackend, leafletData) {
-        let map = {
-            center: {},
+        let mk = {
+            lat: 52.0330629,
+            lng: -0.75908660,
+            zoom: 11
+        }, map = {
+            center: mk,
             defaults: {
                 scrollWheelZoom: false
             },
             paths: {},
             bounds: {},
-            markers: {}
+            markers: {},
+            tiles: {
+                url: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                options: {
+                    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                }
+            }
         },
         route = {},
-        leafletMap;
+        leafletMap,
+        places = [],
+        showPlaces = true;
 
         angular.extend($scope, {
             search,
             locate,
             map,
-            route
+            route,
+            togglePlaces
         });
 
         function searchSuccess(response) {
@@ -41,7 +54,50 @@
         }
 
         function search(start, end) {
-            return routingBackend.search(start, end).then(searchSuccess);
+            return routingBackend.search(start, end)
+                .then(searchSuccess);
+        }
+
+        function togglePlaces() {
+            showPlaces = !showPlaces;
+            if (showPlaces) {
+                addPlacesOfInterest();
+            } else {
+                removePlacesOfInterest();
+            }
+        }
+
+        function getPlaces() {
+            return routingBackend.getPlaces();
+        }
+
+        function savePlaces(response) {
+            places = response.data;
+        }
+
+        function addPlacesOfInterest() {
+            const markers = map.markers;
+            places.forEach((place, i) => {
+                markers['place' + i] = {
+                    lat: place.point.lat,
+                    lng: place.point.lng,
+                    message: place.name,
+                    focus: false,
+                    icon: {
+                        iconUrl: "images/arts_icon.png"
+                    }
+                }
+            });
+            angular.extend(map.markers, markers);
+        }
+
+        function removePlacesOfInterest() {
+            const markers = map.markers;
+            places.forEach((place, i) => {
+                delete markers['place' + i];
+            });
+            angular.extend(map.markers, markers);
+
         }
 
         function assignMap(map) {
@@ -60,39 +116,55 @@
         }
 
         function setupLocationFoundEvent() {
-            leafletMap.on('locationfound', function (e) {
-                angular.extend($scope.map, {
-                    markers: {
-                        me: {
-                            lat: e.latlng.lat,
-                            lng: e.latlng.lng
-                        }
+            leafletMap.on('locationfound', function(e) {
+                angular.extend($scope.map.markers, {
+                    me: {
+                        lat: e.latlng.lat,
+                        lng: e.latlng.lng
                     }
                 });
             });
         }
 
-        function setupMapDragEvent() {
-            leafletMap.on("drag", function(e) {
-                leafletMap.stopLocate();
-                leafletMap.locate({
-                    setView: false,
-                    maxZoom: 16,
-                    enableHighAccuracy: true,
-                    watch: false
-                });
+        function stopLocate() {
+            leafletMap.stopLocate();
+            leafletMap.locate({
+                setView: false,
+                maxZoom: 16,
+                enableHighAccuracy: true,
+                watch: false
             });
         }
 
-        leafletData.getMap('map')
-            .then(assignMap)
-            .then(locate)
-            .then(setupLocationFoundEvent)
-            .then(setupMapDragEvent);
+        function setupMapDragEvent() {
+            leafletMap.on("drag", stopLocate);
+            leafletMap.on("zoomstart", stopLocate);
+        }
+
+        function init() {
+            $scope.ready = true;
+            leafletData.getMap('map')
+                .then(assignMap)
+                .then(locate)
+                .then(stopLocate)
+                .then(setupLocationFoundEvent)
+                .then(setupMapDragEvent);
+            getPlaces()
+                .then(savePlaces)
+                .then(addPlacesOfInterest);
+        }
+
+        // If we're running in PhoneGap/Cordova we need to wait for the
+        // native link to be ready.
+        if (window.cordova) {
+            document.addEventListener("deviceready", init, false);
+        } else {
+            init();
+        }
     }
 
-    ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
 
+    ctrl.$inject = ["$scope", "routingBackend", "leafletData"];
     function routing() {
         return {
             restrict: "E",

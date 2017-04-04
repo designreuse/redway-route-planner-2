@@ -1,15 +1,16 @@
 <div class="routing">
     <destination-picker search="search"></destination-picker>
-    <leaflet id="map"
+    <leaflet ng-if="ready" id="map"
              center="map.center"
              markers="map.markers"
              defaults="map.defaults"
              paths="map.paths"
-             bounds="map.bounds"
+             bounds="map.bounds",
+             tiles="map.tiles"
              width="100%"
              height="100%">
     </leaflet>
     <img class="locator" ng-click="locate()" src="images/locate.svg" />
-    <img class="icons" ng-click="icons()" src="images/pins.svg" />
+    <img class="icons" ng-click="togglePlaces()" src="images/pins.svg" />
     <steps route="route"></steps>
 </div>
