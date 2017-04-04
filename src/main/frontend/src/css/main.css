@@ -106,7 +106,7 @@ form.route-input { margin-bottom: 0px; margin-left: 10px; }
 
 /* Responsive */
 @media (max-width: 600px) {
-  .input-box { margin: 20px 10%; min-width: 80%; max-width: 80%; }
+  .input-box { margin: 30px 14%; min-width: 78%; max-width: 78%; }
   button, .button { margin-top: 10px; }
   .view-steps-link, .start-link { display: block; height: 70px; }
 }
