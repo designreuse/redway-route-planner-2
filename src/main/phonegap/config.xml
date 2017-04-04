@@ -25,6 +25,7 @@
         <param name="ios-package" value="CDVLocation" />
     </feature>
 
+    <icon src="icon.png" />
     <platform name="ios" />
     <platform name="android" />
 
