@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.phonegap.example"
+        id          = "org.mkhackathon.redwayrouting"
         versionCode = "10"
         version     = "1.0.0" >
 
@@ -17,12 +17,17 @@
         MK Hackathon
     </author>
 
-    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <access origin="*" /> <!-- Required for iOS9 -->
+
+    <preference name="android-minSdkVersion" value="14" />
 
     <plugin name="org.apache.cordova.geolocation" />
 
     <feature name="Geolocation">
         <param name="ios-package" value="CDVLocation" />
+        <param name="android-package" value="org.apache.cordova.GeoBroker" />
     </feature>
 
     <icon src="icon.png" />
