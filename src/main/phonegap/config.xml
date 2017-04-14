@@ -17,6 +17,7 @@
         MK Hackathon
     </author>
 
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <allow-navigation href="*" />
     <allow-intent href="*" />
     <access origin="*" /> <!-- Required for iOS9 -->
