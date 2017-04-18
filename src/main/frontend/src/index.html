@@ -30,6 +30,34 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.ico">
 
+  <!-- Whitelisting
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <meta http-equiv="Content-Security-Policy" 
+         content="default-src *; 
+                  style-src 'self' 'unsafe-inline' 'unsafe-eval' 
+                  https://cdnjs.cloudflare.com 
+                  http://fonts.googleapis.com 
+                  https://unpkg.com
+                  http://unpkg.com
+                  https://mkhackathon.org
+                  http://mkhackathon.org
+                  ; 
+                  script-src 'self' 'unsafe-inline' 'unsafe-eval' 
+                  https://cdnjs.cloudflare.com 
+                  http://fonts.googleapis.com 
+                  https://unpkg.com
+                  http://unpkg.com
+                  https://mkhackathon.org
+                  http://mkhackathon.org
+                  ;">
+  <!-- <meta http-equiv="Content-Security-Policy" 
+         content="default-src *; 
+                  style-src 'self' 'unsafe-inline' 'unsafe-eval'; 
+                  script-src 'self' 'unsafe-inline' 'unsafe-eval';">
+  -->                  
+
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
   <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-leaflet-directive/0.10.0/angular-leaflet-directive.min.js"></script>
