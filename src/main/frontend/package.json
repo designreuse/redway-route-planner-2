@@ -35,8 +35,5 @@
     "npm-watch": "0.1.7",
     "rimraf": "2.5.4",
     "usemin-cli": "^0.5.1"
-  },
-  "dependencies": {
-    "angular": "1.6.4"
   }
 }
