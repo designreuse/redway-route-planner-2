@@ -1,7 +1,10 @@
 version: '2'
 services:
   redways:
+    image: "mkhackathon/redways:${VERSION}"
     ports:
      - 80:8080
+  graphhopper:
+    image: "mkhackathon/graphhopper:${VERSION}"
 
 

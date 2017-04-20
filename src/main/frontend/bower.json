@@ -1,0 +1,26 @@
+{
+  "name": "redway-route-planner",
+  "description": "",
+  "main": "src/index.html",
+  "authors": [
+    "Louis Houghton <louis@louishoughton.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mkhackathon/redway-route-planner-2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.4",
+    "leaflet": "0.7.x",
+    "angular-leaflet-directive": "0.10.0",
+    "jquery": "3.2.1",
+    "jquery-ui": "1.12.1",
+    "raleway": "1.0.1"
+  }
+}
