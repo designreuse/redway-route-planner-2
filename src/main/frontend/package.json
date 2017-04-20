@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install": "rimraf dist && npm run test && npm run build",
-    "build": "npm run static",
-    "build-dev": "npm run build && npm run copy-to-target",
+    "install": "rimraf ../resources/static && bower install && npm run test && npm run build",
+    "build": "npm run babel && npm run copy-lib && npm run compress",
+    "build-dev": "npm run babel && npm run compress && npm run copy-to-target",
     "copy-to-target": "cpx '../resources/static/**/*' ../../../target/classes/static",
     "test": "npm run lint",
     "lint": "eslint src/**/*.js",
-    "static": "cpx 'src/**/*' ../resources/static",
+    "copy-lib": "cpx 'src/bower_components/**/*' ../resources/static/bower_components",
+    "babel": "babel src --out-dir ../resources/static --copy-files --presets=es2015 --ignore src/bower_components",
+    "compress": "usemin ../resources/static/index.html --dest ../resources/static --output ../resources/static/index.html --rmlr true",
     "watch": "npm-watch"
   },
   "watch": {
@@ -25,9 +27,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "bower": "^1.8.0",
     "cpx": "1.5.0",
     "eslint": "3.14.1",
     "npm-watch": "0.1.7",
-    "rimraf": "2.5.4"
+    "rimraf": "2.5.4",
+    "usemin-cli": "^0.5.1"
+  },
+  "dependencies": {
+    "angular": "1.6.4"
   }
 }
