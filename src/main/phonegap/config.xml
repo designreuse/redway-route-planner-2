@@ -24,11 +24,13 @@
 
     <preference name="android-minSdkVersion" value="14" />
 
-    <plugin name="org.apache.cordova.geolocation" />
+    <!-- <plugin name="org.apache.cordova.geolocation" /> -->
+    <plugin name="cordova-plugin-geolocation" />
 
     <feature name="Geolocation">
         <param name="ios-package" value="CDVLocation" />
-        <param name="android-package" value="org.apache.cordova.GeoBroker" />
+        <!-- <param name="android-package" value="org.apache.cordova.GeoBroker" /> -->
+        <param name="android-package" value="cordova-plugin-geolocation.GeoBroker" />
     </feature>
 
     <icon src="icon.png" />
